@@ -1,0 +1,53 @@
+odoo_invoke_product_sync---
+title: Multivendor Marketplace Documentation
+description: Learn how to integrate your shopify store with webkul marketplace app shopify.
+date: 2025-02-06
+author: Webkul Team
+---
+
+## Introduction
+
+Multivendor Marketplace App for Shopify is here with a new theme now and it would be really exciting to learn about its functions for the Admin and the Seller.
+
+This guide will help you to understand the new theme and its functionalities.
+
+Multivendor Marketplace App is the ultimate tool to convert your store into a fully-functioning marketplace.
+
+Here, multiple sellers can register who can sell their products locally or globally and the admin can charge a commission on each seller’s earnings.
+
+Firstly, let’s see how to install the Multivendor App on the Shopify Store.
+
+## ✨ Features
+
+- Sellers can add “group buy” products.
+- Specify discount percentage, minimum member limit per group, and product validity.
+- Customers can create **private groups** and invite others.
+- Sellers can allow customers to create **public groups**.
+- Group buying reduces cart abandonment and boosts conversion rates.
+- It also increases the average order value.
+
+## 🛠 Admin Panel Configuration
+
+1. Admin needs to enable the *Easy Group Buy* feature in the **Feature Apps** section of the Multi-vendor Marketplace.
+2. Once enabled, sellers can manage their group buy settings via their seller panels.
+3. Customers will see the group buy option on applicable products.
+
+![Group Buy Interface](https://webkul.com/blog/wp-content/uploads/2024/02/group-buy-interface.jpg)
+
+## 📞 Need Help?
+
+Reach out to us if you face any issues or need customizations.
+
+👉 [Start your headless eCommerce now](https://webkul.com/headless-commerce-development-services/)
+
+![Group Buy Example](https://mobikul-sh.webkul.com/images/landing-page/banner-mockup.png)
+
+---
+
+For more details, check out the [documentation](https://webkul.com/blog/shopify-group-buy-app-documentaion/).
+
+
+[Go to API Reference](products/)
+testtttttttttttttttttttt
+
+## get-started
