@@ -1,6 +1,8 @@
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
+// import { searchPlugin } from '@vuepress/plugin-search'
+
 
 export default defineUserConfig({
   lang: 'en-US',
@@ -18,19 +20,36 @@ export default defineUserConfig({
         link: '/'
       },
       {
-        text: 'Product',
+        text: 'Configuration',
         collapsible: true,
         children: [
-          { text: 'Products', link: 'products/' },
-          { text: 'Configuration', link: 'products/configuration' }
+          { text: 'General configuration', link: 'configuration/general-configration' },
+          { text: 'Product configuration', link: 'configuration/product-configration' },
+          { text: 'Seller configuration', link: 'configuration/Seller-configuration' }
+          // Add more configuration if needed 
         ]
       },
       {
-        text: 'API',
+        text: 'Product',
         collapsible: true,
         children: [
-          { text: 'Introduction', link: '/introduction/requirements' },
-          { text: 'Advanced Usage', link: 'introduction/installation' }
+          //{ text: 'products', link: 'products/' },
+          { text: 'Digital products', link: 'products/Digital-products' },
+          { text: 'Import products', link: 'products/Import-products' },
+          { text: 'Add products', link: 'products/Add-products' },
+          { text: 'Collection sync', link: 'products/Collection-sync' }
+        ]
+      },
+      {
+        text: 'Payment Flow',
+        collapsible: true,
+        children: [
+          { text: 'Overview', link: 'payment/overview' },
+          { text: 'Stripe', link: 'payment/Stripe' },
+          { text: 'Stripe-configuration', link: 'payment/Stripe-configuration' },
+          { text: 'Paypal', link: 'payment/Paypal' },
+          { text: 'RazorPayX', link: 'payment/RazorPayX' }
+          // Add more payment-related links here if needed
         ]
       }
     ]
@@ -38,4 +57,9 @@ export default defineUserConfig({
     // navbar: ['/', '/get-started'],
   }),
   bundler: viteBundler(),
+  plugins: [
+    ['@vuepress/search', {
+      searchMaxSuggestions: 10
+    }]
+  ]
 })

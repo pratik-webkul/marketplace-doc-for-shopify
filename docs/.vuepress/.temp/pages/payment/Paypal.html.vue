@@ -1,0 +1,159 @@
+<template><div><p>Want to auto-pay your Sellers once they mark the order as delivered/fulfilled?<br>
+For this, configure <strong>PayPal Payout Payment</strong> in your <a href="http://localhost:8080/" target="_blank" rel="noopener noreferrer">Multivendor Marketplace for Shopify</a>.</p>
+<p><strong>Purpose of this feature</strong>:<br>
+This feature lets your sellers automatically receive their total earnings once they mark the order as delivered/fulfilled.</p>
+<p><strong>Note</strong>: Paypal Payout is now compatible with <strong>discounted orders</strong> which means auto-payment to sellers is possible for discounted orders.</p>
+<h3 id="how-to-configure-the-paypal-payout-feature" tabindex="-1"><a class="header-anchor" href="#how-to-configure-the-paypal-payout-feature"><span>How to configure the PayPal Payout feature?</span></a></h3>
+<p>To configure this feature, the Admin needs to follow the steps written below:</p>
+<ul>
+<li>Go to Multi vendor Marketplace <strong>Admin Panel</strong></li>
+<li>Click on the <strong>Payment</strong> menu &amp; select the <strong>Seller</strong> <strong>Payment Configuration</strong> from the drop-down menus</li>
+</ul>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/admindashboard-1200x595.webp" alt="dashboard"></p>
+<p>Note: Whenever you update the configuration, the previous orders will not remain eligible for payout anymore.</p>
+<p>For example, if we make changes to the PayPal details, only the upcoming orders will be eligible for payout and not the previous ones.</p>
+<ul>
+<li>From the Seller Payment Configuration section, mark the PayPal option enable and then open payment configuration.</li>
+</ul>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/paypal-1200x597.webp" alt="paypal"></p>
+<ul>
+<li>Now, the Paypal Payout configuration page is open then, Enable &quot;AutoPay to Seller&quot; option as shown below:</li>
+</ul>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/autopaytoseller-1200x596.webp" alt="configuration"></p>
+<ul>
+<li>After enabling this option, you need to enter the following details:</li>
+</ul>
+<p><strong>Pay After</strong>: Pay to the Sellers after the order is marked as <strong>delivered</strong> or <strong>Fulfilled</strong>.<br>
+<strong>PayPal Client ID</strong>: Enter your PayPal client ID<br>
+<strong>PayPal Secret Key</strong>: Enter your PayPal secret key</p>
+<ul>
+<li>Save Changes</li>
+</ul>
+<h3 id="how-to-get-paypal-client-id-and-secret-key" tabindex="-1"><a class="header-anchor" href="#how-to-get-paypal-client-id-and-secret-key"><span>How to get PayPal Client ID and Secret Key?</span></a></h3>
+<p>To get your Paypal Client ID &amp; Secret Key, you need to login to your PayPal Account by visiting the following link: <a href="https://developer.paypal.com/docs/api/overview/#api-requests" target="_blank" rel="noopener noreferrer">https://developer.paypal.com/docs/api/overview/#api-requests</a></p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Get-Started-PayPal-Developer.png" alt="Get Started PayPal Developer"></p>
+<p>After clicking on the <strong>Log into Dashboard</strong> menu, you need to enter your PayPal credentials:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Log-in-to-your-PayPal-account.png" alt="Log in to your PayPal account"></p>
+<p>Once you login to your PayPal account, you'll reach the dashboard.</p>
+<p>Furthermore, you need to go to <strong>My Apps &amp; Credentials</strong> and click on <strong>Create App</strong>:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Applications-PayPal-Developer.png" alt="Applications PayPal Developer"></p>
+<p>When you'll click on the <strong>Create App</strong> menu, you'll land on a page where you'll need to enter the <strong>A</strong>pp** Name** (you can provide any random name) &amp; enter your email ID in the <strong>Sandbox Account</strong> menu:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/12-6.png" alt="12"></p>
+<p>(The <strong>Sandbox Account</strong> email ID is for test purpose, you can input the email ID that you used to login to PayPal account or</p>
+<p>even create a new one by going to the same link: <strong>Dashboard</strong> &gt; <strong>Accounts</strong> &gt; <strong>Create Account</strong>.)</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Sandbox-accounts-PayPal-Developer.png" alt="Sandbox accounts PayPal Developer"></p>
+<p>After creating the app, you'll be redirected to a page where you'll get your <strong>PayPal Client ID</strong>,</p>
+<p>Click on the <strong>show</strong> menu to have your <strong>PayPal Secret Key</strong> &amp; make sure to check the <strong>Payouts</strong> in the <strong>App Feature Options</strong> as shown below:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/1-1-1.png" alt="1 (1)"></p>
+<p>Click on the <strong>show</strong> menu &amp; copy your <strong>PayPal secret key</strong> then paste it in the Multivendor Marketplace payment configuration:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Edit-Applications-PayPal-Developer.png" alt="Edit Applications PayPal Developer"></p>
+<p><strong>NOTE:</strong></p>
+<p>If you want the details for a <strong>live account</strong> then please change the PayPal environment to live and follow the same steps as mentioned above.</p>
+<h3 id="pay-after-refund-date" tabindex="-1"><a class="header-anchor" href="#pay-after-refund-date"><span>Pay After Refund date</span></a></h3>
+<p>There is one more scenario to the PayPal Payout configuration.</p>
+<p>Suppose the Admin has selected the PayPal Payout autopay method to pay his Sellers after order delivery or fulfillment.</p>
+<p>Then in case of order refunds the payment is already done to the Sellers which isn't supposed to be and hence this causes chaos in the whole process.</p>
+<p>Considering this, we have given an option in Multi-Vendor Marketplace Seller Payment Configuration which allows you to set particular days after which you want your Sellers to receive the payment.</p>
+<p>These days are basically the days in which your customers can refund the purchased items.</p>
+<p>Configure the following feature by navigating through: <strong>Multivendor Marketplace Admin Panel &gt; Payment &gt; Seller Payment Configuration</strong>.</p>
+<p>Refer to the images below:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/admindashboard-1-1200x595.webp" alt="admin"></p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/paymentsetting-1-1200x596.webp" alt="payment"></p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/enablecashable-1200x602.webp" alt="enalbe cashable"></p>
+<p>Here, the Admin needs to enter the days after which the payment will be done to his sellers for the order (order refund days)</p>
+<p>And select whether you want to calculate the provided span of time from delivery date, order fulfillment date or order creation date.</p>
+<p>Example: If you have selected delivery date &amp; mentioned refund days (pay after days) as 30 then after 30 days of the delivery date, the Sellers will receive the payment.</p>
+<p><strong>NOTE</strong>: Refund days should be greater than -1 otherwise it will not work.</p>
+<p>Lastly, enable the '<strong>Allow seller to enter refund days</strong>' if you want your sellers to add their individual refund days.</p>
+<p>Once enabled, the sellers will be able to set the refund days by visiting <strong>Marketplace Seller Panel &gt; Configuration &gt; General Configuration &gt; Enter the day &amp; save:</strong></p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/General-Configuration-Seller-•-Multivendor-MarketPlace-1200x597.png" alt="General-Configuration-Seller-•-Multivendor-MarketPlace"></p>
+<p><strong>Note:</strong> The sellers who have not entered any refund days will by default have the refund days set by the admin.</p>
+<p>If entered then the refund days should be greater than -1 otherwise it will not work.</p>
+<p>Only after enabling this option, the Admin will have the 'Pay after refund date' option in PayPal Payout Configuration:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/ahterrefunddate-1-1200x438.webp" alt="pay after refund date"></p>
+<p>Also, the Admin won't be able to choose the 'pay after' as delivery or fulfillment because now it will work as per configured in the 'Cashable Amount for Seller' option.</p>
+<h3 id="configuration-for-seller-s-panel" tabindex="-1"><a class="header-anchor" href="#configuration-for-seller-s-panel"><span>Configuration for Seller's Panel</span></a></h3>
+<p>To configure this feature, the Seller needs to follow the steps written below:</p>
+<ul>
+<li>Go to Multi vendor Marketplace <strong>Seller Panel</strong></li>
+<li>Hover over the <strong>Profile</strong> menu &amp; select the <strong>Payment Details</strong> from the drop-down menus</li>
+</ul>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Dashboard-Seller-•-Multivendor-MarketPlace.png" alt="Dashboard Seller • Multivendor MarketPlace"></p>
+<ul>
+<li>On this page, the Seller needs to select the <strong>payment method</strong> as PayPal &amp; needs to enter his <strong>PayPal Email</strong>.</li>
+</ul>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Payment-Details-Seller-•-Multivendor-MarketPlace.png" alt="Payment Details Seller • Multivendor MarketPlace"></p>
+<ul>
+<li>Click on <strong>save</strong>.</li>
+</ul>
+<p>This is all you'll need to do for configuring the PayPal Payout Payment.</p>
+<h3 id="workflow" tabindex="-1"><a class="header-anchor" href="#workflow"><span>Workflow</span></a></h3>
+<p>When an order gets placed, the total amount paid by the customer will go to the Admin's account.</p>
+<p>So, whenever the Seller changes the order status to delivered/fulfilled from his end then the Seller's total earning will be received by him excluding the Admin's commission.</p>
+<p><strong>Order Fulfillment Process</strong></p>
+<p>When the order is placed, the Seller will have the order in the Multivendor Marketplace <strong>Seller Panel</strong> &gt; <strong>Orders</strong> &gt; <strong>Order Listing</strong> &gt; <strong>View</strong>:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Order-Seller-•-Multivendor-MarketPlace.png" alt="Order Seller • Multivendor MarketPlace"></p>
+<p>Further, on the redirected page, the Seller needs to click on the <strong>Fulfill</strong> menu:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Order-Details-Seller-•-Multivendor-MarketPlace.png" alt="Order Details Seller • Multivendor MarketPlace"></p>
+<p>A pop-up will arrive, enter the required details &amp; click on <strong>fulfill</strong>:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Order-Details-Seller-•-Multivendor-MarketPlace-1.png" alt="Order Details Seller • Multivendor MarketPlace (1)"></p>
+<p>Now, the Seller will get auto-paid.</p>
+<p>But if auto-pay is set for 'delivered' case by the Admin then the Seller first needs to set the order status as delivered &amp; just after that he'll receive the payment.</p>
+<p>Order Delivering Process</p>
+<p>For this: <strong>Seller Panel</strong> &gt; <strong>Orders</strong> &gt; <strong>Order Listing</strong> &gt; <strong>View</strong></p>
+<p>In the Fulfillment Details section, click on the <strong>Enter Delivery Details</strong> button:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Order-Details-Seller-•-Multivendor-MarketPlace-2.png" alt="Order Details Seller • Multivendor MarketPlace"></p>
+<p>Mark the delivery status as delivered, enter the delivery date &amp; submit:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Order-Details-Seller-•-Multivendor-MarketPlace-1-1.png" alt="Order Details Seller • Multivendor MarketPlace (1)"></p>
+<h3 id="the-whole-auto-pay-process-at-a-glance" tabindex="-1"><a class="header-anchor" href="#the-whole-auto-pay-process-at-a-glance"><span>The whole auto-pay process at a glance!</span></a></h3>
+<p>Suppose, a customer placed an order and the Admin has set the PayPal Payout payment condition as 'fulfilled', i.e.,</p>
+<p>The Seller will auto-receive the payment once he set the order status as fulfilled. Considering this scenario, let's have a look:</p>
+<p>The Admin can view the orders in the Order Listing page of <strong>Admin panel</strong>:</p>
+<p>Admin Panel &gt; Orders &gt; Order listing:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Orders-Admin.png" alt="Orders Admin"></p>
+<p>Similarly, the Seller can view the orders in the Order Listing page of <strong>Seller Panel:</strong></p>
+<p>Seller Panel &gt; Orders &gt; Order Listing:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Order-Seller-•-Multivendor-MarketPlace-1.png" alt="Order Seller • Multivendor MarketPlace"></p>
+<p>Until the order is <strong>fulfilled</strong> by the Seller, the Seller Payment will remain due at Admin end.</p>
+<p>Admin end &gt; Payment &gt; Seller Payments:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Manage-Seller-Payment-Admin.png" alt="Manage Seller Payment Admin"></p>
+<p>Also, the Seller will not receive any payment information in the 'Payment Received' page at Seller end (Seller end &gt; Orders &gt; Payment Received).</p>
+<p>Once, the order is fulfilled by the Seller &amp; the order status changes from Unfulfilled to Fulfilled at both, Admin &amp; Seller end:</p>
+<p>Seller end &gt; Orders &gt; Order Listing:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Order-Seller-•-Multivendor-MarketPlace-1-1.png" alt="Order Seller • Multivendor MarketPlace (1)"></p>
+<p>Now, as soon as the order is fulfilled by the Seller, the total due amount at Admin end will become zero.</p>
+<p>And payment will be received by the Seller which can be viewed in the 'Payment Received' page at Seller end.</p>
+<p>Admin end &gt; Payment &gt; Seller Payments:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Manage-Seller-Payment-Admin-1.png" alt="Manage Seller Payment Admin (1)"></p>
+<p>Moreover, the Seller will receive the payment and this info can be viewed on the 'Payment Received' page of Seller panel:</p>
+<p>Seller end &gt; Orders &gt; Payment Received:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Payment-Receive-Seller-•-Multivendor-MarketPlace.png" alt="Payment Receive Seller • Multivendor MarketPlace"></p>
+<p>Note: PayPal Payout also works for batch payments &amp; orders with multiple seller products. In this case, the Seller earning will go to respective Seller accounts.</p>
+<h3 id="schedule-payout" tabindex="-1"><a class="header-anchor" href="#schedule-payout"><span>Schedule Payout.</span></a></h3>
+<p>We are here with a new feature for your Paypal Payouts i.e, “Schedule payout”. This feature enables you to schedule all your payouts to happen at a scheuled time i.e, Daily, Monthly Or Weekly.</p>
+<p>All eligible payouts will be triggered on your scheduled day, according to your PayPal payout settings, instead of being triggered instantly.</p>
+<p>For example, PayPal setup is to trigger the payment when the order is fulfilled, and you have scheduled the payouts weekly for Monday.</p>
+<p>Now, PayPal will pay out all the eligible payouts (fulfilled orders) to the sellers on Monday</p>
+<p>Let’s dive into the settings part:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/schedule-payout-settings-marketplace-shopify-1200x462.webp" alt="This image show the direction to enable the &quot;schedule payout&quot; setting in Multi-vendor Marketplace app for Shopify"></p>
+<p>Enable this to access this feature:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/enable-schedule-payout-marketplace-shopify-1200x432.webp" alt="This images show how to access the &quot;schedule payout&quot; feature in Multi-vendor marketplace app."></p>
+<p>Once you enable this you can select the Sum of all eligible payments.<br>
+NOTE: All the eligible orders will be paid out in one transaction on the scheduled day.</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/paypal-payout-schedule-settings-1200x517.webp" alt="This image shows settings required for &quot;schedule payout&quot; in paypal payout setting in Multi-vendor Marketplace app by Webkul."></p>
+<p>You can now schedule your payouts on these time frames as per your need:</p>
+<ul>
+<li>Daily</li>
+<li>Weekly</li>
+<li>Monthly</li>
+</ul>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/daily-weekly-yearly-paypal-payout-marketplace-shopify-1200x504.webp" alt="This image describe the daily, weekly and monthly payout settings in multi-vendor marketplace for Shopify."></p>
+<p>Now, when you use the 'schedule payout' feature, the system will trigger the sum of all eligible payouts in one transaction. Here's how you can see all the orders associated with a transaction:</p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/view-orders-paypal-payout-marketplace-shopify-1200x558.webp" alt="This image show how you can see all your orders associated with a payout transaction in Multi-vendor marketplace app for Shopify by Webkul."></p>
+<p><img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/all-orders-in-transaction-paypal-payout-marketplace-shopify-1200x549.webp" alt="This images shows all the orders that are associated with a paypal payout in multi-vendor Marketplace app for Shopify"></p>
+<p>This was all regarding the PayPal Payout Payment Method!</p>
+<h3 id="demo-details" tabindex="-1"><a class="header-anchor" href="#demo-details"><span>Demo Details</span></a></h3>
+<p>Furthermore, check out: <a href="https://paypal-payout.myshopify.com/pages/demo-details" target="_blank" rel="noopener noreferrer">https://paypal-payout.myshopify.com/pages/demo-details</a></p>
+</div></template>
+
+

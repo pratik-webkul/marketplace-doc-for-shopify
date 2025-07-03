@@ -1,4 +1,4 @@
-import comp from "/home/pratik/documentation/marketplace-doc-for-shopify/docs/.vuepress/.temp/pages/404.html.vue"
+import comp from "/home/pratik/documentation/marketplace-doc/docs/.vuepress/.temp/pages/404.html.vue"
 const data = JSON.parse("{\"path\":\"/404.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{\"layout\":\"NotFound\"},\"headers\":[],\"git\":{},\"filePathRelative\":null}")
 export { comp, data }
 
