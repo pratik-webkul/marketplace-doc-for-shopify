@@ -1,7 +1,7 @@
 ---
 title: Multivendor Marketplace Documentation
 description: Learn how to integrate your shopify store with webkul marketplace app shopify.
-date: 2025-02-06
+date: 2025-06-02
 author: Webkul Team
 ---
 
@@ -18,6 +18,8 @@ Firstly, let's see how to install the Multivendor App on the Shopify Store.
 ### Video Guide: App Installation
 
 You can go through the **Video Guide** to understand how you can install the Multivendor app on your Shopify Store.
+
+[Click Here to Watch The Video](https://youtu.be/oOS3SnIyaa0?si=EnCynXOoMg4xxZnX)
 
 ### Import configurations from other Shopify store
 
@@ -80,7 +82,7 @@ With this, you can manage the Configuration of the App.
 
 ![dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/dashborad-1200x603.webp)
 
-**Instruction for Marketplace**\-
+**Instruction for Marketplace**
 ---------------------------------
 
 ![Details Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Instructions-_-Admin.jpg)
@@ -91,7 +93,7 @@ From here, the admin can view all the instructions provided for the configuratio
 
 > In case you need help with adding the codes, feel free to connect via **support@webkul.com**
 
-**General Configuration-**
+**General Configuration**
 --------------------------
 
 This includes information that relate to the Admin account.
@@ -100,9 +102,9 @@ From here, the admin can enter the business email, set the currency for the shop
 
 ![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Configuration-_-Admin.jpg)
 
-To know about the **Configuration Updates**, Kindly refer: [https://webkul.com/blog/configuration-updates-multi-vendor-marketplace-for-shopify/](https://webkul.com/blog/configuration-updates-multi-vendor-marketplace-for-shopify/)
+To know about the **Configuration Updates**, Kindly refer: [Click Here](http://localhost:8080/configuration/general-configration.html)
 
-**Product Configuration-**
+**Product Configuration**
 --------------------------
 
 All the Product related configurations can be done from this menu.
@@ -111,9 +113,9 @@ Here, you can provide an option to add/edit/delete the products to your sellers,
 
 ![product configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/1-7.png)
 
-To know about the **Product Updates**, please refer: [https://webkul.com/blog/product-updates-multivendor-marketplace-for-shopify/](https://webkul.com/blog/product-updates-multivendor-marketplace-for-shopify/)
+To know about the **Product Updates**, please refer: [Click Here](http://localhost:8080/configuration/product-configration.html)
 
-**Seller Configuration-**
+**Seller Configuration**
 -------------------------
 
 All the Seller-related configuration can be done from this menu.
@@ -122,9 +124,9 @@ From here, you can allow your sellers to fulfill items, enable the option to aut
 
 [![ seller configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/seller-configuration-7.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/seller-configuration-7.png)
 
-To know about the **Seller Updates**, Kindly refer: [https://webkul.com/blog/seller-updates-multi-vendor-marketplace-for-shopify/](https://webkul.com/blog/seller-updates-multi-vendor-marketplace-for-shopify/)
+To know about the **Seller Updates**, Kindly refer: [Click Here/](http://localhost:8080/configuration/Seller-configuration.html)
 
-**Order Configuration**\-
+**Order Configuration**
 -------------------------
 
 All the configuration related to Orders can be done from here. You can make the "Order Shipping method" and "Order Tracking number" options mandatory.
@@ -135,7 +137,7 @@ Also, you can enable the "Order Prepare Status" option to track the order prepar
 
 To know more about the **Order-related Updates**, Kindly refer: [https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/)
 
-Seller **Payment Configuration-**
+Seller **Payment Configuration**
 ---------------------------------
 
 Admin will set up the Payment Methods for his sellers from here and the same payment methods will be available at the seller's end.
@@ -150,15 +152,16 @@ You can also set the "Shipping cost" and "Taxes" the way you want to distribute 
 
 ![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/four-7-1200x599.webp)
 
-Check the **Complete Payment Flow** of the Multi-vendor Marketplace App: [https://webkul.com/blog/shopify-multivendor-marketplace-app-payment-flow/](https://webkul.com/blog/shopify-multivendor-marketplace-app-payment-flow/)
+Check the **Complete Payment Flow** of the Multi-vendor Marketplace App: [Click Here](http://localhost:8080/payment/overview.html)
 
-### Restriction Configuration
+**Restriction Configuration**
+---------------------------
 
 Also, you can restrict the Product Category, Total Order Commission & Total Order Amount to be displayed on the dashboard.
 
 [![Restriction configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/4-6.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/restriction-10.png)
 
-**Custom Fields-**
+**Custom Fields**
 ------------------
 
 From here, the Admin can view all the custom fields added for sellers/products and can add a new custom field.
@@ -171,9 +174,10 @@ Know how to add custom fields in the app: [https://webkul.com/blog/add-custom-fi
 
 This was all about the App Configuration.
 
-### Sellers
+Sellers 
+------------------
 
-### **Sellers:** 
+ **Sellers:** 
 
 All the information related to the Sellers can be managed from this menu. It has the following submenus :
 
@@ -181,28 +185,30 @@ All the information related to the Sellers can be managed from this menu. It has
 
 You can check the **Video Guide** to know how the admin can add sellers on the marketplace.
 
-**Seller Listing:**
+[Click Here To Watch The Video](https://youtu.be/EmAsqsXqoYA?si=3aC84Urpc7QP69nS)
+
+**Seller Listing**
 -------------------
 
 This will list all the Sellers that are registered with the Multivendor App. Admin can export the Seller Details. Admin can edit/disable the seller and can also add a new seller from this menu.
 
 ![Adding Sellers Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/a.png)
 
-**Seller Form Settings-**
+**Seller Form Settings**
 -------------------------
 
 Admin can manage the fields to be shown to the seller at the time of registration from here:
 
 [![Sellers Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Seller-Form-Setting-13.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Seller-Form-Setting-13.png)
 
-**Shop Page Settings -**
+**Shop Page Settings**
 ------------------------
 
 Admin can manage the labels for the sold by the link on a product page and also all the labels for the Seller Profile page :
 
 [![Shop Page settings Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Shop-Page-Settings-14.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Shop-Page-Settings-14.png)
 
-**Seller Profile Page Settings -**
+**Seller Profile Page Settings**
 ----------------------------------
 
 Admin can manage all the fields that are to be shown on the Seller Profile Page. Custom CSS can also be written to change the view of the Seller Profile Page at the Shopify end.
@@ -219,14 +225,14 @@ From here, admin can manage the Seller Login Page fields, labels, logo and can a
 
 > **Custom CSS** for seller dashboard option is now **available** in **all the three plans** (Basic, Executive, Pro) of the Multi-vendor Marketplace App.
 
-**Feedback -**
+**Feedback**
 --------------
 
 Here the admin can view the list of all the feedback's given by the customer from the Seller Profile Page and the same are managed from here :
 
 [![Feedback Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Feedback-seller-17-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Feedback-seller-17-1.png)
 
-**Seller Policy:**
+**Seller Policy**
 ------------------
 
 From this menu, the Admin can customize the Seller Policy if & only if, he has selected the seller policy to be 'Advance Seller Policy' from the 'Seller Configuration' section.
@@ -237,8 +243,8 @@ Know more about the **advanced seller policy**: [https://webkul.com/blog/shopify
 
 This was all about the Sellers part of the Admin end.
 
-### Products
-
+ **Products**
+---------------
 Admin can manage all the Products from this menu. You can add Product Tags, Product Types, Collections from this section.
 
 Also, you can import your Shopify Store products into the app and assign products to sellers. You can customize the product's form from this section of the app.
@@ -249,19 +255,21 @@ Screenshot lists the submenu:
 
 [![Product listing Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Product-Admin-19.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Product-Admin-19.png)
 
-**Video Guide:**
-----------------
+### Video Guide:Products
+
 
 Admin Adding Products Here is the **Video Guide** to know how the admin adds products on his end.
 
-**Product Listing:** 
+[Click Here To Watch The Video](https://youtu.be/FRBkcFDXHnc?si=aeur2eYoDvTwCeC5)
+
+**Product Listing** 
 ---------------------
 
 Admin can view the list of all the Products added by the Sellers and can manage them easily. He can export product details, add products by CSV, edit products in bulk and much more.
 
 [![Add Product Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Product-List-admin-end-20.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Product-List-admin-end-20.png)
 
-**Product Tags:**
+**Product Tags**
 -----------------
 
 Admin can add the product tags from here and for this admin firstly needs to enable "restrict the product tags" button from the app under the "restriction configuration" menu.
@@ -284,7 +292,7 @@ Please note:- The tags which are created by admin from the Shopify store cannot 
 
 Admin needs to create new product tags from this section as shown in the above screenshots.
 
-**Product Types -**
+**Product Types**
 -------------------
 
 Admin can add product types from here and for this admin needs to enable "restrict the product type" section from the app under the "restriction configuration" menu.
@@ -299,7 +307,7 @@ By this seller cannot be able to add any new Product types while creating the pr
 
 ![Edit Product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/h.png)
 
-**Collections -** 
+**Collections** 
 ------------------
 
 You can have the collections sync from the Shopify store to the multivendor app. To do so, you need to enable, "restrict collections" from the configuration :
@@ -320,7 +328,7 @@ To know more about **Collection Sync**, Please refer: [https://webkul.com/blog/s
 
 If you want the seller to view the smart collections then you can disable the "restrict smart collection" from the "Restrict Configuration"
 
-**Import  Products -** If you have products added to the Shopify Store and now you want to assign them to the sellers, then you can use this option to import products into the app.
+**Import  Products** If you have products added to the Shopify Store and now you want to assign them to the sellers, then you can use this option to import products into the app.
 
 Firstly admin needs to click on "import products" section to import the products from Shopify store into a multivendor marketplace
 
@@ -336,23 +344,23 @@ This way you can successfully import the products from your Shopify store into a
 
 **Import Products from Shopify to the App** know more: [https://webkul.uvdesk.com/da/blog/import-products-in-shopify-multivendor-marketplace](https://webkul.uvdesk.com/da/blog/import-products-in-shopify-multivendor-marketplace)
 
-**Product Form Customization -** With this Admin can manage the "Add Product Form" for normal as well as digital products in the app.
+**Product Form Customization** With this Admin can manage the "Add Product Form" for normal as well as digital products in the app.
 
 ![Product Form Customization Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/d.png)
 
-**Batch CSVs-** This section will have the list of all the CSVs you have upload on your store till now. They can be the product, seller or any other CSV file.*   It can be approved/disapproved & deleted by the Admin.
+**Batch CSVs** This section will have the list of all the CSVs you have upload on your store till now. They can be the product, seller or any other CSV file.*   It can be approved/disapproved & deleted by the Admin.
 
 ![Batch CSVs Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Batch-CSVs-Admin.png)
 
 This way you can manage the "Product" menu in the App.
 
-### Orders
-
+**Orders**
+-------------
 Admin can see the orders from here, manage the invoice and can send the Reminder to the sellers for order fulfillment.
 
 [![Order Listing Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Orders-Admin-31.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Orders-Admin-31.png)
 
-**Order listing -** 
+**Order listing** 
 --------------------
 
 All the orders are listed and admin can send fulfill reminders to the sellers.
@@ -364,7 +372,9 @@ Admin can export order details in the CSV file from the Multi-vendor app.
 
 You can go through the **Video Guide** to know the complete order process on the admin side.
 
-**RMA Configuration -**
+[Click Here to watch the video](https://youtu.be/F8HdGwXsejw?si=DCZX6Lv6FlU_kAKM)
+
+**RMA Configuration**
 -----------------------
 
 Admin can manage the status used in Return request initiation for the seller products.
@@ -381,14 +391,14 @@ Once you click on the Raise RMA Request button, a new window will open, where yo
 
 ![unnamed-file](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/unnamed-file-1200x513.png)
 
-**Invoice Configuration -**
+**Invoice Configuration**
 ---------------------------
 
 Admin can configure the details of the invoice sent to the sellers from here. Also, allow the sellers to generate & print invoice once generated by the admin.
 
 ![Invoice Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/15084826/AwesomeScreenshot-Edit-Invoice-Configuration-Admin-2019-07-15-10-07-39.png)
 
-**Invoice template -** 
+**Invoice template** 
 -----------------------
 
 Admin can manage and edit the content of the invoice sent from **"Admin to seller"**, the invoice sent from **"seller to the customer"** and also **"seller bulk invoice"**.
@@ -415,13 +425,13 @@ From this section of the app, admin can set global commission, seller-wise commi
 
 The menu consists of :
 
-**Commission Listing:** The menu will list all commissions earned by the Admin for each order.*   **Global Commission Settings:** Admin can set commission for all Sellers and for all the Products applied to all Collections.
+**Commission Listing** The menu will list all commissions earned by the Admin for each order.*   **Global Commission Settings:** Admin can set commission for all Sellers and for all the Products applied to all Collections.
 
 [![Global Commission Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Global-Commission-Admin-36.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Global-Commission-Admin-36.png)
 
 Admin can specify the type of the commission and then specify the amount for the same.
 
-**Seller Commission Settings:** 
+**Seller Commission Settings** 
 --------------------------------
 
 Admin can also set  Commission for each seller from this menu.
@@ -434,7 +444,7 @@ This is how the Admin can set up a commission for each seller.
 
 Please note that in case there is no seller commission then the global commission will be applicable to the seller.
 
-**Collection Commission Settings:** 
+**Collection Commission Settings** 
 ------------------------------------
 
 Admin can also have a commission based on the Collections. See how :
@@ -451,7 +461,9 @@ You can also refer to the user manual of the commission to know about commission
 
 ### Video Guide: Commissions
 
-Here is the **video guide** to know how to set commissions in a much better way.
+Here is the **video guide** to know how to set commissions in a much better way. 
+
+[Click Here To Know More About Commission](https://youtu.be/TjXDS7dG3jA?si=yueFblkV5lCmrmv6)
 
 ### Payments
 
@@ -461,7 +473,7 @@ Four sub-menu :
 
 ![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/payment-1-1200x600.webp)
 
-**Seller Payments:**
+**Seller Payments**
 --------------------
 
 Admin can view all the Payment information ie. amount received (commission), seller earnings, the amount due to the seller.
@@ -480,7 +492,7 @@ This way the seller is paid.
 
 Also, we have provided an option "manual", so that in case you have paid the seller from other modes of payment, then you can just keep a record of the same in the app.
 
-**Seller Payment Method:**
+**Seller Payment Method**
 --------------------------
 
 This will list the payment methods selected by the Sellers.
@@ -524,7 +536,7 @@ Refer to the [user guide](https://webkul.com/blog/shopify-multivendor-marketplac
 
 To know More, Please refer: [https://webkul.com/blog/shopify-multivendor-marketplace-app-smtp-configuration/](https://webkul.com/blog/shopify-multivendor-marketplace-app-smtp-configuration/)
 
-**Mail Counter:** 
+**Mail Counter** 
 ------------------
 
 This section will display you the mail details as shown in the image below:
@@ -545,15 +557,3 @@ Now, translating labels are easier with the help of CSV. Export label CSV of the
 
 ![Import/Export Labels Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/5-7.png)
 
-We will update more on this, so check for updates.
---------------------------------------------------
-
-### Support
-
-**Furthermore, if you have any questions/issue then please raise a ticket at [http://webkul.uvdesk.com/](http://webkul.uvdesk.com/) or drop a mail at support@webkul.com**
-
-### Demo Details
-
-Moreover, You can follow the below link to use the demo of Multi vendor Marketplace app:
-
-[https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
