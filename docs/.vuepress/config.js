@@ -155,7 +155,7 @@ export default defineUserConfig({
           text: 'Introduction',
           collapsible: true,
           children: [
-            { text: 'Getting Started', link: '/zenith/Introduction' },                     
+            { text: 'Getting Started', link: '/zenith/Introduction/' },                     
             { text: 'Overview', link: '/zenith/Introduction/Overview' }                  
           ]
         },
