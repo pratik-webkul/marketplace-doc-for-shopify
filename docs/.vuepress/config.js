@@ -9,8 +9,8 @@ export default defineUserConfig({
   lang: 'en-US',
   title: '',
   description: 'Multi-Vendor Marketplace for Shopify',
+  base: '/marketplace-doc-for-shopify/',
   head: [['link', { rel: 'stylesheet', href: '/styles/index.css' }]],
-
 
   theme: defaultTheme({
     logo: 'image/mp-black.svg',
