@@ -3,3 +3,4 @@ git-local/*
 node_modules/*
 docs/.vuepress/.cache/*
 docs/.vuepress/.temp/
+deploy.sh
