@@ -8,7 +8,7 @@ If you are looking to build a marketplace with no restriction of shop type thenÂ
 
 Selling physical as well as digital products on this Multi-Vendor Marketplace is really flexible & easy.
 
-So, in this blog, we'll see how to add digital products on the [Multivendor Marketplace for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/).
+So, in this blog, we'll see how to add digital products on the [Multivendor Marketplace for Shopify](http://localhost:8080/).
 
 **Note**: In case the customers are paying for the digital product order via PayPal then the order will be fulfilled automatically.
 

@@ -27,7 +27,7 @@ Go to the Product Listing & get the option to **Add Products**. All the added pr
 ![Add products](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-4-1200x597.png)
 
 *   Clicking the Add Product button, product form appears. Now, enter the details in the given fields of the product form.
-*   Choose products that you want to sell i.e. **Normal** (Physical) or [Digital](https://webkul.com/blog/sell-digital-products-on-your-multivendor-marketplace/) product.
+*   Choose products that you want to sell i.e. **Normal** (Physical) or [Digital](http://localhost:8080/products/Digital-products.html) product.
 *   Enter seller **email** ID i.e. the seller to whom you want to assign the product.
 *   Write an appropriate **title** of the product.
 *   Enter product **type**, **description**, product **tags**, [policies](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-product-policy/).
@@ -157,7 +157,8 @@ This way, you can edit the products
 
 ### Video Guide to Add Products within the App
 
-https://www.youtube.com/watch?v=FRBkcFDXHnc
+[Watch on YouTube](https://www.youtube.com/watch?v=FRBkcFDXHnc)
+
 
 ### Add Products in Bulk via CSV
 
@@ -222,4 +223,4 @@ Proceed to the **Products** section and select the variant that you wish to add 
 
 ### Video Guide to Add Products via CSV
 
-https://www.youtube.com/watch?v=kzct74e3dL4
+[Watch the Video](https://www.youtube.com/watch?v=kzct74e3dL4)

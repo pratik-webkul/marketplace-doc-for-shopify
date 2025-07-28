@@ -137,7 +137,7 @@ Also, you can enable the "Order Prepare Status" option to track the order prepar
 
 To know more about the **Order-related Updates**, Kindly refer: [https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/)
 
-Seller **Payment Configuration**
+ **Seller Payment Configuration**
 ---------------------------------
 
 Admin will set up the Payment Methods for his sellers from here and the same payment methods will be available at the seller's end.
