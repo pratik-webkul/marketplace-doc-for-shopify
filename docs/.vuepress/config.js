@@ -12,7 +12,6 @@ export default defineUserConfig({
   base: '/marketplace-doc-for-shopify/',
   head: [['link', { rel: 'stylesheet', href: '/styles/index.css' }]],
 
-
   theme: defaultTheme({
     logo: 'image/mp-black.svg',
     navbar: [
