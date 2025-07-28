@@ -257,18 +257,18 @@ export default defineUserConfig({
               text: 'Connector',
               collapsible: true,
               children: [
-                { text: 'SELLER SHOPIFY STORE CONNECTOR', link: '/classic/Featured-App/Connector/SELLER SHOPIFY STORE CONNECTOR' },
-                { text: 'WOOCOMMERCE CONNECTOR', link: '/classic/Featured-App/Connector/WOOCOMMERCE CONNECTOR' },
-                { text: 'SHOPIFY ETSY CONNECTOR', link: '/classic/Featured-App/Connector/SHOPIFY ETSY CONNECTOR' },
-                { text: 'SHOPIFY MAGENTO CONNECTOR', link: '/classic/Featured-App/Connector/SHOPIFY MAGENTO CONNECTOR' },
-                { text: 'SHOPIFY PRESTASHOP CONNECTOR', link: '/classic/Featured-App/Connector/SHOPIFY PRESTASHOP CONNECTOR' },
-                { text: 'SQUAREUP CONNECTOR', link: '/classic/Featured-App/Connector/SQUAREUP CONNECTOR' },
-                { text: 'LINNWORKS CONNECTOR', link: '/classic/Featured-App/Connector/LINNWORKS CONNECTOR' },
-                { text: 'SOOPOS CONNECTOR', link: '/classic/Featured-App/Connector/SOOPOS CONNECTOR' },
-                { text: 'BIGCOMMERCE CONNECTOR', link: '/classic/Featured-App/Connector/BIGCOMMERCE CONNECTOR' },
-                { text: 'AMAZON CONNECTOR', link: '/classic/Featured-App/Connector/AMAZON CONNECTOR' },
-                { text: 'SHOPIFY EBAY CONNECTOR', link: '/classic/Featured-App/Connector/SHOPIFY EBAY CONNECTOR' },
-                { text: 'DYTEL POS CONNECTOR', link: '/classic/Featured-App/Connector/DYTEL POS CONNECTOR' }       
+                { text: 'SELLER SHOPIFY STORE CONNECTOR', link: '/zenith/Featured-App/Connector/SELLER SHOPIFY STORE CONNECTOR' },
+                { text: 'WOOCOMMERCE CONNECTOR', link: '/zenith/Featured-App/Connector/WOOCOMMERCE CONNECTOR' },
+                { text: 'SHOPIFY ETSY CONNECTOR', link: '/zenith/Featured-App/Connector/SHOPIFY ETSY CONNECTOR' },
+                { text: 'SHOPIFY MAGENTO CONNECTOR', link: '/zenith/Featured-App/Connector/SHOPIFY MAGENTO CONNECTOR' },
+                { text: 'SHOPIFY PRESTASHOP CONNECTOR', link: '/zenith/Featured-App/Connector/SHOPIFY PRESTASHOP CONNECTOR' },
+                { text: 'SQUAREUP CONNECTOR', link: '/zenith/Featured-App/Connector/SQUAREUP CONNECTOR' },
+                { text: 'LINNWORKS CONNECTOR', link: '/zenith/Featured-App/Connector/LINNWORKS CONNECTOR' },
+                { text: 'SOOPOS CONNECTOR', link: '/zenith/Featured-App/Connector/SOOPOS CONNECTOR' },
+                { text: 'BIGCOMMERCE CONNECTOR', link: '/zenith/Featured-App/Connector/BIGCOMMERCE CONNECTOR' },
+                { text: 'AMAZON CONNECTOR', link: '/zenith/Featured-App/Connector/AMAZON CONNECTOR' },
+                { text: 'SHOPIFY EBAY CONNECTOR', link: '/zenith/Featured-App/Connector/SHOPIFY EBAY CONNECTOR' },
+                { text: 'DYTEL POS CONNECTOR', link: '/zenith/Featured-App/Connector/DYTEL POS CONNECTOR' }       
               ]
             }
           ]
