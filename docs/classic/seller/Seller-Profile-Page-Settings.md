@@ -5,7 +5,7 @@ date: 2025-07-10
 author: Chirag Tyagi
 ---
 
-We have updated the [Multivendor Marketplace app](http://localhost:8080/Introduction/Overview.html) for Shopify and is now available with a new feature of Seller Profile Page.
+We have updated the [Multivendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify and is now available with a new feature of Seller Profile Page.
 
 Each seller will have their respective seller profile page on the admin's Marketplace where all the products of that seller will be displayed itself.
 

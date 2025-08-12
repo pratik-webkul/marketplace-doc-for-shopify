@@ -1,4 +1,4 @@
-**Commission Types**:-  In [Multivendor Marketplace app for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) commission is the admin/merchant share from the seller/vendor's total earnings.
+**Commission Types**:-  In [Multivendor Marketplace app for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/) commission is the admin/merchant share from the seller/vendor's total earnings.
 
 Admin can charge any commission(Like Global, seller commission, etc.) in the following 4 ways:-
 

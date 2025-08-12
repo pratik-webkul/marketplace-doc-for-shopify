@@ -10,7 +10,7 @@ From here, you can allow your sellers to fulfill items, enable the option to aut
 
 [![ seller configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/seller-configuration-7.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/seller-configuration-7.png)
 
-This Guide is dedicated to letting you aware of all the new Seller menu of the [Multi-Vendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify. 
+This Guide is dedicated to letting you aware of all the new Seller menu of the [Multi-Vendor Marketplace App](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify. 
 
 Please keep following and tracking the **Seller Updates** to know about all the updates in the app.
 
@@ -75,7 +75,7 @@ You can check the variables here:-
 ![Screenshot-2020-09-17T182325.932](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Screenshot-2020-09-17T182325.932-1200x494.png)
 
 **Note**:- The seller profile page theme code is editable only in Theme 1 & Theme 4.  
-[**Know More**](https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/)
+[**Know More**](https://marketplace-doc.webkul.com/classic/seller/Seller-Profile-Page-Settings)
 
 ### PUBLISH/UNPUBLISH SELLER PROFILE PAGE
 
@@ -134,7 +134,7 @@ Go to the **Seller Listing** section and check the same.
 
 Now, the Seller profile page on the front end will have the banner for his shop. Both admin and seller can upload the banner from their respective panels.
 
-**[Click here](https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/)** for a detailed blog on the new seller profile page.
+**[Click here](https://marketplace-doc.webkul.com/classic/seller/Seller-Profile-Page-Settings)** for a detailed blog on the new seller profile page.
 
 You can upload a default banner for the sellers to be displayed on the "Seller Profile Page Settings" section of the app.
 
@@ -359,5 +359,3 @@ After syncing, the admin can view seller data by navigating to:
 **Shopify dashboard>>Content>>Metaobject>>Seller**
 
 ![Seller data](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sellerdata2-1200x569.webp)
-
-**Furthermore, if you have any questions/issue, then please raise a ticket at [http://webkul.uvdesk.com/](http://webkul.uvdesk.com/) or drop a mail at support@webkul.com**

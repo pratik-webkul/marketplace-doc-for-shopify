@@ -9,19 +9,37 @@ export default defineUserConfig({
   lang: 'en-US',
   title: '',
   description: 'Multi-Vendor Marketplace for Shopify',
+  // base: '/marketplace-doc-for-shopify/',
+  // head: [['link', { rel: 'stylesheet', href: '/styles/index.css' }]],
   base: '/',
-  head: [['link', { rel: 'stylesheet', href: '/styles/index.css' }]],
+  head: [['link', { rel: 'stylesheet', href: '/styles/index.css' }],
+  ['script', { src: '/js/test.js' }],
+  // ['script', { src: '/js/toggle-sidebar.js' }],
+  
+  ['meta', { name: 'title', content: 'Multi-Vendor Marketplace for Shopify' }],
+  ['meta', { name: 'description', content: 'Powerful Multi-Vendor Marketplace solution for Shopify store owners to convert their store into a fully functioning marketplace.' }],
+
+  
+  ['meta', { property: 'og:type', content: 'website' }],
+  ['meta', { property: 'og:title', content: 'Multi-Vendor Marketplace for Shopify' }],
+  ['meta', { property: 'og:description', content: 'Powerful Multi-Vendor Marketplace solution for Shopify store owners to convert their store into a fully functioning marketplace.' }],
+  ['meta', { property: 'og:image', content: 'https://webkul.com/blog/ogimage/?ogid=MTAwMDIz' }],
+  ['meta', { property: 'og:url', content: 'https://marketplace-doc.webkul.com/' }],  
+  
+  ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+  ['meta', { name: 'twitter:title', content: 'Multi-Vendor Marketplace for Shopify' }],
+  ['meta', { name: 'twitter:description', content: 'Powerful Multi-Vendor Marketplace solution for Shopify store owners to convert their store into a fully functioning marketplace.' }],
+  ['meta', { name: 'twitter:image', content: 'https://webkul.com/blog/ogimage/?ogid=MTAwMDIz' }],
+],
+
 
   theme: defaultTheme({
     logo: 'image/mp-black.svg',
+    logoDark : 'image/mp-white.svg',
     navbar: [
-        {
-          text: 'Theme',
-          children: [
-            { text: 'Zenith', link: '/zenith/Introduction/' },
-            { text: 'Classic', link: '/classic/Introduction/' },
-          ]
-        },
+        { text: 'Classic Theme', link: '/classic/Introduction/' },
+        { text: 'Zenith Theme', link: '/zenith/Introduction/' },
+        { text: 'Webkul', link: 'https://webkul.com/' },
         { text: 'Get App', link: 'https://apps.shopify.com/multi-vendor-marketplace' },
         { text: 'Support', link: 'https://webkul.uvdesk.com/' }
       ],
@@ -45,7 +63,8 @@ export default defineUserConfig({
           children: [
             { text: 'General configuration', link: '/classic/configuration/general-configration' },
             { text: 'Product configuration', link: '/classic/configuration/product-configration' },
-            { text: 'Seller configuration', link: '/classic/configuration/Seller-configuration' }
+            { text: 'Seller configuration', link: '/classic/configuration/Seller-configuration' },
+            { text: 'Invoice configuration', link: '/classic/configuration/Invoice configuration' }
             // Add more configuration if needed 
           ]
         },
@@ -62,11 +81,12 @@ export default defineUserConfig({
           text: 'Product',
           collapsible: true,
           children: [
-            //{ text: 'products', link: '/products/' },
+            // { text: 'products', link: '/products/' },
             { text: 'Digital products', link: '/classic/products/Digital-products' },
             { text: 'Import products', link: '/classic/products/Import-products' },
             { text: 'Add products', link: '/classic/products/Add-products' },
-            { text: 'Collection sync', link: '/classic/products/Collection-sync' }
+            { text: 'Collection sync', link: '/classic/products/Collection-sync' },
+            { text: 'Products updates', link: '/classic/products/Products-updates' }
           ]
         },
         {
@@ -81,12 +101,12 @@ export default defineUserConfig({
           text: 'Payment Flow',
           collapsible: true,
           children: [
-            { text: 'Overview', link: '/classic/payment/overview' },
+            { text: 'Seller-Payment', link: '/classic/payment/Seller-Payment' },
             { text: 'Stripe', link: '/classic/payment/Stripe' },
             { text: 'Stripe-configuration', link: '/classic/payment/Stripe-configuration' },
             { text: 'Paypal', link: '/classic/payment/Paypal' },
             { text: 'RazorPayX', link: '/classic/payment/RazorPayX' },
-            { text: 'Seller-payment', link: '/classic/payment/Seller-payment' }
+            { text: 'Seller-payment-configuration', link: '/classic/payment/Seller-payment-configuration' }
 
             // Add more payment-related links here if needed
           ]
@@ -146,6 +166,43 @@ export default defineUserConfig({
                 { text: 'SHOPIFY EBAY CONNECTOR', link: '/classic/Featured-App/Connector/SHOPIFY EBAY CONNECTOR' },
                 { text: 'DYTEL POS CONNECTOR', link: '/classic/Featured-App/Connector/DYTEL POS CONNECTOR' }       
               ]
+            },
+            {
+              text: 'Seller Add-Ons',
+              collapsible: true,
+              children: [
+                { text: 'SELLER MEMBERSHIP', link: '/classic/Featured-App/Seller Add-Ons/SELLER MEMBERSHIP' },
+                { text: 'SELLER BUYER CHAT', link: '/classic/Featured-App/Seller Add-Ons/SELLER BUYER CHAT' },
+                { text: 'ASK A QUESTION', link: '/classic/Featured-App/Seller Add-Ons/ASK A QUESTION' },
+                // { text: 'SOCIAL NETWORK TABS', link: '/classic/Featured-App/Seller Add-Ons/SOCIAL NETWORK TABS' },
+                { text: 'SELLER VACATION APP', link: '/classic/Featured-App/Seller Add-Ons/SELLER VACATION APP' },
+                { text: 'PWA', link: '/classic/Featured-App/Seller Add-Ons/PWA' },
+                { text: 'SELLER AND CUSTOMER BADGE', link: '/classic/Featured-App/Seller Add-Ons/SELLER AND CUSTOMER BADGE' },
+                { text: 'SELLER TAGS AND CATEGORIES', link: '/classic/Featured-App/Seller Add-Ons/SELLER TAGS AND CATEGORIES' },
+                { text: 'SELLER TIME SLOT MANAGEMENT', link: '/classic/Featured-App/Seller Add-Ons/SELLER TIME SLOT MANAGEMENT' },
+                { text: 'SOCIAL MEDIA LOGIN', link: '/classic/Featured-App/Seller Add-Ons/SOCIAL MEDIA LOGIN' },
+                { text: 'EMAIL MARKETING', link: '/classic/Featured-App/Seller Add-Ons/EMAIL MARKETING' },
+                { text: 'WHATSAPP INTEGRATION', link: '/classic/Featured-App/Seller Add-Ons/WHATSAPP INTEGRATION' },
+                { text: 'AFFILIATE-REFERRAL SELLER', link: '/classic/Featured-App/Seller Add-Ons/AFFILIATE-REFERRAL SELLER' }
+                // Add more seller add-ons here
+              ]
+            },
+            {
+              text:'Marketplace Product Add-Ons',
+              collapsible: true,
+              children:[
+                { text: 'GLOBAL PRODUCT', link: '/classic/Featured-App/Marketplace Product Add-Ons/GLOBAL PRODUCT' },
+                { text: 'FAVORITE PRODUCT|SELLER', link: '/classic/Featured-App/Marketplace Product Add-Ons/FAVORITE PRODUCT|SELLER' },
+                { text: 'STOCK MANAGEMENT', link: '/classic/Featured-App/Marketplace Product Add-Ons/STOCK MANAGEMENT' },
+                { text: 'MAKE AN OFFER', link: '/classic/Featured-App/Marketplace Product Add-Ons/MAKE AN OFFER' },
+                { text: 'PRODUCT FEED', link: '/classic/Featured-App/Marketplace Product Add-Ons/PRODUCT FEED' },
+                { text: 'PRODUCT AUCTION FOR SELLER', link: '/classic/Featured-App/Marketplace Product Add-Ons/PRODUCT AUCTION FOR SELLER' },
+                { text: 'SPONSORED PRODUCT', link: '/classic/Featured-App/Marketplace Product Add-Ons/SPONSORED PRODUCT' },
+                { text: 'INDIAN GST', link: '/classic/Featured-App/Marketplace Product Add-Ons/INDIAN GST' },
+                { text: 'PRODUCT EXPIRY', link: '/classic/Featured-App/Marketplace Product Add-Ons/PRODUCT EXPIRY' },
+                { text: 'SLOT PRICING', link: '/classic/Featured-App/Marketplace Product Add-Ons/SLOT PRICING' },
+                { text: 'BOOKING PRODUCT', link: '/classic/Featured-App/Marketplace Product Add-Ons/BOOKING PRODUCT' }
+              ]
             }
           ]
         }
@@ -169,7 +226,8 @@ export default defineUserConfig({
           children: [
             { text: 'General configuration', link: '/zenith/configuration/general-configration' },
             { text: 'Product configuration', link: '/zenith/configuration/product-configration' },
-            { text: 'Seller configuration', link: '/zenith/configuration/Seller-configuration' }
+            { text: 'Seller configuration', link: '/zenith/configuration/Seller-configuration' },
+            { text: 'Invoice configuration', link: '/zenith/configuration/Invoice configuration' }
             // Add more configuration if needed 
           ]
         },
@@ -205,12 +263,13 @@ export default defineUserConfig({
           text: 'Payment Flow',
           collapsible: true,
           children: [
-            { text: 'Overview', link: '/zenith/payment/overview' },
+            { text: 'Seller-Payment', link: '/zenith/payment/Seller-Payment' },
             { text: 'Stripe', link: '/zenith/payment/Stripe' },
             { text: 'Stripe-configuration', link: '/zenith/payment/Stripe-configuration' },
             { text: 'Paypal', link: '/zenith/payment/Paypal' },
             { text: 'RazorPayX', link: '/zenith/payment/RazorPayX' },
-            { text: 'Seller-payment', link: '/zenith/payment/Seller-payment' }
+            { text: 'Seller-payment-configuration', link: '/zenith/payment/Seller-payment-configuration' }
+
 
             // Add more payment-related links here if needed
           ]
@@ -269,6 +328,41 @@ export default defineUserConfig({
                 { text: 'AMAZON CONNECTOR', link: '/zenith/Featured-App/Connector/AMAZON CONNECTOR' },
                 { text: 'SHOPIFY EBAY CONNECTOR', link: '/zenith/Featured-App/Connector/SHOPIFY EBAY CONNECTOR' },
                 { text: 'DYTEL POS CONNECTOR', link: '/zenith/Featured-App/Connector/DYTEL POS CONNECTOR' }       
+              ]
+            },
+            {
+              text: 'Seller Add-Ons',
+              collapsible: true,
+              children: [
+                { text: 'SELLER MEMBERSHIP', link: '/zenith/Featured-App/Seller Add-Ons/SELLER MEMBERSHIP' },
+                { text: 'SELLER BUYER CHAT', link: '/zenith/Featured-App/Seller Add-Ons/SELLER BUYER CHAT' },
+                { text: 'ASK A QUESTION', link: '/zenith/Featured-App/Seller Add-Ons/ASK A QUESTION' },
+                { text: 'SOCIAL NETWORK TABS', link: '/zenith/Featured-App/Seller Add-Ons/SOCIAL NETWORK TABS' },
+                { text: 'SELLER VACATION APP', link: '/zenith/Featured-App/Seller Add-Ons/SELLER VACATION APP' },
+                { text: 'PWA', link: '/zenith/Featured-App/Seller Add-Ons/PWA' },
+                { text: 'SELLER AND CUSTOMER BADGE', link: '/zenith/Featured-App/Seller Add-Ons/SELLER AND CUSTOMER BADGE' },
+                { text: 'SELLER TAGS AND CATEGORIES', link: '/zenith/Featured-App/Seller Add-Ons/SELLER TAGS AND CATEGORIES' },
+                { text: 'SELLER TIME SLOT MANAGEMENT', link: '/zenith/Featured-App/Seller Add-Ons/SELLER TIME SLOT MANAGEMENT' },
+                { text: 'SOCIAL MEDIA LOGIN', link: '/zenith/Featured-App/Seller Add-Ons/SOCIAL MEDIA LOGIN' },
+                { text: 'EMAIL MARKETING', link: '/zenith/Featured-App/Seller Add-Ons/EMAIL MARKETING' },
+                { text: 'WHATSAPP INTEGRATION', link: '/zenith/Featured-App/Seller Add-Ons/WHATSAPP INTEGRATION' },
+                { text: 'AFFILIATE-REFERRAL SELLER', link: '/zenith/Featured-App/Seller Add-Ons/AFFILIATE-REFERRAL SELLER' }
+                // Add more seller add-ons here
+              ]
+            },
+            {
+              text:'Marketplace Product Add-Ons',
+              collapsible: true,
+              children:[
+                { text: 'GLOBAL PRODUCT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/GLOBAL PRODUCT' },
+                { text: 'FAVORITE PRODUCT|SELLER', link: '/zenith/Featured-App/Marketplace Product Add-Ons/FAVORITE PRODUCT|SELLER' },
+                { text: 'STOCK MANAGEMENT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/STOCK MANAGEMENT' },
+                { text: 'MAKE AN OFFER', link: '/zenith/Featured-App/Marketplace Product Add-Ons/MAKE AN OFFER' },
+                { text: 'PRODUCT FEED', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT FEED' },
+                { text: 'PRODUCT AUCTION FOR SELLER', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT AUCTION FOR SELLER' },
+                { text: 'SPONSORED PRODUCT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/SPONSORED PRODUCT' },
+                { text: 'INDIAN GST', link: '/zenith/Featured-App/Marketplace Product Add-Ons/INDIAN GST' },
+                { text: 'PRODUCT EXPIRY', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT EXPIRY' }
               ]
             }
           ]

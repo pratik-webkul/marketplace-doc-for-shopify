@@ -42,7 +42,7 @@ You can enable Razor PayX auto pay configuration to automatically pay to your Se
 
 You can select Pay After Delivery or fulfill so whenever the Seller marks the order as Delivered or Fulfilled as per the configuration. The payment to Seller will automatically be initiated.
 
-In case you have enabled the [**Cashable amount**](https://webkul.com/blog/multivendor-marketplace-for-shopify-paypal-payout-payment/#pay-after-refund-date) the payment will be initiated after the refund days.
+In case you have enabled the [**Cashable amount**](https://marketplace-doc.webkul.com/classic/payment/Paypal.html#pay-after-refund-date) the payment will be initiated after the refund days.
 
 ![dsdc](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/dsdc-1200x576.png)
 
@@ -131,7 +131,7 @@ Once the Seller saves Account details successfully. Contact will be created at t
 
 ### Payment Flow
 
-Now as per the Multivendor [Payment Flow](https://webkul.com/blog/shopify-multivendor-marketplace-app-payment-flow/#how-admin-pays-to-sellers) when Admin Pays the Seller due amount through RazorPayX.
+Now as per the Multivendor [Payment Flow](https://marketplace-doc.webkul.com/classic/payment/overview.html#how-admin-pays-to-sellers) when Admin Pays the Seller due amount through RazorPayX.
 
 ![chatwhizz__2_-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/12/chatwhizz__2_-3.png)
 

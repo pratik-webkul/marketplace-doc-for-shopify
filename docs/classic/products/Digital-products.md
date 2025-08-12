@@ -4,11 +4,11 @@ description: Digital Products Configuration
 date: 2025-07-02
 author: Chirag Tyagi
 ---
-If you are looking to build a marketplace with no restriction of shop type then [Multi-Vendor Marketplace for Shopify](http://localhost:8080/) is the solution.
+If you are looking to build a marketplace with no restriction of shop type then [Multi-Vendor Marketplace for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/) is the solution.
 
 Selling physical as well as digital products on this Multi-Vendor Marketplace is really flexible & easy.
 
-So, in this blog, we'll see how to add digital products on the [Multivendor Marketplace for Shopify](http://localhost:8080/).
+So, in this blog, we'll see how to add digital products on the [Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/).
 
 **Note**: In case the customers are paying for the digital product order via PayPal then the order will be fulfilled automatically.
 

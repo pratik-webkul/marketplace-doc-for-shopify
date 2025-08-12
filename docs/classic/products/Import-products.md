@@ -4,7 +4,7 @@ description: Import Products
 date: 2025-07-02
 author: Chirag Tyagi
 ---
-Admin can import products added on his Shopify Store to [Multivendor Marketplace for Shopify](http://localhost:8080/), after this, the admin needs to assign those products to the sellers.
+Admin can import products added on his Shopify Store to [Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/), after this, the admin needs to assign those products to the sellers.
 
 Now, to make the products appear in the Product menu, you need to assign the imported products to the sellers. Then only, the orders will be created in the Multi-vendor App.
 
