@@ -29,7 +29,7 @@ Once synced, Admin can even enable/disable the Collection from the App. If the c
 
 **NOTE:** Please note that the list on the collection page will only show the "manual collections" listed. Although the smart collections are also synced to the App.
 
-Also, make a note that the [Collection Commission](https://webkul.com/blog/shopify-multivendor-marketplace-commissions-new-theme) is only applied to manual collections only.
+Also, make a note that the [Collection Commission](https://marketplace-doc.webkul.com/classic/Commission/Overview.html) is only applied to manual collections only.
 
 The Admin can view the Smart Collections from here on the Add/Edit Product Page:
 

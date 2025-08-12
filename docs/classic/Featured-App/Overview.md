@@ -35,7 +35,7 @@ If you want to get access to this shipping feature, you need to choose the Shopi
 
 There is no need to pay an additional charge to install this feature app.
 
-**[EXPLORE](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/)**
+**[EXPLORE](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/Marketplace%20Shipping.html)**
 
 USPS Shipping
 -------------
@@ -54,14 +54,14 @@ This feature app costs $10 USD per month over and above your current Multivendor
 
 **Important Note:-** To make the feature app work, the admin needs to choose the Shopify Store Plan which supports **“Real-Time Carrier Calculated Shipping”.**
 
-Refer to the [**USER MANUAL**](https://webkul.com/blog/shopify-multivendor-marketplace-usps-shipping-new-theme/) to know more about this feature app.  
+Refer to the [**USER MANUAL**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/USPS%20SHIPPING.html) to know more about this feature app.  
 
 POST NL
 -------
 
 ![screenshot_1690022031360](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/screenshot_1690022031360.png)
 
-The [Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) comes up with another shipping feature app here namely **PostNL Shipping**.
+The [Multi-vendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) comes up with another shipping feature app here namely **PostNL Shipping**.
 
 The admin can allow sellers to manage the order fulfillment via PostNL and automatically generate shipping labels for the orders.
 
@@ -71,20 +71,20 @@ Kindly contact Shopify support if you face any concerns in enabling the **"Real-
 
 This feature has an additional monthly charge of USD 10 over and above your current multivendor plan.
 
-Refer to the [**User Guide**](https://webkul.com/blog/postnl-shipping-multi-vendor-marketplace-for-shopify/) to know more about this feature.
+Refer to the [**User Guide**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/POSTNL.html) to know more about this feature.
 
 J&T EXPRESS
 -----------
 
 ![screenshot_1690029535450](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/screenshot_1690029535450.png)
 
-The [Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) comes up with another shipping feature app here namely **J&T Express.**
+The [Multi-vendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) comes up with another shipping feature app here namely **J&T Express.**
 
 The admin can allow sellers to manage the order fulfillment via J&T Express and automatically generate shipping labels for the orders.
 
 **NOTE:- This J&T Express shipping feature app is available only with the Multivendor ProPlan ($60/month).**
 
-**Moreover, you need to enable the [Shipping](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) Add-on for FREE from the ‘Feature Apps’ section of the app.**
+**Moreover, you need to enable the [Shipping](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/Marketplace%20Shipping.html) Add-on for FREE from the ‘Feature Apps’ section of the app.**
 
 Along with this, it is mandatory to enable "Real-Time-Carrier-Calculated Shipping" on your Shopify store.
 
@@ -92,14 +92,14 @@ Kindly contact Shopify support if you face any concerns in enabling the **"Real-
 
 **This feature has an additional monthly charge of USD 10 over and above your current multivendor plan.**
 
-Refer to the [**User Guide**](https://webkul.com/blog/jt-express-multi-vendor-marketplace-for-shopify/) to know more about this feature.
+Refer to the [**User Guide**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/J_TEXPRESS%20SHIPPING.html) to know more about this feature.
 
 ECOM EXPRESS SHIPPING
 ---------------------
 
 ![ecom express shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-66.png)
 
-[Shopify Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) Ecom Express Shipping feature allows both admin and seller to manage the fulfillment.
+[Shopify Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) Ecom Express Shipping feature allows both admin and seller to manage the fulfillment.
 
 Once the customer places an order, the seller can directly fulfill it from the backend with this feature app.
 
@@ -107,7 +107,7 @@ If the order is fulfilled, the seller can “Edit Tracking” as well as set the
 
 This feature has an additional monthly charge of USD 10 over and above your current multivendor plan.  
 
-To know more about this feature, refer to its [**User Guide**](https://webkul.com/blog/shopify-multivendor-ecom-express-shipping/).  
+To know more about this feature, refer to its [**User Guide**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/ECOM%20EXPRESS%20SHIPPING.html).  
 
 SHIPMONDO
 ---------
@@ -128,9 +128,9 @@ Using this featured app, merchants can allow vendors to ship their goods via mul
 
 This is a requirement defined by Shopify for your store to retrieve shipping rates from third-party sources, such as this shipping app.
 
-This feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) add-on (free) from the ‘featured apps’ section of the app.
+This feature app is available only with the Multivendor **Pro** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/Marketplace%20Shipping.html) add-on (free) from the ‘featured apps’ section of the app.
 
-Refer to the [User Guide](https://webkul.com/blog/shopify-shipmondo-shipping/) to know more about this feature.
+Refer to the [User Guide](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/SHIPMONDO.html) to know more about this feature.
 
 SENDLE
 ------
@@ -139,18 +139,18 @@ SENDLE
 
 Shopify Multivendor Marketplace's “SENDLE” feature app is here.
 
-The Sendle shipping is now integrated with the [Multi-vendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify to let sellers fulfill their orders via Sendle shipment service and generate shipping labels.
+The Sendle shipping is now integrated with the [Multi-vendor Marketplace App](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify to let sellers fulfill their orders via Sendle shipment service and generate shipping labels.
 
 This feature app costs you a minimal amount of **$10 per month** over and above your current Multivendor plan.
 
 **NOTE**:-
 
 *   The Sendle shipping feature app is available only with the Multivendor **Pro** **Plan** ($60/month).
-*   You need to enable the **[Shipping](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/)** Add-on for FREE from the ‘Feature Apps’ section of the app.
+*   You need to enable the **[Shipping](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/Marketplace%20Shipping.html)** Add-on for FREE from the ‘Feature Apps’ section of the app.
 
 Moreover, access to Shipping requires your Shopify store to be on the plan that supports [Real-Time Carrier-Calculated Shipping.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)
 
-Refer to the [User Guide](https://webkul.com/blog/sendle-shipping-multi-vendor-marketplace-app-for-shopify/) to know more about this feature.
+Refer to the [User Guide](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/SENDLE%20SHIPPING.html) to know more about this feature.
 
 SWISSPOST
 ---------
@@ -167,7 +167,7 @@ This feature app will charge you a minimal amount of **$10 per month** over an
 
 NOTE:- This Swiss Post shipping feature app is available only with the Multivendor **Pro** **Plan** ($60/month).
 
-Moreover, you need to enable the **[Shipping](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/)** Add-on for FREE from the ‘Feature Apps’ section of the app.
+Moreover, you need to enable the **[Shipping](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/Marketplace%20Shipping.html)** Add-on for FREE from the ‘Feature Apps’ section of the app.
 
 Also, Access to Shipping requires your Shopify store to be on the plan that supports [**Real-Time Carrier-Calculated Shipping**.](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/enabling-shipping-carriers)
 
@@ -175,7 +175,7 @@ The Swiss post Shipping feature is compatible with the **[Partial Fulfillment](
 
 SWISS POST FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 
-Refer to the [User Guide](https://webkul.com/blog/swiss-post-shipping-multi-vendor-marketplace-for-shopify/) to know more about this feature.
+Refer to the [User Guide](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/SWISSPOST%20SHIPPING.html) to know more about this feature.
 
 DELHIVERY
 ---------
@@ -192,7 +192,7 @@ merchants can allow vendors to ship their goods via Delhivery and then print the
 
 **Charges:** This feature will have an additional charge of **USD 10 per month** over & above your current multivendor marketplace plan.
 
-Refer to the [**User Guide**](https://webkul.com/blog/delhivery-shopify-marketplace-integration/) to know more about this feature.  
+Refer to the [**User Guide**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/DELHIVERY.html) to know more about this feature.  
 
 EASYPOST
 --------
@@ -203,7 +203,7 @@ Shopify Multivendor Marketplace's “EASYPOST” feature app is here.
 
 [EasyPost](https://www.easypost.com/) is known to be one of the most powerful shipping solutions to manage shipments.
 
-The **EasyPost API** is now integrated with the [Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify.
+The **EasyPost API** is now integrated with the [Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify.
 
 Merchants can visit the Multi-vendor admin panel and enable the **EasyPost shipping featured app**. Thus, allow sellers to manage the order fulfillment via EasyPost API.
 
@@ -211,7 +211,7 @@ Also, automatically generate shipping labels of the orders.
 
 This feature app will charge you a minimal amount of **$10 per month** over and above your current Multivendor plan.
 
-Refer to the [**User Guide**](https://webkul.com/blog/easypost-shipping-multi-vendor-marketplace-for-shopify/) to know more about this feature.  
+Refer to the [**User Guide**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/EASYPOST%20SHIPPING.html) to know more about this feature.  
 
 EASYSHIP
 --------
@@ -226,7 +226,7 @@ From groceries to clothes and electronics, we can purchase almost everything onl
 
 However, shipping can be a complex and time-consuming process, especially for small and medium-sized e-commerce businesses.
 
-Refer to the [**User Guide**](https://webkul.com/blog/easyship-multivendor-marketplace-app-for-shopify/) to know more about this feature.  
+Refer to the [**User Guide**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/EASYSHIP.html) to know more about this feature.  
 
 SHIPROCKET
 ----------
@@ -241,7 +241,7 @@ the admin can allow the sellers to manage both the order fulfillment using the S
 
 This feature app comes will charge you **$10 per month** in addition to your current Multivendor plan.
 
-Refer to the [**User Guide**](https://webkul.com/blog/shiprocket-shipping-multi-vendor-marketplace-for-shopify-user-guide/) to know more about this feature.
+Refer to the [**User Guide**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/SHIPROCKET%20SHIPPING.html) to know more about this feature.
 
 SBEEDY SHIPPING
 ---------------
@@ -265,7 +265,7 @@ _Important Note_:- To make this Canada Post feature work, it is mandatory to ch
 
 This feature has an additional monthly charge of USD 10 over and above your current multivendor plan.
 
-Refer to the [**User Guide**](https://webkul.com/blog/shopify-multivendor-canada-post-new-theme/) to know more about this feature.  
+Refer to the [**User Guide**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/CANADA%20POST%20SHIPPING.html) to know more about this feature.  
 
 STORE PICK UP
 -------------
@@ -282,7 +282,7 @@ The seller will provide his store address as the “Store Pickup Address”.
 
 This feature app is at a monthly charge of $10 USD/month over and above your current Multivendor plan.
 
-You can refer the [**USER GUIDE**](https://webkul.com/blog/shopify-multivendor-marketplace-store-pickup/) to know more about this app.  
+You can refer the [**USER GUIDE**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/STORE%20PICKUP.html) to know more about this app.  
 
 AIRSPEED SHIPPING
 -----------------
@@ -298,14 +298,14 @@ Using this feature app, both admin and sellers can notify the courier about the 
 Accordingly, sellers will manage the fulfillment of their seller panels and generate shipping labels for the fulfilled orders.
 
 This feature App comes with a charge of $10 USD/month over and above your current multivendor plan.  
-You can refer the **[USER GUIDE](https://webkul.com/blog/shopify-multivendor-marketplace-airspeed-shipping/)** to know more about this app.
+You can refer the **[USER GUIDE](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/AIR%20SPEED%20SHIPPING.html)** to know more about this app.
 
 AUSTRALIA POST SHIPPING
 -----------------------
 
 ![australia post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-2-1.png)
 
-Australia Post, a government-owned corporation known to provide postal services in Australia. Now, we have integrated it with the **[Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/)** for Shopify.
+Australia Post, a government-owned corporation known to provide postal services in Australia. Now, we have integrated it with the **[Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/)** for Shopify.
 
 Presenting Australia Post Feature app using which admin can allow the sellers to deliver their shipment via **Australia Post shipment method** and
 
@@ -315,7 +315,7 @@ This feature will have an additional charge of USD 10 per month over and above y
 
 Note:- To make Australia Post shipping feature work, you need to choose the Shopify store plan that supports the **“Real-Time Carrier-Calculated Shipping”.**  
 
-You can refer the **[USER GUIDE](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-australia-post/)** to know more about this app.
+You can refer the **[USER GUIDE](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/AUSTRALIA%20POST%20SHIPPING.html)** to know more about this app.
 
 UPS
 ---
@@ -338,7 +338,7 @@ This feature of the Multivendor app will charge you an additional amount of $10 
 
 **Important Note**:- “UPS Feature is available only in the Multivendor **PRO ($60/month)** Plan **+** You need to enable the “[Shipping” Feature App](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) which is **FREE** of cost.”  
 
-You can refer the **[USER GUIDE](https://webkul.com/blog/ups-shipping-multi-vendor-marketplace-for-shopify/)** to know more about this app.
+You can refer the **[USER GUIDE](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/UPS%20SHIPPING.html)** to know more about this app.
 
 FedEx
 -----
@@ -349,14 +349,14 @@ FedEx
 
 Using this featured app, the merchants can enable shipment through **FedEx**. Moreover, he can allow **US** **sellers** to automatically generate shipping labels.
 
-> **FedEx** feature app is available only with the Multivendor **PRO** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) add-on (free) from feature apps section of the app.
+> **FedEx** feature app is available only with the Multivendor **PRO** **Plan** ($60/month). Moreover, you need to enable the [**Shipping**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/Marketplace%20Shipping.html) add-on (free) from feature apps section of the app.
 
 **CHARGES:** This feature will have an additional charge of **USD 10 per month** over & above your current MVM plan.
 
 **NOTE:** Above all, access to Shipping requires your Shopify store to be on the plan that supports **Real-Time Carrier-Calculated Shipping**.
 
 Currently, the FedEx Shipping feature app will only work for the **US Merchants**.  
-You can refer the **[USER GUIDE](https://webkul.com/blog/fedex-shipping-multi-vendor-marketplace-for-shopify/)** to know more about this app.
+You can refer the **[USER GUIDE](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/FEDEX%20SHIPPING.html)** to know more about this app.
 
 VAMASHIP
 --------
@@ -369,20 +369,20 @@ Using this featured app, the merchants can enable shipment through Vamaship. Mor
 
 > **Vamaship** feature app is available only with the Multivendor **PRO** **Plan** ($60/month).
 > 
-> Moreover, you need to enable the [**Shipping**](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/) add-on (free) from feature apps section of the app.
+> Moreover, you need to enable the [**Shipping**](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/Marketplace%20Shipping.html) add-on (free) from feature apps section of the app.
 
 **CHARGES:** This feature will have an additional charge of **USD 10 per month** over & above your current MVM plan.
 
 **NOTE:** Above all, access to Shipping requires your Shopify store to be on the plan that supports **Real-Time Carrier-Calculated Shipping**.  
 
-You can refer the **[USER GUIDE](https://webkul.com/blog/vamaship-multi-vendor-marketplace-for-shopify/)** to know more about this app.
+You can refer the **[USER GUIDE](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/VAMASHIP.html)** to know more about this app.
 
 BLUEDART
 --------
 
 ![Blue Dart](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-6.png)
 
-Blue Dart is integrated with the very popular [Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) App for Shopify. So, you can now allow sellers to fulfill orders via Blue Dart fulfillment & courier delivery services.
+Blue Dart is integrated with the very popular [Multi-vendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) App for Shopify. So, you can now allow sellers to fulfill orders via Blue Dart fulfillment & courier delivery services.
 
 Additionally, allow sellers to generate shipping labels for fulfilled orders.
 
@@ -397,7 +397,7 @@ This feature of the Multivendor app will charge you a minimal amount of $10 per 
 *   Please Note:- To make this feature work, you need to choose the Shopify store plan which supports the **“Real-Time Carrier-Calculated Shipping”.**
 *   Make the **Contact Number, a mandatory field for the customers** for checkout.
 
-You can refer the **[USER GUIDE](https://webkul.com/blog/vamaship-multi-vendor-marketplace-for-shopify/)** to know more about this app.
+You can refer the **[USER GUIDE](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/BLUEDART.html)** to know more about this app.
 
 SHIPSTATION
 -----------
@@ -406,14 +406,14 @@ SHIPSTATION
 
 ShipStation feature app allows you to ship your goods via multiple carrier shipping methods & generate shipping labels of the orders.
 
-For more detail, please refer to the [User Guide](https://webkul.com/blog/shipstation-multivendor-marketplace-for-shopify/).
+For more detail, please refer to the [User Guide](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/SHIPSTATION.html).
 
 Envia Shipping
 --------------
 
 ![image-83](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-83.png)
 
-Multi-Vendor Marketplace for Shopify is here with another marketplace shipping feature app, i.e., [**Envia Shipping**.](https://webkul.com/blog/envia-shipping-multi-vendor-marketplace-for-shopify/)
+Multi-Vendor Marketplace for Shopify is here with another marketplace shipping feature app, i.e., [**Envia Shipping**.](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/ENVIA%20SHIPPING.html)
 
 Using this featured app, the merchants can enable shipment through **Envia**. Moreover, he can allow sellers to automatically generate shipping labels.
 
@@ -422,14 +422,14 @@ Bring Shipping
 
 ![image-85](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-85.png)
 
-Using [Bring Shipping](https://webkul.com/blog/bring-shipping/) featured app, the merchants can allow sellers to ship goods through the Bring shipping method and then print **Shipping Label**. Moreover, create a **pickup request**.
+Using [Bring Shipping](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/BRING%20SHIPPING.html) featured app, the merchants can allow sellers to ship goods through the Bring shipping method and then print **Shipping Label**. Moreover, create a **pickup request**.
 
 DHL Express
 -----------
 
 ![image-86](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/image-86.png)
 
-Using [DHL Express](https://webkul.com/blog/dhl-express-multi-vendor-marketplace-for-shopify/) featured app, the merchants can allow sellers to ship your goods through **DHL** using multiple carrier shipping methods and then print **Shipping Label**.
+Using [DHL Express](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/DHL%20EXPRESS.html) featured app, the merchants can allow sellers to ship your goods through **DHL** using multiple carrier shipping methods and then print **Shipping Label**.
 
 SWISS POST
 ----------

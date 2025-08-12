@@ -19,7 +19,7 @@ Firstly, let's see how to install the Multivendor App on the Shopify Store.
 
 You can go through the **Video Guide** to understand how you can install the Multivendor app on your Shopify Store.
 
-[Click Here to Watch The Video](https://youtu.be/oOS3SnIyaa0?si=EnCynXOoMg4xxZnX)
+[Click Here to Watch The Video](https://youtu.be/b9lNPcAyZaU?si=9RFwWS0xSO_f2G5D)
 
 ### Import configurations from other Shopify store
 

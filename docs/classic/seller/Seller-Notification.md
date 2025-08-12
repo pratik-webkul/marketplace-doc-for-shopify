@@ -8,7 +8,7 @@ author: Chirag Tyagi
 
 ### Introduction:
 
-We have introduced a new feature in our [Multivendor Marketplace App](http://localhost:8080/Introduction/Overview.html). This allows you to send custom notifications to your sellers.
+We have introduced a new feature in our [Multivendor Marketplace App](https://marketplace-doc.webkul.com/classic/Introduction/). This allows you to send custom notifications to your sellers.
 
 Check the below video of Seller Notification:
 

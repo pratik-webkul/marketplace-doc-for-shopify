@@ -4,7 +4,7 @@ description: How to add Products
 date: 2025-07-02
 author: Chirag Tyagi
 ---
-The [**Multi-vendor Marketplace app**](http://localhost:8080/) is dedicated to convert your [Shopify store](https://shopify.com/free-trial?ref=webkul) into a fully-functional marketplace.
+The [**Multi-vendor Marketplace app**](https://marketplace-doc.webkul.com/classic/Introduction/) is dedicated to convert your [Shopify store](https://shopify.com/free-trial?ref=webkul) into a fully-functional marketplace.
 
 It is a feature-rich eCommerce solution for every merchant to grow-up their online stores.
 
@@ -27,7 +27,7 @@ Go to the Product Listing & get the option to **Add Products**. All the added pr
 ![Add products](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Admin-4-1200x597.png)
 
 *   Clicking the Add Product button, product form appears. Now, enter the details in the given fields of the product form.
-*   Choose products that you want to sell i.e. **Normal** (Physical) or [Digital](http://localhost:8080/products/Digital-products.html) product.
+*   Choose products that you want to sell i.e. **Normal** (Physical) or [Digital](https://marketplace-doc.webkul.com/classic/products/Digital-products.html ) product.
 *   Enter seller **email** ID i.e. the seller to whom you want to assign the product.
 *   Write an appropriate **title** of the product.
 *   Enter product **type**, **description**, product **tags**, [policies](https://webkul.com/blog/multi-vendor-marketplace-for-shopify-product-policy/).
@@ -40,7 +40,7 @@ _However, if the image is smaller than 500kb, the original quality will be retai
 
 ![upload image](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Add-Product-Admin-1-1071x1024.png)
 
-*   Shipping Details:- Enter product **weight**, choose "requires [shipping](https://webkul.com/blog/shopify-multivendor-marketplace-shipping/)" in case of normal products & choose a **shipping method** for the product.
+*   Shipping Details:- Enter product **weight**, choose "requires [shipping](https://marketplace-doc.webkul.com/classic/Featured-App/Shipping/Marketplace%20Shipping.html)" in case of normal products & choose a **shipping method** for the product.
 *   Pricing Details:- Enter product **price** & [compare at price](https://help.shopify.com/en/manual/promoting-marketing/discount-codes/sales), if required. Choose to charge tax for the product.
 *   Inventory Details:- Enter **barcode** & product **SKU** to identify & track product inventory or stock.
 

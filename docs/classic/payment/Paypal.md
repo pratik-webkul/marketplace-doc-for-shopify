@@ -7,7 +7,7 @@ author: Chirag Tyagi
 
 
 Want to auto-pay your Sellers once they mark the order as delivered/fulfilled?  
-For this, configure **PayPal Payout Payment** in your [Multivendor Marketplace for Shopify](http://localhost:8080/).
+For this, configure **PayPal Payout Payment** in your [Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/).
 
 **Purpose of this feature**:  
 This feature lets your sellers automatically receive their total earnings once they mark the order as delivered/fulfilled.

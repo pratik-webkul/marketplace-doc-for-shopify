@@ -8,7 +8,7 @@ author: Chirag Tyagi
 
 # Seller Policy Configuration in Shopify Multivendor Marketplace
 
-The [Multivendor Marketplace app for Shopify](http://localhost:8080/Introduction/Overview.html) allows merchants and sellers to configure two types of seller policies:
+The [Multivendor Marketplace app for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/) allows merchants and sellers to configure two types of seller policies:
 
 - **Normal Seller Policy**
 - **Advanced Seller Policy**

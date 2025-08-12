@@ -9,7 +9,7 @@ author: Chirag Tyagi
 
 # Seller Payment Configuration in Shopify Multivendor Marketplace
 
-Managing payments efficiently is a critical part of any online marketplace. As an admin using the [Shopify Multivendor Marketplace app by Webkul](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/), it’s essential to have full control over seller earnings, deductions (like transaction and handling charges), and how discounts affect those calculations.
+Managing payments efficiently is a critical part of any online marketplace. As an admin using the [Shopify Multivendor Marketplace app by Webkul](https://marketplace-doc.webkul.com/classic/Introduction/), it’s essential to have full control over seller earnings, deductions (like transaction and handling charges), and how discounts affect those calculations.
 
 In this guide, we’ll walk you through all key aspects of Seller Payment Configuration, including how to manage:
 
@@ -38,7 +38,7 @@ You can also configure how **shipping costs** and **taxes** should be shared bet
 ![settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/three-7-565x1024.webp)  
 ![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/four-7-1200x599.webp)
 
-To learn more about the full seller payment workflow, check the [Complete Payment Flow of the Multivendor Marketplace App](http://localhost:8080/payment/overview.html).
+To learn more about the full seller payment workflow, check the [Complete Payment Flow of the Multivendor Marketplace App](https://marketplace-doc.webkul.com/classic/payment/overview.html).
 
 ---
 
@@ -198,7 +198,7 @@ Update seller earnings based on these order events:
 ![seller earning config](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-97-1200x597.png)
 
 **Note:**  
-To add earnings post-refund period, enable [Cashable Amount for Sellers](https://webkul.com/blog/multivendor-marketplace-for-shopify-paypal-payout-payment/#pay-after-refund-date).
+To add earnings post-refund period, enable [Cashable Amount for Sellers](https://marketplace-doc.webkul.com/classic/payment/Paypal.html#pay-after-refund-date).
 
 ---
 
@@ -216,4 +216,4 @@ Admin Panel >> Configuration >> Seller Configuration >> Enable “ALLOW SELLER T
 
 We hope this guide helped you understand the complete flow of seller payment configuration in the Shopify Multivendor Marketplace App by Webkul.
 
-[Explore the app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/)
+[Explore the app](https://marketplace-doc.webkul.com/classic/Introduction/)

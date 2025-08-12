@@ -5,7 +5,7 @@ date: 2025-06-27
 author: Chirag Tyagi
 ---
 
-[Multivendor Marketplace for Shopify](http://localhost:8080/) has got the Stripe Connect Payment Gateway.
+[Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/) has got the Stripe Connect Payment Gateway.
 
 Using this, the order amount directly goes to the respective Seller & Admin account as per the share configured on the basis of commission.
 
@@ -21,7 +21,7 @@ To use this payment gateway, the admin needs to enable the [Stripe Connect](http
 
 Multivendor Admin Panel > 'Feature Apps'
 
-You may visit this guide for more details: [Multi-Vendor Marketplace for Shopify: Stripe Connect Integration](https://webkul.com/blog/shopify-multi-vendor-marketplace-stripe-connect-integration/)
+You may visit this guide for more details: [Multi-Vendor Marketplace for Shopify: Stripe Connect Integration](https://marketplace-doc.webkul.com/classic/payment/Stripe.html)
 
 As we have introduced the **Strong Customer Authentication** for the Stripe Connect Payment Gateway.
 
@@ -184,7 +184,7 @@ This is the continuation of the above configuration page (Multivendor Admin Pane
 
 Further, enter the details like **Secret Key, Publish Key** and **Client ID** and then click on **save**.
 
-> The configuration from the seller end will the same as that was before. To know about that, use the following link: [https://webkul.com/blog/shopify-multi-vendor-marketplace-stripe-connect-integration/](https://webkul.com/blog/shopify-multi-vendor-marketplace-stripe-connect-integration/)
+> The configuration from the seller end will the same as that was before. To know about that, use the following link: [https://webkul.com/blog/shopify-multi-vendor-marketplace-stripe-connect-integration/](https://marketplace-doc.webkul.com/classic/payment/Stripe.html)
 
 **Note**: In case you have selected Direct Charges, it is mandatory for sellers to connect their Stripe account otherwise customer payment won't be successful.
 

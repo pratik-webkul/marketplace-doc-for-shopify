@@ -1,6 +1,6 @@
 ###  Commission Overview – Shopify Multivendor Marketplace App
 
-[Multivendor Marketplace for Shopify](http://localhost:8080/Introduction/Overview.html) offers a robust **commission management system**, allowing store owners to earn from every sale made by their sellers.
+[Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/) offers a robust **commission management system**, allowing store owners to earn from every sale made by their sellers.
 
 In a marketplace model, **commissions** are the core of the revenue structure for the admin. They represent the amount earned by the marketplace owner from each transaction made by vendors.
 
@@ -86,7 +86,7 @@ Sellers can view commissions for each order from:
 
 ###  Learn More
 
- [Read the full guide on Commission Types](http://localhost:8080/Commission/Commission-Type.html)
+ [Read the full guide on Commission Types](https://marketplace-doc.webkul.com/classic/Commission/Commission-Type)
 
 ###  Demo
 
