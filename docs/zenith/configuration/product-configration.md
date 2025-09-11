@@ -9,7 +9,7 @@ In this section of the blog, you’ll find everything related to product configu
 
 Here, you can provide an option to add/edit/delete the products to your sellers, you can enable the option to auto-approve your products, auto-enable the added products and much more.
 
-![product configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/1-7.png)
+![product configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pproduct-scaled.webp)
 
 Here are some new product configurations you might want to check out . 
 ### Add Video to Product

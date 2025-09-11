@@ -1,0 +1,1 @@
+import{u as t,c as a,a as r,o}from"./app-DRXmfGxI.js";const l={__name:"index.html",setup(s){return t().push("/classic/Introduction/"),(c,e)=>(o(),a("div",null,e[0]||(e[0]=[r("p",null,"Redirecting to Classic...",-1)])))}},u=JSON.parse('{"path":"/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"index.md"}');export{l as comp,u as data};

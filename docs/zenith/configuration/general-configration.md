@@ -9,17 +9,17 @@ In this section of the blog, you’ll find everything related to the admin accou
 
 From here, the admin can enter the business email, set the currency for the shop, choose the weight unit for products, and much more.
 
-![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Configuration-_-Admin.jpg)
+![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/general.webp)
 
 To know about the **Configuration Updates**, Kindly refer: [https://webkul.com/blog/configuration-updates-multi-vendor-marketplace-for-shopify/](https://webkul.com/blog/configuration-updates-multi-vendor-marketplace-for-shopify/)
 
-### Minimum Purchase Amount for Orders
+<!-- ### Minimum Purchase Amount for Orders
 
 You can now allow sellers to set a minimum purchase amount for orders. That is, using this feature, you can restrict purchases for customers if the checkout condition is not satisfied. 
 
 The customer can proceed to checkout only when the cart amount is greater than or equal to the minimum purchase amount set by the seller.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Configuration-Admin-2-1.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minimumpurchase.webp)
 
 All you need to do is just visit the **General Configuration** section of the app and enable the tab. 
 
@@ -27,11 +27,11 @@ So, as soon as you enable the “**Minimum Purchase Amount**” tab, the same wi
 
 That is, sellers can set a minimum amount required for the customers while purchasing products.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/General-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniseller.webp)
 
 Now, only when the cart amount reaches the “minimum purchase amount”, the customers can proceed for checkout.
 
-Else, the customer can either add more products to cart or increase product quantity so that the cart amount can reach the minimum purchase amount & he can easily proceed for checkout.
+Else, the customer can either add more products to cart or increase product quantity so that the cart amount can reach the minimum purchase amount & he can easily proceed for checkout. -->
 
 ### C2C: CONVERT YOUR CUSTOMERS TO SELLERS
 
@@ -52,7 +52,7 @@ To paste the below given, follow the below process:
 
 Once it is done, you will have to enable **C2C Marketplace** button from **General Configuration** >>> Activate this feature.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/13-10.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/c2c.webp)
 
 **The functionality of C2C Marketplace:-  
 **Enabling this feature, you can allow the buyers to convert into the sellers.
@@ -62,7 +62,7 @@ As soon as you enable this feature, you will have a few options to choose when y
 \-At the time of seller approval  
 \-Don’t need to create customers.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Screenshot6.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/c22c.webp)
 
 **If the 1st option “At the time of sign up” is enabled:-**  
 The sellers will be added as a customer as soon as they get registered to the marketplace.
@@ -92,7 +92,7 @@ You can now allow sellers to set a minimum purchase amount for orders. That is, 
 
 The customer can proceed to checkout only when the cart amount is greater than or equal to the minimum purchase amount set by the seller.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Configuration-Admin-2-1.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minimumpurchase.webp)
 
 All you need to do is just visit the **General Configuration** section of the app and enable the tab. 
 
@@ -100,7 +100,7 @@ So, as soon as you enable the “**Minimum Purchase Amount**” tab, the same wi
 
 That is, sellers can set a minimum amount required for the customers while purchasing products.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/General-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniseller.webp)
 
 Now, only when the cart amount reaches the “minimum purchase amount”, the customers can proceed for checkout.
 
@@ -121,7 +121,7 @@ So, go to Multi-vendor Admin Panel and then
 
 Configuration >>Instruction for Marketplace >> Scroll down to get the codes for “Seller’s Minimum Purchase Amount for Orders” >> Copy the code from there & add it to the instructed liquid files.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Instructions-Admin.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minicode.webp)
 
 Once you add the codes to their respective liquid files, this will be the visibility of the cart page (Refer below screenshots).
 
@@ -169,22 +169,3 @@ This makes it easier for admins and sellers from different regions to use the ap
 
 **Note** : **This feature is not compatible with the Weglot Translation featured app. If Weglot is enabled, this feature will not function as expected.**
 
-### Google Translation For Admin And Seller Panel
-
-We’ve added a new feature in our Multivendor Marketplace app that allows you to translate both the Admin and Seller panels using Google Translate.
-
-With just one configuration, you can choose whether you want to translate only the Admin panel, only the Seller panel, or both.
-
-![configuration-google-translate](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/translate-1200x575.webp)
-
-To enable this feature, simply navigate to **Admin Panel >> Configuration >> General Configuration** and choose your preferred option.
-
-Once enabled, a Google Translate dropdown will appear at the top-right corner of the selected panel(s).
-
-![configuration-translation-dropdown](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/dropdown-1200x943.webp)
-
-From there, you can choose your preferred language, and the entire panel will be translated instantly.
-
-This makes it easier for admins and sellers from different regions to use the app in their own language, offering a more user-friendly and accessible experience.
-
-**Note** : **This feature is not compatible with the Weglot Translation featured app. If Weglot is enabled, this feature will not function as expected.**

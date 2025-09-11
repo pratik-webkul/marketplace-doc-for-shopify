@@ -64,7 +64,12 @@ export default defineUserConfig({
             { text: 'General configuration', link: '/classic/configuration/general-configration' },
             { text: 'Product configuration', link: '/classic/configuration/product-configration' },
             { text: 'Seller configuration', link: '/classic/configuration/Seller-configuration' },
-            { text: 'Invoice configuration', link: '/classic/configuration/Invoice configuration' }
+            { text: 'Invoice configuration', link: '/classic/configuration/Invoice configuration' },
+            { text: 'Configuration Updates', link: '/classic/configuration/Configuration Updates' },
+            { text: 'Minimum Purchase Quantity', link: '/classic/configuration/Minimum Purchase Quantity' },
+            { text: 'Minimum Purchase Amount', link: '/classic/configuration/Minimum Purchase Amount' }
+
+
             // Add more configuration if needed 
           ]
         },
@@ -86,7 +91,8 @@ export default defineUserConfig({
             { text: 'Import products', link: '/classic/products/Import-products' },
             { text: 'Add products', link: '/classic/products/Add-products' },
             { text: 'Collection sync', link: '/classic/products/Collection-sync' },
-            { text: 'Products updates', link: '/classic/products/Products-updates' }
+            { text: 'Products updates', link: '/classic/products/Products-updates' },
+            { text: 'Multilevel Collection', link: '/classic/products/Multilevel Collection' },
           ]
         },
         {
@@ -201,7 +207,48 @@ export default defineUserConfig({
                 { text: 'INDIAN GST', link: '/classic/Featured-App/Marketplace Product Add-Ons/INDIAN GST' },
                 { text: 'PRODUCT EXPIRY', link: '/classic/Featured-App/Marketplace Product Add-Ons/PRODUCT EXPIRY' },
                 { text: 'SLOT PRICING', link: '/classic/Featured-App/Marketplace Product Add-Ons/SLOT PRICING' },
-                { text: 'BOOKING PRODUCT', link: '/classic/Featured-App/Marketplace Product Add-Ons/BOOKING PRODUCT' }
+                { text: 'BOOKING PRODUCT', link: '/classic/Featured-App/Marketplace Product Add-Ons/BOOKING PRODUCT' },
+                { text: 'DAILY DEALS', link: '/classic/Featured-App/Marketplace Product Add-Ons/DAILY DEALS' },
+                { text: 'ARTIST PRODUCT DESIGN', link: '/classic/Featured-App/Marketplace Product Add-Ons/ARTIST PRODUCT DESIGN' },
+                { text: 'PRODUCT REVIEW', link: '/classic/Featured-App/Marketplace Product Add-Ons/PRODUCT REVIEW' },
+                { text: 'CUSTOM OPTIONS', link: '/classic/Featured-App/Marketplace Product Add-Ons/CUSTOM OPTIONS' },
+                { text: 'PAY WHAT YOU WANT', link: '/classic/Featured-App/Marketplace Product Add-Ons/PAY WHAT YOU WANT' },
+                { text: 'CROWDFUNDING', link: '/classic/Featured-App/Marketplace Product Add-Ons/CROWDFUNDING' },
+                { text: 'PREORDER INTEGRATION', link: '/classic/Featured-App/Marketplace Product Add-Ons/PREORDER INTEGRATION' },
+                { text: 'DELIVERY SLOT MANAGEMENT', link: '/classic/Featured-App/Marketplace Product Add-Ons/DELIVERY SLOT MANAGEMENT' },
+                { text: 'PACK PRODUCT INTEGRATION', link: '/classic/Featured-App/Marketplace Product Add-Ons/PACK PRODUCT INTEGRATION' },
+                { text: 'DELIVERY BOY INTEGRATION', link: '/classic/Featured-App/Marketplace Product Add-Ons/DELIVERY BOY INTEGRATION' },
+                { text: 'E-SIGNATURE', link: '/classic/Featured-App/Marketplace Product Add-Ons/E-SIGNATURE' }
+              ]
+            },
+            {
+              text:'Marketplace Other Add-Ons',
+              collapsible: true,
+              children:[
+                { text: 'LOCATE YOUR PICKUP STORE', link: '/classic/Featured-App/Marketplace Other Add-Ons/LOCATE YOUR PICKUP STORE' },
+                { text: 'SUBSCRIPTION PRODUCT WITH STRIPE CONNECT', link: '/classic/Featured-App/Marketplace Other Add-Ons/SUBSCRIPTION PRODUCT WITH STRIPE CONNECT' },
+                { text: 'CHAT GPT', link: '/classic/Featured-App/Marketplace Other Add-Ons/CHAT GPT' },
+                { text: 'MULTIVENDOR DATABASE BACKUP', link: '/classic/Featured-App/Marketplace Other Add-Ons/MULTIVENDOR DATABASE BACKUP' },
+                { text: 'WATERMARK', link: '/classic/Featured-App/Marketplace Other Add-Ons/WATERMARK' },
+                { text: 'SELLER BLOG', link: '/classic/Featured-App/Marketplace Other Add-Ons/SELLER BLOG' },
+                { text: 'EASY GROUP BUY APP', link: '/classic/Featured-App/Marketplace Other Add-Ons/EASY GROUP BUY APP' }
+              ]
+            },
+            {
+              text:'Marketplace Miscellaneous Add-ons',
+              collapsible: true,
+              children:[
+                { text: 'SMS ALERT', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/SMS ALERT' },
+                { text: 'WEGLOT TRANSLATION', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/WEGLOT TRANSLATION' },
+                { text: 'MULTIVENDOR API', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/MULTIVENDOR API' },
+                { text: 'SELLER STAFF', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/SELLER STAFF' },
+                { text: 'ADMIN STAFF', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/ADMIN STAFF' },
+                { text: 'MULTI LOCATION INVENTORY', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/MULTI LOCATION INVENTORY' },
+                { text: 'CUSTOMER ORDER MANAGEMENT', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/CUSTOMER ORDER MANAGEMENT' },
+                { text: 'SPLIT CART', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/SPLIT CART' },
+                { text: 'HYPERLOCAL MARKETPLACE', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/HYPERLOCAL MARKETPLACE' },
+                { text: 'ROUTE INSURANCE', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/ROUTE INSURANCE' },
+                { text: 'ZOHO INTEGRATION', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/ZOHO INTEGRATION' }               
               ]
             }
           ]
@@ -227,7 +274,11 @@ export default defineUserConfig({
             { text: 'General configuration', link: '/zenith/configuration/general-configration' },
             { text: 'Product configuration', link: '/zenith/configuration/product-configration' },
             { text: 'Seller configuration', link: '/zenith/configuration/Seller-configuration' },
-            { text: 'Invoice configuration', link: '/zenith/configuration/Invoice configuration' }
+            { text: 'Invoice configuration', link: '/zenith/configuration/Invoice configuration' },
+            { text: 'Configuration Updates', link: '/zenith/configuration/Configuration Updates' },
+            { text: 'Minimum Purchase Quantity', link: '/zenith/configuration/Minimum Purchase Quantity' },
+            { text: 'Minimum Purchase Amount', link: '/zenith/configuration/Minimum Purchase Amount' }
+
             // Add more configuration if needed 
           ]
         },
@@ -362,7 +413,50 @@ export default defineUserConfig({
                 { text: 'PRODUCT AUCTION FOR SELLER', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT AUCTION FOR SELLER' },
                 { text: 'SPONSORED PRODUCT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/SPONSORED PRODUCT' },
                 { text: 'INDIAN GST', link: '/zenith/Featured-App/Marketplace Product Add-Ons/INDIAN GST' },
-                { text: 'PRODUCT EXPIRY', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT EXPIRY' }
+                { text: 'PRODUCT EXPIRY', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT EXPIRY' },
+                { text: 'SLOT PRICING', link: '/zenith/Featured-App/Marketplace Product Add-Ons/SLOT PRICING' },
+                { text: 'BOOKING PRODUCT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/BOOKING PRODUCT' },
+                { text: 'DAILY DEALS', link: '/zenith/Featured-App/Marketplace Product Add-Ons/DAILY DEALS' },
+                { text: 'ARTIST PRODUCT DESIGN', link: '/zenith/Featured-App/Marketplace Product Add-Ons/ARTIST PRODUCT DESIGN' },
+                { text: 'PRODUCT REVIEW', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT REVIEW' },
+                { text: 'CUSTOM OPTIONS', link: '/zenith/Featured-App/Marketplace Product Add-Ons/CUSTOM OPTIONS' },
+                { text: 'PAY WHAT YOU WANT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PAY WHAT YOU WANT' },
+                { text: 'CROWDFUNDING', link: '/zenith/Featured-App/Marketplace Product Add-Ons/CROWDFUNDING' },
+                { text: 'PREORDER INTEGRATION', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PREORDER INTEGRATION' },
+                { text: 'DELIVERY SLOT MANAGEMENT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/DELIVERY SLOT MANAGEMENT' },
+                { text: 'PACK PRODUCT INTEGRATION', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PACK PRODUCT INTEGRATION' },
+                { text: 'DELIVERY BOY INTEGRATION', link: '/zenith/Featured-App/Marketplace Product Add-Ons/DELIVERY BOY INTEGRATION' },
+                { text: 'E-SIGNATURE', link: '/zenith/Featured-App/Marketplace Product Add-Ons/E-SIGNATURE' }
+              ]
+            },
+            {
+              text:'Marketplace Other Add-Ons',
+              collapsible: true,
+              children:[
+                { text: 'LOCATE YOUR PICKUP STORE', link: '/zenith/Featured-App/Marketplace Other Add-Ons/LOCATE YOUR PICKUP STORE' },
+                { text: 'SUBSCRIPTION PRODUCT WITH STRIPE CONNECT', link: '/zenith/Featured-App/Marketplace Other Add-Ons/SUBSCRIPTION PRODUCT WITH STRIPE CONNECT' },
+                { text: 'CHAT GPT', link: '/zenith/Featured-App/Marketplace Other Add-Ons/CHAT GPT' },
+                { text: 'MULTIVENDOR DATABASE BACKUP', link: '/zenith/Featured-App/Marketplace Other Add-Ons/MULTIVENDOR DATABASE BACKUP' },
+                { text: 'WATERMARK', link: '/zenith/Featured-App/Marketplace Other Add-Ons/WATERMARK' },
+                { text: 'SELLER BLOG', link: '/zenith/Featured-App/Marketplace Other Add-Ons/SELLER BLOG' },
+                { text: 'EASY GROUP BUY APP', link: '/zenith/Featured-App/Marketplace Other Add-Ons/EASY GROUP BUY APP' }
+              ]
+            },
+            {
+              text:'Marketplace Miscellaneous Add-ons',
+              collapsible: true,
+              children:[
+                { text: 'SMS ALERT', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/SMS ALERT' },
+                { text: 'WEGLOT TRANSLATION', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/WEGLOT TRANSLATION' },
+                { text: 'MULTIVENDOR API', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/MULTIVENDOR API' },
+                { text: 'SELLER STAFF', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/SELLER STAFF' },
+                { text: 'ADMIN STAFF', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/ADMIN STAFF' },
+                { text: 'MULTI LOCATION INVENTORY', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/MULTI LOCATION INVENTORY' },
+                { text: 'CUSTOMER ORDER MANAGEMENT', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/CUSTOMER ORDER MANAGEMENT' },
+                { text: 'SPLIT CART', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/SPLIT CART' },
+                { text: 'HYPERLOCAL MARKETPLACE', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/HYPERLOCAL MARKETPLACE' },
+                { text: 'ROUTE INSURANCE', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/ROUTE INSURANCE' },
+                { text: 'ZOHO INTEGRATION', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/ZOHO INTEGRATION' }               
               ]
             }
           ]
