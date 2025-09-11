@@ -14,6 +14,10 @@ Sellers can add items & sell them to your store. You, on the other hand, appreci
 
 As soon as the sellers get registered to your marketplace, they will have separate seller panels from where they can manage their products.
 
+Click here to watch the video ⬇️ 
+
+[![Watch the video](https://img.youtube.com/vi/Mj_ezYDM81w/0.jpg)](https://www.youtube.com/watch?v=Mj_ezYDM81w) 
+
 You can also add products from your admin panel and assign products to any of your registered sellers.
 
 ### How to add Products?

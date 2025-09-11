@@ -45,7 +45,7 @@ Then the admin will be redirected to the Multivendor admin dashboard where the a
 
 Once you install the Multivendor app on your store you will be straightaway land to the home page of the Multivendor Marketplace app.
 
-[![Home Page Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/10/first-page-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/10/first-page-1.png)
+[![Home Page Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/dashboard-new-theme.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/dashboard-new-theme.webp)
 
 This is the view of the Home Page from where you can check all the recent updates of the app:
 
@@ -74,18 +74,18 @@ The menu functions the same way but there are changes in the positioning:
 
 The Admin dashboard is much more informative now. You can now check the Best Selling Product, Recent already RegisterSellers, Recent Order, etc., simply by looking at the dashboard.
 
-[![Admin Dashboard Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/10/Dashboard-Admin-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/10/Dashboard-Admin-.png)
+[![Admin Dashboard Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/dashborad-newtheme-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/dashborad-newtheme-scaled.webp)
 
 ### Configuration
 
 With this, you can manage the Configuration of the App.
 
-![dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/dashborad-1200x603.webp)
+![dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/configuration.webp)
 
 **Instruction for Marketplace**
 ---------------------------------
 
-![Details Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Instructions-_-Admin.jpg)
+![Details Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/instruction-1-scaled.webp)
 
 This includes all the information, which was there in the "configuration" menu before, i.e., the old theme.
 
@@ -100,9 +100,9 @@ This includes information that relate to the Admin account.
 
 From here, the admin can enter the business email, set the currency for the shop, choose the weight unit for products, and much more.
 
-![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Configuration-_-Admin.jpg)
+![General configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/general-configuration-scaled.webp)
 
-To know about the **Configuration Updates**, Kindly refer: [Click Here](http://localhost:8080/configuration/general-configration.html)
+To know about the **Configuration Updates**, Kindly refer: [Click Here](https://marketplace-doc.webkul.com/zenith/configuration/general-configration.html)
 
 **Product Configuration**
 --------------------------
@@ -111,9 +111,9 @@ All the Product related configurations can be done from this menu.
 
 Here, you can provide an option to add/edit/delete the products to your sellers, you can enable the option to auto-approve your products, auto-enable the added products and much more.
 
-![product configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/1-7.png)
+![product configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/productconfig-scaled.webp)
 
-To know about the **Product Updates**, please refer: [Click Here](http://localhost:8080/configuration/product-configration.html)
+To know about the **Product Updates**, please refer: [Click Here](https://marketplace-doc.webkul.com/zenith/configuration/product-configration.html)
 
 **Seller Configuration**
 -------------------------
@@ -122,9 +122,9 @@ All the Seller-related configuration can be done from this menu.
 
 From here, you can allow your sellers to fulfill items, enable the option to auto-approve the added sellers, allow sellers to view customers' details and much more.
 
-[![ seller configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/seller-configuration-7.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/seller-configuration-7.png)
+[![ seller configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerconfig-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerconfig-scaled.webp)
 
-To know about the **Seller Updates**, Kindly refer: [Click Here/](http://localhost:8080/configuration/Seller-configuration.html)
+To know about the **Seller Updates**, Kindly refer: [Click Here/](https://marketplace-doc.webkul.com/zenith/configuration/Seller-configuration.html)
 
 **Order Configuration**
 -------------------------
@@ -133,7 +133,7 @@ All the configuration related to Orders can be done from here. You can make the 
 
 Also, you can enable the "Order Prepare Status" option to track the order preparation by the sellers and much more.
 
-![order configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/2-9.png)
+![order configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/orderconfig-scaled.webp)
 
 To know more about the **Order-related Updates**, Kindly refer: [https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/)
 
@@ -144,13 +144,13 @@ Admin will set up the Payment Methods for his sellers from here and the same pay
 
 You can also set the "Shipping cost" and "Taxes" the way you want to distribute these charges between you and your sellers.
 
-![payment ](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/one-9-1200x604.webp)
+![payment ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/seller-payment.webp)
 
-![methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/two-12-1200x598.webp)
+![methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpayment-scaled.webp)
 
-![settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/three-7-565x1024.webp)
+![settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpaymentc-scaled.webp)
 
-![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/four-7-1200x599.webp)
+![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpaymentconfig-scaled.webp)
 
 Check the **Complete Payment Flow** of the Multi-vendor Marketplace App: [Click Here](http://localhost:8080/payment/overview.html)
 
@@ -159,7 +159,7 @@ Check the **Complete Payment Flow** of the Multi-vendor Marketplace App: [Click 
 
 Also, you can restrict the Product Category, Total Order Commission & Total Order Amount to be displayed on the dashboard.
 
-[![Restriction configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/4-6.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/restriction-10.png)
+[![Restriction configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/restrict-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/restrict-scaled.webp)
 
 **Custom Fields**
 ------------------
@@ -168,7 +168,7 @@ From here, the Admin can view all the custom fields added for sellers/products a
 
 The main purpose of this is to have extra information either from the Seller or about the product being added by the Seller.
 
-[![Custom Fields Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Custom-Fields-Admin-18-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Custom-Fields-Admin-18-1.png)
+[![Custom Fields Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/customfield.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/customfield.webp)
 
 Know how to add custom fields in the app: [https://webkul.com/blog/add-custom-fields-on-multi-vendor-marketplace-for-shopify/](https://webkul.com/blog/add-custom-fields-on-multi-vendor-marketplace-for-shopify/)
 
@@ -192,8 +192,8 @@ You can check the **Video Guide** to know how the admin can add sellers on the m
 
 This will list all the Sellers that are registered with the Multivendor App. Admin can export the Seller Details. Admin can edit/disable the seller and can also add a new seller from this menu.
 
-![Adding Sellers Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/a.png)
-
+![Adding Sellers Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerlisting.webp)
+z   
 **Seller Form Settings**
 -------------------------
 
@@ -206,14 +206,14 @@ Admin can manage the fields to be shown to the seller at the time of registratio
 
 Admin can manage the labels for the sold by the link on a product page and also all the labels for the Seller Profile page :
 
-[![Shop Page settings Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Shop-Page-Settings-14.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Shop-Page-Settings-14.png)
+[![Shop Page settings Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/shoppagesettings-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/shoppagesettings-scaled.webp)
 
 **Seller Profile Page Settings**
 ----------------------------------
 
 Admin can manage all the fields that are to be shown on the Seller Profile Page. Custom CSS can also be written to change the view of the Seller Profile Page at the Shopify end.
 
-![Seller profile page setting Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/b-1.png)
+![Seller profile page setting Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerprofilepage-scaled.webp)
 
 To **know more**, kindly refer to this User Guide: [https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/](https://webkul.com/blog/shopify-multivendor-marktplace-custom-seller-profile-page-new-theme/)
 
@@ -221,7 +221,7 @@ To **know more**, kindly refer to this User Guide: [https://webkul.com/blog/shop
 
 From here, admin can manage the Seller Login Page fields, labels, logo and can also write its own JS and CSS for the page. The favicon icon upload option is provided here.
 
-[![Customize seller page Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Customize-Seller-Pages-16.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Customize-Seller-Pages-16.png)
+[![Customize seller page Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/customise-seller-page-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/customise-seller-page-scaled.webp)
 
 > **Custom CSS** for seller dashboard option is now **available** in **all the three plans** (Basic, Executive, Pro) of the Multi-vendor Marketplace App.
 
@@ -253,7 +253,7 @@ Also, you can import your Shopify Store products into the app and assign product
 
 Screenshot lists the submenu:
 
-[![Product listing Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Product-Admin-19.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Product-Admin-19.png)
+[![Product listing Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/product.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/product.webp)
 
 ### Video Guide:Products
 
@@ -267,7 +267,7 @@ Admin Adding Products Here is the **Video Guide** to know how the admin adds pro
 
 Admin can view the list of all the Products added by the Sellers and can manage them easily. He can export product details, add products by CSV, edit products in bulk and much more.
 
-[![Add Product Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Product-List-admin-end-20.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Product-List-admin-end-20.png)
+[![Add Product Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/productlisting.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/productlisting.webp)
 
 **Product Tags**
 -----------------
@@ -278,15 +278,15 @@ Once done then the admin can add the tags.
 
 By this seller cannot be able to add any new tags while creating the product and will have to use the tags which are already created by you.
 
-[![ Restrict Tags Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/tags-configure-admin-22-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/tags-configure-admin-22-1.png)
+[![ Restrict Tags Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/restricttag.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/restricttag.webp)
 
 Once done, save the changes.
 
-[![Add tags Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Add-Product-Tag-Admin-23.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Add-Product-Tag-Admin-23.png)
+[![Add tags Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/addtags.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/addtags.webp)
 
 A new tag added to the app :
 
-![Product Tags Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/g.png)
+![Product Tags Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/edittags.webp)
 
 Please note:- The tags which are created by admin from the Shopify store cannot be synced in the multivendor marketplace app.
 
@@ -301,24 +301,24 @@ Once done then the admin can add the type to the app.
 
 By this seller cannot be able to add any new Product types while creating the product and will have to use the product types which are already created by you.
 
-![ Restrict Product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/1-8.png)
+![ Restrict Product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/restricttype.webp)
 
-![Add product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/2-10.png)
+![Add product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/addtype.webp)
 
-![Edit Product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/h.png)
+![Edit Product Type Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/edittype.webp)
 
 **Collections** 
 ------------------
 
 You can have the collections sync from the Shopify store to the multivendor app. To do so, you need to enable, "restrict collections" from the configuration :
 
-[![Restrict Collection Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Configuration-collection-26.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Configuration-collection-26.png)
+[![Restrict Collection Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/restcoll.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/restcoll.webp)
 
 Then from the collection submenu, sync the collections. This will list all your collections on the app.
 
 You can also disable the collections and those will not be visible to the seller.
 
-[![Add Collection Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Collections-Admin-27.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Collections-Admin-27.png)
+[![Add Collection Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/addcoll.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/addcoll.webp)
 
 Smart collections are synced this way: 
 
@@ -328,25 +328,27 @@ To know more about **Collection Sync**, Please refer: [https://webkul.com/blog/s
 
 If you want the seller to view the smart collections then you can disable the "restrict smart collection" from the "Restrict Configuration"
 
-**Import  Products** If you have products added to the Shopify Store and now you want to assign them to the sellers, then you can use this option to import products into the app.
+**Import  Products** 
+----------------------
+If you have products added to the Shopify Store and now you want to assign them to the sellers, then you can use this option to import products into the app.
 
 Firstly admin needs to click on "import products" section to import the products from Shopify store into a multivendor marketplace
 
-[![Import Product Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Import-Product-From-Shopify-Admin-29.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Import-Product-From-Shopify-Admin-29.png)
+[![Import Product Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/import.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/import.webp)
 
-![Import Now Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/c-1.png)
+![Import Now Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/importproduct.webp)
 
 Now make sure to assign these imported products to your sellers because only then the imported products will start showing on the "Products Listing' section of the Multivendor app.
 
-![Assign Products Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/3-8.png)
+![Assign Products Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/assign.webp)
 
 This way you can successfully import the products from your Shopify store into a multivendor marketplace app.
 
-**Import Products from Shopify to the App** know more: [https://webkul.uvdesk.com/da/blog/import-products-in-shopify-multivendor-marketplace](https://webkul.uvdesk.com/da/blog/import-products-in-shopify-multivendor-marketplace)
+**Import Products from Shopify to the App** know more: [https://marketplace-doc.webkul.com/classic/products/Import-products.html](https://marketplace-doc.webkul.com/classic/products/Import-products.html)
 
 **Product Form Customization** With this Admin can manage the "Add Product Form" for normal as well as digital products in the app.
 
-![Product Form Customization Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/d.png)
+![Product Form Customization Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pfc-scaled.webp)
 
 **Batch CSVs** This section will have the list of all the CSVs you have upload on your store till now. They can be the product, seller or any other CSV file.*   It can be approved/disapproved & deleted by the Admin.
 

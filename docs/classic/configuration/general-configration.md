@@ -13,26 +13,6 @@ From here, the admin can enter the business email, set the currency for the shop
 
 To know about the **Configuration Updates**, Kindly refer: [https://webkul.com/blog/configuration-updates-multi-vendor-marketplace-for-shopify/](https://webkul.com/blog/configuration-updates-multi-vendor-marketplace-for-shopify/)
 
-### Minimum Purchase Amount for Orders
-
-You can now allow sellers to set a minimum purchase amount for orders. That is, using this feature, you can restrict purchases for customers if the checkout condition is not satisfied. 
-
-The customer can proceed to checkout only when the cart amount is greater than or equal to the minimum purchase amount set by the seller.
-
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Configuration-Admin-2-1.png)
-
-All you need to do is just visit the **General Configuration** section of the app and enable the tab. 
-
-So, as soon as you enable the “**Minimum Purchase Amount**” tab, the same will reflect at the seller side in the General Configuration menu.
-
-That is, sellers can set a minimum amount required for the customers while purchasing products.
-
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/General-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
-
-Now, only when the cart amount reaches the “minimum purchase amount”, the customers can proceed for checkout.
-
-Else, the customer can either add more products to cart or increase product quantity so that the cart amount can reach the minimum purchase amount & he can easily proceed for checkout.
-
 ### C2C: CONVERT YOUR CUSTOMERS TO SELLERS
 
 Take advantage of the new functionality of converting your customers into sellers with ease.
@@ -149,25 +129,7 @@ This feature allows the admin to replace the default currency symbol displayed i
 
 To configure the default currency symbol for your sellers, the Admin needs to navigate to:  
 Admin Dashboard>General Configuration>Enable Custom Currency Symbol>Enter your Currency Symbol>Save changes.
-### Google Translation For Admin And Seller Panel
 
-We’ve added a new feature in our Multivendor Marketplace app that allows you to translate both the Admin and Seller panels using Google Translate.
-
-With just one configuration, you can choose whether you want to translate only the Admin panel, only the Seller panel, or both.
-
-![configuration-google-translate](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/translate-1200x575.webp)
-
-To enable this feature, simply navigate to **Admin Panel >> Configuration >> General Configuration** and choose your preferred option.
-
-Once enabled, a Google Translate dropdown will appear at the top-right corner of the selected panel(s).
-
-![configuration-translation-dropdown](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/dropdown-1200x943.webp)
-
-From there, you can choose your preferred language, and the entire panel will be translated instantly.
-
-This makes it easier for admins and sellers from different regions to use the app in their own language, offering a more user-friendly and accessible experience.
-
-**Note** : **This feature is not compatible with the Weglot Translation featured app. If Weglot is enabled, this feature will not function as expected.**
 
 ### Google Translation For Admin And Seller Panel
 

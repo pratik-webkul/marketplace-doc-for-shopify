@@ -12,6 +12,11 @@ This user manual perfectly guides you to understand the Seller **payment** in th
 
 By default, Admin receives the complete amount of the order paid by the buyer/customer, and then Admin transfers it to the seller after deducting his/her commission.
 
+Click here to watch the video ⬇️ 
+
+[![Watch the video](https://img.youtube.com/vi/Mj_ezYDM81w/0.jpg)](https://www.youtube.com/watch?v=Mj_ezYDM81w)
+
+
 Admin can pay sellers/vendors by five payment methods in the multivendor app, in which three payment methods are online and two payment methods are offline.
 
 **Online Payment Methods:-**
