@@ -1,6 +1,6 @@
 **Shopify Multivendor Marketplace- Feature Apps Upgraded**
 
-[Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) is an ultimate tool to convert your shop into a fully-functioning marketplace. Through this, you can add sellers to your online store and keep track of their sales.
+[Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) is an ultimate tool to convert your shop into a fully-functioning marketplace. Through this, you can add sellers to your online store and keep track of their sales.
 
 Within this app, we have introduced numerous "**Feature Apps**" that provide additional benefits to the admin as well as to the sellers.
 
@@ -436,7 +436,7 @@ SWISS POST
 
 ![screenshot_1691666679035](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691666679035.png)
 
-The [Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) has introduced another shipping feature app for order fulfillment named [**Swiss Post**](https://www.post.ch/en/) i.e. **the national postal service of Switzerland.**
+The [Multi-vendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) has introduced another shipping feature app for order fulfillment named [**Swiss Post**](https://www.post.ch/en/) i.e. **the national postal service of Switzerland.**
 
 By enabling the Swiss Post shipping featured app, the admin can allow sellers to manage the order fulfillment via Swiss Post shipping.
 
@@ -511,7 +511,7 @@ Seller Membership
 
 ![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-10-4.png)
 
-[Shopify Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) Seller Membership feature.
+[Shopify Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) Seller Membership feature.
 
 It enables the store owner to create plans and seller needs to subscribe the plan if he/she wants to publish his/her products in the shopify store of the admin.
 
@@ -589,7 +589,7 @@ SOCIAL MEDIA LOGIN
 
 Shopify Multivendor Marketplace Social Media Login feature is here.
 
-Through this sellers can log in to their [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) seller panel using Gmail and Facebook accounts.
+Through this sellers can log in to their [Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) seller panel using Gmail and Facebook accounts.
 
 Admin can enable this feature with an additional charge of USD 10 per month over and above your selected Multivendor plan.
 
@@ -604,7 +604,7 @@ Shopify Multivendor Marketplace EMAIL MARKETING feature is here.
 
 If you are planning to send bulk emails to sellers manually, and want to create an email campaign for your sellers then this marketplace featured app is for you.
 
-Using this email marketing featured app you can connect klaviyo account with your [multivendor marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) and your seller profiles will transfer to your klaviyo account also.
+Using this email marketing featured app you can connect klaviyo account with your [multivendor marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/) and your seller profiles will transfer to your klaviyo account also.
 
 Admin can enable this feature with an additional charge of USD 5 per month over and above your selected Multivendor plan.
 
@@ -690,7 +690,7 @@ Product Feed
 
 ![product feed](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-24-1.png)
 
-With the help of [Shopify Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) Product Feed app, merchant can add products from different ecommerce platform into Shopify store.
+With the help of [Shopify Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) Product Feed app, merchant can add products from different ecommerce platform into Shopify store.
 
 Admin can enable this feature with an additional charge of USD 10 per month over and above your selected Multivendor plan.  
 To know more about this feature app, refer its [**USER GUIDE**](https://webkul.com/blog/shopify-multivendor-marketplace-product-feed/)
@@ -764,7 +764,7 @@ Artist Product Design
 
 ![artist product design ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-8.png)
 
-Till now, the Admin was able to create/allow Sellers on his [Multivendor Marketplace for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/), but now with the new Multivendor Marketplace feature app, **Artist Product Design**,
+Till now, the Admin was able to create/allow Sellers on his [Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/), but now with the new Multivendor Marketplace feature app, **Artist Product Design**,
 
 Admin can create/add Artists on his store and let them add designs for the products to sell.
 
@@ -805,7 +805,7 @@ SUBSCRIPTION
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/fghjfghj.webp)
 
-We have introduced an additional feature in our [Multivendor Marketplace app for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) name “Subscription” Feature app which enables the Customers to subscribe to sellers as well as products.
+We have introduced an additional feature in our [Multivendor Marketplace app for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/) name “Subscription” Feature app which enables the Customers to subscribe to sellers as well as products.
 
 You can get this feature app at a monthly subscription of $ 10 (USD) over & above your current multivendor app plan.
 
@@ -831,7 +831,7 @@ PREORDER INTEGRATION
 
 [PreOrder](https://webkul.com/blog/preorder-strategy-2020-rev-up-your-shopify-store-sales/) is a great approach to determine the product in high demand. You can allow pre-order on your marketplace products and earn even before the product release.
 
-The [Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify is now integrated with the Pre-order Controller App.
+The [Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify is now integrated with the Pre-order Controller App.
 
 Enabling the PreOrder feature app, you can **auto-enable pre-order** for the seller’s products soon after the items get out of stock.
 
@@ -844,7 +844,7 @@ Delivery slot Management
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/fkdjsdkfjkdf.webp)
 
-Now, the [Delivery Slot Management app](https://webkul.com/blog/delivery-slot-management-for-shopify/) is integrated with the very popular **[Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/)** for Shopify.
+Now, the [Delivery Slot Management app](https://webkul.com/blog/delivery-slot-management-for-shopify/) is integrated with the very popular **[Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/)** for Shopify.
 
 The app allows the merchants to add delivery method to the app, create slots for the customers for on-time deliveries and fixed-day deliveries.
 
@@ -857,7 +857,7 @@ PACK PRODUCT INTEGRATION
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/wdfdffd.webp)
 
-The [Pack & Combo Product app](https://webkul.com/blog/shopify-pack-product-app/) is now integrated with the [Multi-vendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify.
+The [Pack & Combo Product app](https://webkul.com/blog/shopify-pack-product-app/) is now integrated with the [Multi-vendor Marketplace App](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify.
 
 Enabling this feature, you can allow sellers to create pack and combo products from their seller panel. You as an admin can also add pack & combo products from your admin panel in the app.
 
@@ -907,7 +907,7 @@ Here is the list of all the connector add-ons available for the marketplace:-
 
 If your sellers also have Shopify stores and they want to add products from their respective stores to your Shopify store
 
-then this can be effortlessly achieved using the **Seller Shopify Store Connector** featured app of the [Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/).
+then this can be effortlessly achieved using the **Seller Shopify Store Connector** featured app of the [Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/).
 
 You can get this feature app at a monthly subscription of $ 40 (USD) over & above your current multivendor app plan.
 
@@ -919,7 +919,7 @@ Woocommerce Connector
 ![woocommerce connector 
 ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-9.png)
 
-Here is another feature app in the [Multivendor App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) named **WooCommerce Connector** using which
+Here is another feature app in the [Multivendor App](https://marketplace-doc.webkul.com/classic/Introduction/) named **WooCommerce Connector** using which
 
 You as a Store Owner can allow your Sellers to sync their WooCommerce Store’s products with your Shopify Store.
 
@@ -934,7 +934,7 @@ Bigcommerce Connector
 
 ![screenshot_1690815446918](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/screenshot_1690815446918.png)
 
-Here is another feature app in the [Multivendor App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) named **BigCommerce Connector** using which
+Here is another feature app in the [Multivendor App](https://marketplace-doc.webkul.com/classic/Introduction/) named **BigCommerce Connector** using which
 
 You as a Store Owner can allow your Sellers to sync their Bigcommerce Store’s products with your Shopify Store.
 
@@ -1082,7 +1082,7 @@ STRIPE CONNECT
 
 ![screenshot_1691416257398](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691416257398.png)
 
-We have launched the Stripe Connect payment gateway in the [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) app for Shopify where now after the customer pays the amount for the order,
+We have launched the Stripe Connect payment gateway in the [Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) app for Shopify where now after the customer pays the amount for the order,
 
 the amount will go to the respective Seller and Admin account directly as per the share configured on the basis of commission.
 
@@ -1097,7 +1097,7 @@ PAYPAL ADAPTIVE
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/dfgsfgfdgdfg.webp)
 
-We are here to introduce another feature app in [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify named **“PayPal Adaptive”** to manage payment within the app in a more secure way.
+We are here to introduce another feature app in [Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify named **“PayPal Adaptive”** to manage payment within the app in a more secure way.
 
 Through PayPal Adaptive, once the customer pays amount for the order via PayPal amount will get transferred automatically to the respective admin
 
@@ -1110,7 +1110,7 @@ PAYPAL MARKETPLACE
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/lkjhngb.webp)
 
-The **[Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/)** for Shopify has come up with the **PayPal Marketplace** feature app.
+The **[Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/)** for Shopify has come up with the **PayPal Marketplace** feature app.
 
 It allows the merchants to auto-pay to the sellers via **[PayPal](https://www.paypal.com/us/home)** once the customer pays the order amount.
 
@@ -1153,7 +1153,7 @@ TAXJAR
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/poiuygb.webp)
 
-[Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify is here with another feature app called “Taxjar” which helps you to calculate sales tax on products automatically.
+[Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify is here with another feature app called “Taxjar” which helps you to calculate sales tax on products automatically.
 
 With the help of Taxjar, admin can allow their sellers to collect sales tax from the buyers in the state where they have sales tax nexus.
 
@@ -1190,7 +1190,7 @@ PRODUCT SUBSCRIPTION
 
 ![Image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/tfgfgf.webp)
 
-To get this feature simply enable the Product subscription feature app in your [Multivendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/).
+To get this feature simply enable the Product subscription feature app in your [Multivendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/).
 
 Now allow your Sellers to add subscription for their products and provide maximum customer retention on your store.
 
@@ -1221,7 +1221,7 @@ CHAT GPT
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/poiuhgf.webp)
 
-We have launched Chat GPT integration with [Multivendor app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) which allows admin and seller to generate unique descriptions of products using OpenAI API ( which is used in Chat GPT )
+We have launched Chat GPT integration with [Multivendor app](https://marketplace-doc.webkul.com/classic/Introduction/) which allows admin and seller to generate unique descriptions of products using OpenAI API ( which is used in Chat GPT )
 
 Once you enable this feature, it will cost you 15 USD per month in addition to your current multivendor plan.
 
@@ -1251,7 +1251,7 @@ WATERMARK
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/hgfgfbgfbgbg.webp)
 
-The [Multi-vendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) comes up with another shipping feature app here namely **Watermark**.
+The [Multi-vendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) comes up with another shipping feature app here namely **Watermark**.
 
 This feature app allows merchant to add watermark on the digital files (PDFs and Images).
 
@@ -1326,7 +1326,7 @@ Split Cart
 
 ![split cart](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-11.png)
 
- [Multivendor Marketplace](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) module has come up with a featured app named **Split Cart.** It helps your buyers to have split carts during the checkout process.
+ [Multivendor Marketplace](https://marketplace-doc.webkul.com/classic/Introduction/) module has come up with a featured app named **Split Cart.** It helps your buyers to have split carts during the checkout process.
 
 This means that when the buyers will add multiple seller’s products to their cart, their cart will get split vendor-wise i.e. each cart will have a separate seller’s products.
 
@@ -1342,7 +1342,7 @@ Customer Order Management
 
 ![customer order management](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Feature-Apps-Admin-12.png)
 
-You might be using the [Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) on your Shopify store.
+You might be using the [Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/) on your Shopify store.
 
 Till now, your customers had no option to manage orders on their own once they purchase any seller’s products.
 
@@ -1420,7 +1420,7 @@ Route Insurance
 
 ![screenshot_1691651724408](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1691651724408.png)
 
-Using the [Multi-vendor Marketplace app](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify, you can allow customers to ensure their orders with **[Route](https://route.com/)**.
+Using the [Multi-vendor Marketplace app](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify, you can allow customers to ensure their orders with **[Route](https://route.com/)**.
 
 In Short, you can allow customers to enable insurance on product purchases and virtually track the packages to be shipped.
 

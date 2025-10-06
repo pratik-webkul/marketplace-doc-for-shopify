@@ -4,6 +4,7 @@ description: Digital Products Configuration
 date: 2025-07-02
 author: Chirag Tyagi
 ---
+
 If you are looking to build a marketplace with no restriction of shop type then [Multi-Vendor Marketplace for Shopify](http://localhost:8080/) is the solution.
 
 Selling physical as well as digital products on this Multi-Vendor Marketplace is really flexible & easy.
@@ -23,11 +24,11 @@ Firstly, the admin needs to configure the Shop Type as digital or both (digital 
 
 For this, go to Multivendor Marketplace Admin Panel > Configuration > General Configuration:
 
-![Dashboard Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Dashboard-Admin-2.png)
+![Dashboard Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg1.webp)
 
 On the redirected page, change the shop type as digital (if you only want to have digital products on your store) or both (if you want to have both digital & normal products on your store):
 
-![Screenshot from 2019 04 23 16 14 53](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-from-2019-04-23-16-14-53.png)
+![Screenshot from 2019 04 23 16 14 53](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg2.webp)
 
 ### Digital Product Form Customization
 
@@ -35,31 +36,31 @@ The admin can configure the product form, i.e., the form for adding a new digita
 
 For this, go to Multivendor Marketplace Admin Panel > Products > Product Form Customization:
 
-![bn nb ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Dashboard-Admin-1-4.png)
+![bn nb ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg3.webp)
 
 On this page, mark the fields you want to have and further save the customization.
 
-![Product Form Customization Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Form-Customization-Admin.png)
+![Product Form Customization Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg4.webp)
 
 ### How to add digital products?
 
 To add a digital product, go to Multivendor Marketplace Seller Panel > Products > Product Listing > Add Product:
 
-![Product Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Product-Seller-•-Multivendor-MarketPlace-3.png)
+![Product Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg5.webp)
 
 Choose the product as digital:
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/image-1200x597.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg6.webp)
 
 In the **Add Digital Product** section; upload your digital product file (the file should be less than or equal to 100 MBs), enter the number of accessible days for which your customers can access it.
 
 And enter the number of downloads allowed. (By default, the value is equal to zero which means unlimited access & downloading)
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/image-1-1200x555.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg8.webp)
 
 Furthermore, in the **Inventory Details** section, mark this option if you have variants for this digital product:
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/image-2-1200x597.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg7.webp)
 
 Checking this option will open a **Variant Details** section where you can add variants to this digital product:
 
@@ -67,11 +68,11 @@ Checking this option will open a **Variant Details** section where you can add v
 
 The option to upload digital files to individual variants will only be present once you'll save this product and edit it.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/image-3-1200x597.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg9.webp)
 
 As explained above, save the product and then you can upload digital files to individual products:
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/image-4-1200x597.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg10.webp)
 
 The added product will be listed in the Multivendor Marketplace Seller/Admin Panel > Products > Product Listing.
 
@@ -89,7 +90,7 @@ First, the admin needs to enable the configuration.
 *   Visit the **Product Configuration**.
 *   Enable the "**ADD DIGITAL PRODUCT AS SERVICE**" tab.
 
-![ADD DIGITAL PRODUCT AS SERVICE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Configuration-Admin-1-2.png)
+![ADD DIGITAL PRODUCT AS SERVICE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg11.webp)
 
 As soon as the admin enabled this tab, the option starts getting reflected in the admin & seller's **Edit Product** sections respectively.
 
@@ -97,13 +98,13 @@ While adding/editing digital products, you can enable the "ADD DIGITAL PRODUCT A
 
 This action will disable the rest of the options (upload file, no of accessible days) for that digital product.
 
-![dsds](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/05/image-5-1200x525.png)
+![dsds](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg12.webp)
 
 As soon as the customer places an order, both admin & seller will get the option to upload a digital file.
 
 App>>**Orders**\>>**Order Listing**\>>**Edit** Order>>**Upload** the digital files.
 
-![ORDER LISTING](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-7.png)
+![ORDER LISTING](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg13.webp)
 
 After this, the customer will receive an email regarding the same from where they can download the digital file.
 
@@ -131,20 +132,20 @@ Furthermore, to display a downloadable link on the customer's order page, the ad
 
 Go to Multivendor Marketplace Admin Panel > Configuration > Instruction for Marketplace:
 
-![Dashboard Admin (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Dashboard-Admin-2-1.png)
+![Dashboard Admin (2)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg14.webp)
 
 Here, the admin will have the code that needs to be pasted with all the instructions.
 
-![Instructions Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Instructions-Admin.png)
+![Instructions Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg15.webp)
 
 For pasting the codes, go to Shopify Backend > Online Store > Actions >Edit Code:
 
-![multivendor marketplace 4 Themes Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/multivendor-marketplace-4-Themes-Shopify.png)
+![multivendor marketplace 4 Themes Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg16.webp)
 
 Search for customer/order.liquid template file, search 'line\_item' in the code & paste the following code in the tag as shown in the image below:
-
+```
 `id="{{ line_item.id }}" class="wk_lineitem" data-wk_lineitemid="{{ line_item.id }}">`
-
+```
 * * *
 
 ![multivendor marketplace 4 Edit Debut Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/multivendor-marketplace-4-Edit-Debut-Shopify.png)
@@ -163,7 +164,7 @@ The digital storage provided in the Multivendor Marketplace for Shopify depends 
 
 Moreover, the admin can check this storage by going to Multi vendor Marketplace Admin Panel > Hover over the three dots (**⋅⋅⋅**) on the top right of the dashboard > click on the 'digital storage':
 
-![Digital-Storage-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Digital-Storage-Admin-1200x597.png)
+![Digital-Storage-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg17.webp)
 
 In case if the admin wants to increase this digital storage, then, he can go for either way:
 
@@ -172,7 +173,7 @@ In case if the admin wants to increase this digital storage, then, he can go for
 
 Go to Multi vendor Marketplace Admin Panel > Configuration > Products Configuration:
 
-![bnb](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-from-2019-04-23-17-39-48-1.png)
+![bnb](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg18.webp)
 
 *   App S3 if you don't want to have extra digital storage and you are good with the provided amount.
 *   [Merchant S3 for Amazon S3 configuration.](https://webkul.com/blog/merchant-amazon-s3-setup-multivendor-marketplace-for-shopify/)
@@ -182,13 +183,13 @@ After selecting Merchant S3/Box, go to Multivendor Marketplace Admin Panel > Con
 
 In the case of [Amazon S3](https://webkul.com/blog/merchant-amazon-s3-setup-multivendor-marketplace-for-shopify/):
 
-![Amazon S3 Details Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Amazon-S3-Details-Admin-1.png)
+![Amazon S3 Details Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg19.webp)
 
 For more details on how to get the AWS details, refer: [Merchant Amazon S3 Setup](https://webkul.com/blog/merchant-amazon-s3-setup-multivendor-marketplace-for-shopify/)
 
 In the case of Box:
 
-![Box Credentials Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Box-Credentials-Admin-1.png)
+![Box Credentials Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dg20.webp)
 
 To configure the new checkout page feature on your store, follow these simple steps:
 

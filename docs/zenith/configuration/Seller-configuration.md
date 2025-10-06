@@ -8,7 +8,7 @@ In this section of the blog, you’ll find everything related to seller configur
 
 From here, you can allow your sellers to fulfill items, enable the option to auto-approve the added sellers, allow sellers to view customers' details and much more.
 
-[![ seller configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/seller-configuration-7.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/seller-configuration-7.png)
+[![ seller configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerconfig-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerconfig-scaled.webp)
 
 This Guide is dedicated to letting you aware of all the new Seller menu of the [Multi-Vendor Marketplace App](https://marketplace-doc.webkul.com/classic/Introduction/) for Shopify. 
 
@@ -28,11 +28,11 @@ But, we have provided an option in the app through which you can **update the se
 
 To do this, visit the Multi-vendor admin panel>>Configuration>>Seller Configuration>>Enable the Update Seller Handle tab>>Save.
 
-![download-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/download-8-1200x574.png)
+![download-8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerhandle-scaled.webp)
 
 Now, visit the **Sellers** menu>>**Seller Listing** sub-menu>>**Edit** seller>>Enable the Update Seller Handle tab and edit the handle>>Save changes.
 
-![screenshot-sp-seller.webkul.com-2021.02.01-13_35_22](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/screenshot-sp-seller.webkul.com-2021.02.01-13_35_22-1200x577.png)
+![screenshot-sp-seller.webkul.com-2021.02.01-13_35_22](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/updatehand.webp)
 
 This is how you can update seller handle in the app.
 
@@ -48,17 +48,17 @@ Now, you can restrict your sellers to disable the "Feedbacks received from the c
 
 Visiting the Configuration>>**Seller Configuration** menu, disable the tab "Restrict Seller To Disable Feedback". And disallow sellers to disable the seller feedbacks.
 
-![Configuration-Admin-15](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Configuration-Admin-15-1200x597.png)
+![Configuration-Admin-15](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/restrictfeedback.webp)
 
 As soon as you **disable** the above configuration, the sellers won't get the option to disable the feedback from their respective seller panels.
 
 TAB DISABLED i.e. Restricted sellers to hide the feedbacks received from the customers.
 
-![Configuration-Admin-16](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Configuration-Admin-16-1200x597.png)
+![Configuration-Admin-16](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/restrictfeedback.webp)
 
 NO OPTION TO DISABLE FEEDBACK ON SELLER END
 
-![Feedback-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Feedback-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![Feedback-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/feedbackrest.webp)
 
 ### Seller Zip code on Seller profile page
 
@@ -68,14 +68,14 @@ You can now display the seller zipcode with the seller's address on the seller p
 
 You can check the seller zipcode variable in the "Edit Theme" section in the app. Go to Sellers>>Seller Profile Page Settings>>Themes>>**Learn More**
 
-![Seller-Profile-Theme-edit-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Seller-Profile-Theme-edit-Admin-1053x1024.png)
+![Seller-Profile-Theme-edit-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerzipcode-1.webp)
 
 You can check the variables here:-
 
-![Screenshot-2020-09-17T182325.932](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Screenshot-2020-09-17T182325.932-1200x494.png)
+![Screenshot-2020-09-17T182325.932](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/variablezipcode.webp)
 
 **Note**:- The seller profile page theme code is editable only in Theme 1 & Theme 4.  
-[**Know More**](https://marketplace-doc.webkul.com/classic/seller/Seller-Profile-Page-Settings)
+[**Know More**](https://marketplace-doc.webkul.com/zenith/seller/Seller-Profile-Page-Settings.html)
 
 ### PUBLISH/UNPUBLISH SELLER PROFILE PAGE
 
@@ -83,13 +83,13 @@ The Admin can now decide whether he wants the seller profile of an individual se
 
 For this, visit Multivendor Admin Panel > Sellers > Seller Listing > Edit Seller. On the following page, you'll this option. Refer:
 
-![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Edit-Seller-Admin-1-1200x597.png)
+![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerprofilepublish.webp)
 
 ### Informative Seller Dashboard
 
 Much more informative dashboard showing Total Seller, Recent Orders and their fulfillment status and details of Total sales.
 
-![adwdwaw](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1.png)
+![adwdwaw](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdashboard.webp)
 
   
 
@@ -105,7 +105,7 @@ Visit: **Multivendor Admin Panel** > **Configuration** > **Seller Configuration*
 
 Here, you can enable the following functionality. Refer:
 
-![Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Configuration-Admin-2-1200x597.png)
+![Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellersignup.webp)
 
 **NOTE:** The admin can still add new sellers from his own marketplace admin panel.
 
@@ -117,7 +117,7 @@ Visit: **Multivendor Admin Panel** > **Configuration** > **Seller Configuration*
 
 By enabling this option, the seller whose email is not verified after registration will get an email verification link on the seller dashboard.
 
-![screenshot-sp-seller.webkul.com-2021.07.02-17_15_06](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-sp-seller.webkul.com-2021.07.02-17_15_06-1200x549.png)
+![screenshot-sp-seller.webkul.com-2021.07.02-17_15_06](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellermail.webp)
 
 After enabling this option, if a seller's email is not verified, that seller will have the "**Email Verification Link**" on his/her seller dashboard.
 
@@ -140,11 +140,11 @@ You can upload a default banner for the sellers to be displayed on the "Seller P
 
 Admin Panel>>Sellers>>Seller Profile Page Settings>>Upload Banner (either Image or Video)>>Save Changes.
 
-![Marketplace144](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/store-banner-image.png)
+![Marketplace144](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerbannerstorefront.webp)
 
 The banner showing on the seller profile page:-
 
-![Seller Store Banner ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Seller-Profile-%E2%80%93-Demo-Store.png)
+![Seller Store Banner ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerbanneradmin.webp)
 
 In case you require this newly changed version of the seller profile page, do let us know as we are not updating it on every shop by default.  
 
@@ -154,7 +154,7 @@ If you thought it was amazing to have banners on the seller profile page, then o
 
 Yes, now you and your sellers can add the video on the place of the banner on the seller’s profile page.
 
-![Marketplace100](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/18-2.png)
+![Marketplace100](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellervideo.webp)
 
 Let’s know more about Multivendor Marketplace Seller Profile Video Feature.  
 **[Click here](https://webkul.com/blog/shopify-multivendor-marketplace-seller-profile-video-feature-new-theme/)** for details.
@@ -171,7 +171,7 @@ You can now select the **color of the rating star** given to your sellers in the
 
 Once the rating is given by the customers to your seller, the seller can view it on his profile page.
 
-![seller rating star color](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Seller-Profile-Page-Setting-Admin-2-1-1200x597.png)
+![seller rating star color](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerstarrating.webp)
 
 You as an admin can select the color of the rating star and view it on the Seller profile page.
 
@@ -185,30 +185,11 @@ Admin panel >> Sellers >> Sellers Profile Page Settings (from the drop-down menu
 
 This upgraded feature of the Multivendor app will help the admin to select the by default “Sort By” for the seller profile pages.
 
-![adsd](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot10.png)
+![adsd](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerfilter.webp)
 
 Once you set this from the “Seller Profile Page Settings” submenu, you can view it on the profile pages of your sellers.
 
 ![dqDW](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot11.png)
-
-### Login As Seller
-
-You as an admin will now have the access to login seller dashboards directly from your admin panel.
-
-Firstly, you need to enable the option from the **General Configuration** menu of the app.  
-Multi-vendor admin panel>>**Configuration**\>>**General Configuration**\>>Enable Option>>**Save** Changes.
-
-![DWQd](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Configuration-Admin-2.png)
-
-Once enabled, visit the **Seller Listing** section and click the “**Login as Seller**” from the Action menu.
-
-Multi-vendor Admin Panel>>**Sellers**\>>**Seller Listing**\>>Click **Login as Seller** (Action menu).
-
-![DQDD](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Seller-Admin-1.png)
-
-Clicking this button, the seller will be redirected to the respective seller panel.
-
-Note that the sellers will be notified every time you'll log in to their account using this option.  
 
 ### Display Seller's Store Logo Carousel on Homepage
 
@@ -221,7 +202,7 @@ Go to the admin panel of the Multi-vendor app.
 *   Get the option to display the seller's store logo carousel.
 *   Click the "**Generate**" button to generate liquid files on the Shopify end.
 
-![Instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Instructions-Admin-1-1200x597.png)
+![Instruction](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerlogo.webp)
 
 This will create a **Seller Listing** section in the theme editor of your Shopify store. So, add it to the homepage and drag & drop the carousel anywhere on the home page.
 
@@ -241,11 +222,11 @@ You can now restrict sellers to add products if the required details are not ent
 
 So, to enable these restrictions in the app, you need to visit the Multi-vendor admin panel>>Configurations>>Seller Mandatory Steps.
 
-![Dashboard_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Dashboard_Admin-1200x627.png)
+![Dashboard_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellermandatoryconfig.webp)
 
 From here, You can set the options mandatory for your sellers:-
 
-![Seller_Mandatory_configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Seller_Mandatory_configuration_Admin-1023x1024.png)
+![Seller_Mandatory_configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellermandatorysteps.webp)
 
 1.  **SHIPPING DETAILS**
 
@@ -253,7 +234,7 @@ From this option, you can restrict sellers to set at least one shipping method b
 
 You can restrict sellers to add at least 1 shipping method as default and add at least one shipping range.
 
-![Seller_Mandatory_configuration_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Seller_Mandatory_configuration_Admin-1-1200x627.png)
+![Seller_Mandatory_configuration_Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/shippingdetails.webp)
 
 **2\. PAYMENT DETAILS**
 
@@ -267,7 +248,7 @@ From here, You can set mandatory "My Account" fields for the sellers.
 
 Please Note:- Before enabling these fields here, make sure that these fields are enabled from the "**Seller Policy**" (normal & advanced) and from the "**Seller Form Customization**" section of the app.
 
-![Seller_Mandatory_configuration_Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Seller_Mandatory_configuration_Admin-2-1200x627.png)
+![Seller_Mandatory_configuration_Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/paymentdetails.webp)
 
   
 
@@ -295,14 +276,14 @@ So, once a seller edits a product, the admin needs to approve the updates before
 
 For this, firstly you need to enable the tab from the **Product Configuration** menu in the app as shown in the screenshot:-
 
-![Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Configuration-Admin-1-1200x597.png)
+![Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/reapprove.webp)
 
 Once the seller edits the product **(except for the price, quantity, delivery days)**.  
 Then you as an admin, will get an option to Re-approve the product from the product listing section.
 
 You can either accept or deny the product re-approval request.
 
-![Product-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/07/Product-Admin-1200x597.png)
+![Product-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/reapproveadmin.webp)
 
 Keep following this blog of ours to know about all the recent updates.
 
@@ -316,11 +297,11 @@ Then the admin will create all 3 points in the admin panel and it will appear on
 
 For this, the first admin will go to configuration >> seller configuration >> enable "ADVANCE SELLER FEEDBACK" and click the "save changes" button below.
 
-![Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/Configuration-Admin-1200x608.png)
+![Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/restrictfeedback.webp)
 
 Now, the admin will go to seller >> seller feedback option >> Click on "Add feedback option" button to add points for star rating given by customer.
 
-![Seller-Feedback-Option-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/02/Seller-Feedback-Option-Admin-1200x608.png)
+![Seller-Feedback-Option-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/feedbackrest.webp)
 
 And on the seller profile page, it will be shown like the below image.
 
@@ -346,7 +327,7 @@ This feature streamlines seller data management and ensures that all essential i
 
 Go to: Admin dashboard>>Configuration>Seller configuration>>Enable Sync seller data in metaobjects.
 
-![Seller data sync](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sellerdata1-1200x571.webp)
+![Seller data sync](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellersyncdata-3.webp)
 
 Once enabled, the system will automatically push seller details into Shopify's metaobject section.  
   

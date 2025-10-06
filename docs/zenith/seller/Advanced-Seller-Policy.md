@@ -27,20 +27,20 @@ To enable the **Normal Seller Policy**, follow these steps:
 
 **Admin Panel** → **Configuration** → **Seller Configuration** → Select **Normal Seller Policy** → **Save Changes**
 
-![Normal Seller Policy Settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Screenshot12.png)
+![Normal Seller Policy Settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp1.webp)
 
 Once selected, the admin can add a seller policy for any seller by editing their profile:
 
 **Admin Panel** → **Sellers** → Select Seller → **Edit (from Action Menu)** → Add **Normal Policy** → **Save**
 
-![Edit Seller - Admin Panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Seller-Admin.png)
-![Normal Policy Entry - Admin View](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Edit-Seller-Admin-1.png)
+![Edit Seller - Admin Panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp2.webp)
+![Normal Policy Entry - Admin View](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp3.webp)
 
 Sellers can also set their own policy by navigating to:
 
 **Seller Panel** >> **Profile** >> **My Account** >> Write Seller Policy >> **Save**
 
-![Seller Panel - Policy Entry](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Screenshot13.png)
+![Seller Panel - Policy Entry](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp4-1.webp)
 
 The entered seller policy will reflect on the seller's public profile page:
 
@@ -54,20 +54,20 @@ To enable the **Advanced Seller Policy**, follow these steps:
 
 Admin Panel >> Configuration >> Seller Configuration >> Choose Advanced Seller Policy from the dropdown under "Seller Policy" >> Save Changes
 
-![Enable Advanced Seller Policy](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/v-1.png)
-![Seller Configuration Dropdown](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/38-1.png)
+![Enable Advanced Seller Policy](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp6-1.webp)
+![Seller Configuration Dropdown](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp7-1.webp)
 
 The admin can now edit each seller’s profile to configure advanced seller policy fields.
 
-![Edit Seller - Advanced Policy](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Seller-Admin.png)
-![Advanced Policy Fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Edit-Seller-_-Admin.jpg)
+![Edit Seller - Advanced Policy](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp2.webp)
+![Advanced Policy Fields](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp8-1.webp)
 
 Similarly, the seller can also update these details by navigating to:
 
 Seller Panel >> Profile >> My Account >> Fill in fields like delivery time, delivery days, etc. >> Save Changes .
 
 ![Seller Advanced Policy Form](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/w-1.png)
-![Seller Advanced Policy Inputs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/42-1.png)
+![Seller Advanced Policy Inputs](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp9-1.webp)
 
 These policy details will appear publicly on the seller's profile page for customers to review.
 
@@ -78,4 +78,4 @@ If the admin wishes to customize the specific content and fields for the advance
 
 The final saved values will be visible on the seller’s public profile:
 
-![View Screenshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/View-Screenshot.png)
+![View Screenshot](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/asp10.webp)

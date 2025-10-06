@@ -17,7 +17,7 @@ But if seller is bearing the discount, the amount will be split, i.e., the whole
 
 To use this payment gateway, the admin needs to enable the [Stripe Connect](https://webkul.com/blog/shopify-multi-vendor-marketplace-stripe-connect-integration/) from the **feature app section**:
 
-![Feature app SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/Feature-Apps-_-Admin-1.png)
+![Feature app SCA STRIPE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay31.webp)
 
 Multivendor Admin Panel > 'Feature Apps'
 

@@ -12,7 +12,7 @@ Here, you can provide an option to add/edit/delete the products to your sellers,
 
 ![product configuration Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/1-7.png)
 
-<!-- ### Add Video to Product
+### Add Video to Product
 
 You can now add video while editing products. For this, you need to visit Multi-vendor admin panel>>Configuration>>Product Configuration and enable the tab are given below:
 
@@ -20,7 +20,7 @@ You can now add video while editing products. For this, you need to visit Multi-
 
 Upload videos:
 
-![screenshot-sp-seller.webkul.com-2021.07.09-15_36_31](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-sp-seller.webkul.com-2021.07.09-15_36_31-1200x549.png) -->
+![screenshot-sp-seller.webkul.com-2021.07.09-15_36_31](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/07/screenshot-sp-seller.webkul.com-2021.07.09-15_36_31-1200x549.png)
 
 ### Add Product Origin Country/HSN code to the Product Description
 
@@ -54,7 +54,7 @@ The cost price will not be shown on the storefront and generally, it is used to 
 
 Go to Admin panel >> Configurations >> product configuration >> Enable " ALLOW SELLER TO ADD COST PRICE" and click SAVE CHANGES button below.  
 
-![cost-price](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/costprice.webp)
+![cost-price](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/cost-price-1200x627.png)
 
 Now, when the seller will add products from his panel then he will have an option to add the cost price which should be less than the sales price.
 
@@ -66,7 +66,7 @@ You can now hide the "Product Tag" field from the "Add/Edit Product" form.
 
 For this, You need to visit the multi-vendor admin panel>>Configurations>>**Product Configuration**\>>Enable the Tab.
 
-![Configuration-Admin-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttag.webp)
+![Configuration-Admin-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Configuration-Admin-5-1200x597.png)
 
 Once you enable this tab, you/sellers won't get the product tag field while adding a product.
 

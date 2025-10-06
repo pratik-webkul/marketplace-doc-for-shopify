@@ -1,3 +1,11 @@
+---
+title: Minimum Purchase Quantity
+description: Minimum Purchase Quantity
+date: 2025-07-10
+author: Chirag Tyagi
+---
+
+
 **Minimum Purchase Quantity**: We have introduced this new feature in our [MultiVendor Marketplace App](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) for Shopify.
 
 ### What is the Minimum Purchase Quantity?
@@ -24,14 +32,14 @@ Multivendor Marketplace Admin Panel > Configuration > Products Configuration:
 
 Here, enable the following option: ALLOW SELLERS TO SET MINIMUM PURCHASE QUANTITY PER PRODUCT. Further, you need to choose whether you want to set minimum purchase quantity for a product or for the variant.
 
-![Minimum Purchase Quantity Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/image-1200x590.png)
+![Minimum Purchase Quantity Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/configminiqty.webp)
 
 Once it's done, let move to code pasting.
 
 For this visit:  
 Multivendor Marketplace Admin Panel > Configuration > Instructions for Marketplace
 
-![Minimum Purchase Quantity Code Pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Instructions-Admin-1-1200x597.png)
+![Minimum Purchase Quantity Code Pasting](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/codeminiqty.webp)
 
 Here, you'll have a code that you need to paste in the **product-template.liquid** file.
 
@@ -73,18 +81,18 @@ Multivendor Marketplace Admin/Seller Panel > Products > Add Product
 **In the case of minimum product purchase quantity:**  
 Under the heading **Inventory Details**, you'll have an option to set the quantity. Enter the quantity & save the changes. Refer:
 
-![Minimum Purchase Quantity Setup](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Add-Product-Admin-1-1-1200x597.png)
+![Minimum Purchase Quantity Setup](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/miniqtyproduct.webp)
 
 Next, **in the case of minimum variant purchase quantity:**  
 Multivendor Marketplace Admin/Seller Panel > Products > Under **Action**, click on **Edit** product > Under **Variant Details**, click on **Edit**.
 
-![Product-Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Product-Admin-1-1-1200x597.png)
+![Product-Admin-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editminiqty.webp)
 
-![Edit-Product-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Edit-Product-Admin-1-1200x597.png)
+![Edit-Product-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/clickeditvariantminiqty.webp)
 
 Further, under the heading **Inventory Details**, you'll have the option to edit the set minimum quantity.
 
-![Minimum Purchase Quantity Configuration Variant Wise](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Edit-Variant-Admin-1200x597.png)
+![Minimum Purchase Quantity Configuration Variant Wise](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editvariantpageqty.webp)
 
 #### Frontend
 

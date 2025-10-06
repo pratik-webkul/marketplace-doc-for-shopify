@@ -52,7 +52,7 @@ This way, you can add a Seller Listing Page menu to your store's frontend.
 
 Admin will follow the below steps to visit Seller Profile Page Settings section:
 
-![seller's profile](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-Admin-1.png)
+![seller's profile](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sell-1.webp)
 
 Multivendor App Admin Panel>>Go to **Sellers**\>>**Seller Profile Page Settings** (from the drop-down menu).
 
@@ -62,23 +62,23 @@ Following are the fields admin can set up for Seller's profile pages:
 
 From this section, you can select the Theme of your Seller's profile page. You can click the radio button & choose the theme of your choice.
 
-![seller profile page settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Seller-Profile-Page-Setting-Admin-1200x597.png)
+![seller profile page settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp)
 
 ### Theme 1
 
 In Theme 1, You will get an option to edit the theme code as well. You can customize CSS and edit the theme template of the profile page as per your choice.
 
-![select a Theme](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Seller-Profile-Page-Setting-Admin-1-1200x597.png)
+![select a Theme](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel0.webp)
 
 After clicking the Edit Theme Code button, you will get the option to edit the Theme template & edit CSS for the seller's profile page.
 
-![seller page](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-Theme-edit-Admin.png)
+![seller page](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sel1.webp)
 
 As soon as you edit any code and Save it, the "Publish" button gets enabled. Now, to make the changes work for the seller page, you need to publish the edited code.
 
 **Please note** that if you have saved the edited code and not published it then, the default code will work for the profile page.
 
-![seller profile 1](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Profile-Theme-edit-Admin-1.png)
+![seller profile 1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/se3.webp)
 
 Moreover, clicking on the **Preview** button, you can preview the change you made for each seller's profile.
 
@@ -92,7 +92,7 @@ For this, you need to enable the "Restrict Collection", "Restrict Tag" & "Restri
 
 Make sure that you have added product **collection**, **tags** & product **type**s in the app.
 
-![Product Tag](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Dashboard-Admin-2.png)
+![Product Tag](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tg1.webp)
 
 Now, the product categories, tags or types that you have added in the app will be visible to customers while adding/editing products.
 
@@ -114,11 +114,11 @@ You will also get an option to select the color of Seller's rating star.
 
 Also, you can select the default "Sort by" option for the profile page. This is up to you that how you want your seller's profiles to be listed on the page.
 
-![seller profile](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-15.png)
+![seller profile](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt2.webp)
 
 You can also upload a default banner for your seller's profile page either as **Banner Image** or **Background Video**.
 
-![show/hide content](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-16.png)
+![show/hide content](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt4.webp)
 
 Additionally, you can Show or Hide the content of Profile Page as per your requirement.
 
@@ -128,7 +128,7 @@ You can anytime re-position the Toggle Logo and Description on the profile page.
 
 ###### Admin can also write his/her own CSS for Profile Page.
 
-![change position](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-17.png)
+![change position](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tt5.webp)
 
 If you select Theme 1, sellers page will look as shown in the screenshot below:
 
@@ -154,7 +154,7 @@ If you select Theme 3, seller page will look as shown in the screenshot below:
 
 In Theme 4, you will get an option to edit the theme code as well. You can customize CSS and edit the theme template of the profile page as per your choice.
 
-![Theme 4](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Seller-Profile-Page-Setting-Admin-1-1-1200x597.png)
+![Theme 4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/tty6.webp)
 
 Click on the '**Edit Seller Listing**' option on the '**Seller Profile Page Settings**' page,
 
@@ -171,12 +171,12 @@ Admin can anytime restore the default code by clicking the “**Restore to Defau
 ### Edit Theme Template
 -------------------
 
-![edit theme](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/All-Seller-Profile-Theme-edit-Admin-1200x597.png)
+![edit theme](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dt4.webp)
 
 ### Edit Theme CSS
 --------------
 
-![edit css](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/All-Seller-Profile-Theme-edit-Admin-1-1200x597.png)
+![edit css](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/vn4.webp)
 
 **Seller Profile Page** will be the same as that for Theme 1:
 
@@ -192,26 +192,26 @@ You can choose whether you want to display seller logo or seller profile image o
 
 Multivendor App Admin Panel>>Go to **Sellers**\>>**Seller Profile Page Settings** (from the drop-down menu).
 
-![logo-or-profile-](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/logo-or-profile--1200x586.png)
+![logo-or-profile-](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp)
 
 ### How can Seller upload a banner for the seller profile page
 -----------------------------------
 
 To upload banner on the seller profile page, the seller has to visit My Account page from the Profile menu.
 
-![Seller 11](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-Seller-•-Multivendor-MarketPlace.png)
+![Seller 11](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd5.webp)
 
 On **My Account** page click on 'Upload Banner' to upload banner on the seller profile page.
 
-![Seller My Account](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/My-Account-Seller-•-Multivendor-MarketPlace.png)
+![Seller My Account](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sd7-scaled.webp)
 
 Once you click on Upload Banner, the box will open where you will get the option to upload the Image as well as video.
 
-![banner image](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-13-1.png)
+![banner image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/hy6.webp)
 
 Sellers can also remove the banner from the "My Account" section.
 
-![banner](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-12.png)
+![banner](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ddd7.webp)
 
 ### How to upload the video on the seller profile page
 
@@ -219,7 +219,7 @@ Sellers can upload video by clicking on the video as shown in the above screensh
 
 After clicking on Video a new box will open where you have to enter YouTube embedded link.
 
-![9](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Edit-Seller-_-Admin-2-1.jpg)
+![9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sh8.webp)
 
 ### How to get Youtube Embedded code
 
@@ -238,7 +238,7 @@ Copy that 'embed Url' from there and pastes it in the URL box shown above.
 
 The seller can upload the Logo from the "**My Account**" menu of his/her profile.
 
-![Seller Profile](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-Seller-•-Multivendor-MarketPlace-1.png)
+![Seller Profile](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd7.webp)
 
 Now click on upload image as shown in the screenshot below:
 
@@ -248,7 +248,7 @@ After clicking on 'Upload Image' box will open then click on upload image,
 
 then select the image you want to upload for the logo, to display on seller profile page then click on save.
 
-![Upload LOGO](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-14-1.png)
+![Upload LOGO](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sde5.webp)
 
 **Now, admin can also upload Seller Shop Logo from his/her admin Panel of the Multivendor App.**
 
@@ -258,23 +258,23 @@ Multivendor admin panel>>Go to **Sellers**\>>Click "**Seller Listing**" from the
 
 Click on "**Edit**" from Action menu>>Scroll down and **Upload** the Logo>>**Save** Changes.
 
-![upload seller logo ](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Seller-Admin-1.png)
+![upload seller logo ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/dasdd7.webp)
 
 **Admin End**
 
 Now, go to Edit Seller Section and Upload the Shop Logo of that Particular seller from admin panel.
 
-![Seller Logo Admin end](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-3-4.png)
+![Seller Logo Admin end](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sad4.webp)
 
 ###### To display Logo on the product description page, paste the below code on product.liquid template:
-
+```liquid
 <div class="wk\_seller\_store\_logo" data-productid ="{{product.id}}"></div>
-
+```
 ### To display Seller Profile Picture Link on the product description page, paste the below code on product.liquid template:
-
+```liquid
 <div class="wk\_seller\_detail\_logo" data-productid ="{{product.id}}"></div>
-
-![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Instructions-Admin.png)
+```
+![Instruction for Marketplace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/ssssssc4.webp)
 
 Follow the below process to paste the code:
 
@@ -291,11 +291,11 @@ Admin can edit or change the labels as per requirement.
 
 Go to Sellers “Shop Page Settings” from the main menu of the app as shown below.
 
-![Admin Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-Admin-1-1.png)
+![Admin Dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/gt6.webp)
 
 You can change the labels as shown in below screenshot:
 
-![Change Labels](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Shop-Page-Settings-Admin.png)
+![Change Labels](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/final1.webp)
 
 ### Display of seller products on the seller profile page
 
@@ -324,11 +324,11 @@ Without collection: Select this if you want to display the collection pages with
 > 
 > **Also if Merchant have more than 5000 sellers than we would recommend to not use with collection for Seller profile type.**
 
-![screenshot-akram-sh.webkul.com-2022.03.07-22_16_58](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-sh.webkul.com-2022.03.07-22_16_58-1200x780.png)
+![screenshot-akram-sh.webkul.com-2022.03.07-22_16_58](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sdd6.webp)
 
 Please NOTE: On updating the seller profile type, you need to regenerate the seller category page from the "Storefront configuration" section here:
 
-![screenshot-akram-sh.webkul.com-2022.03.07-22_32_41](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/03/screenshot-akram-sh.webkul.com-2022.03.07-22_32_41-1200x581.png)
+![screenshot-akram-sh.webkul.com-2022.03.07-22_32_41](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fg67.webp)
 
 Also, please note: If you have a customized seller profile page and you want to change the seller profile type,
 

@@ -5,6 +5,7 @@ date: 2025-09-10
 author: Chirag Tyagi
 ---
 
+
 In our [Multivendor Marketplace app for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html), we have introduced an additional feature name "Multilevel collection"
 
 Which allows the admin to create subcategories of a particular collection for the Product page.
