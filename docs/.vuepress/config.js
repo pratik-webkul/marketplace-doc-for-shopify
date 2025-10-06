@@ -33,6 +33,7 @@ export default defineUserConfig({
 ],
 
 
+
   theme: defaultTheme({
     logo: 'image/mp-black.svg',
     logoDark : 'image/mp-white.svg',
@@ -79,7 +80,9 @@ export default defineUserConfig({
           children: [
             { text: 'Seller Profile Page Settings', link: '/classic/seller/Seller-Profile-Page-Settings' },
             { text: 'Seller Notification', link: '/classic/seller/Seller-Notification' },
-            { text: 'Advanced Seller Policy', link: '/classic/seller/Advanced-Seller-Policy' } 
+            { text: 'Advanced Seller Policy', link: '/classic/seller/Advanced-Seller-Policy' },
+            { text: 'Seller Navigation', link: '/classic/seller/Seller Navigation' } 
+
           ]
         },
         {
@@ -91,8 +94,10 @@ export default defineUserConfig({
             { text: 'Import products', link: '/classic/products/Import-products' },
             { text: 'Add products', link: '/classic/products/Add-products' },
             { text: 'Collection sync', link: '/classic/products/Collection-sync' },
-            { text: 'Products updates', link: '/classic/products/Products-updates' },
             { text: 'Multilevel Collection', link: '/classic/products/Multilevel Collection' },
+            { text: 'Products updates', link: '/classic/products/Products-updates' },
+            { text: 'Dual Sync', link: '/classic/products/Dual Sync' },
+
           ]
         },
         {
@@ -259,7 +264,7 @@ export default defineUserConfig({
           text: 'Introduction',
           collapsible: true,
           children: [
-            { text: 'Getting Started', link: '/zenith/Introduction/' },                     
+            { text: 'Getting Started', link: '/zenith/Introduction' },                     
             { text: 'Overview', link: '/zenith/Introduction/Overview' }                  
           ]
         },
@@ -288,7 +293,8 @@ export default defineUserConfig({
           children: [
             { text: 'Seller Profile Page Settings', link: '/zenith/seller/Seller-Profile-Page-Settings' },
             { text: 'Seller Notification', link: '/zenith/seller/Seller-Notification' },
-            { text: 'Advanced Seller Policy', link: '/zenith/seller/Advanced-Seller-Policy' } 
+            { text: 'Advanced Seller Policy', link: '/zenith/seller/Advanced-Seller-Policy' },
+            { text: 'Seller Navigation', link: '/zenith/seller/Seller Navigation' } 
           ]
         },
         {
@@ -299,7 +305,10 @@ export default defineUserConfig({
             { text: 'Digital products', link: '/zenith/products/Digital-products' },
             { text: 'Import products', link: '/zenith/products/Import-products' },
             { text: 'Add products', link: '/zenith/products/Add-products' },
-            { text: 'Collection sync', link: '/zenith/products/Collection-sync' }
+            { text: 'Collection sync', link: '/zenith/products/Collection-sync' },
+            { text: 'Multilevel Collection', link: '/zenith/products/Multilevel Collection' },
+            { text: 'Products updates', link: '/zenith/products/Products-updates' },
+            { text: 'Dual Sync', link: '/zenith/products/Dual Sync' },
           ]
         },
         {

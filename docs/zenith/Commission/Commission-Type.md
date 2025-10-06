@@ -1,4 +1,4 @@
-**Commission Types**:-  In [Multivendor Marketplace app for Shopify](https://webkul.com/blog/shopify-multivendor-marketplace-new-theme-launched/) commission is the admin/merchant share from the seller/vendor's total earnings.
+**Commission Types**:-  In [Multivendor Marketplace app for Shopify](https://marketplace-doc.webkul.com/zenith/Introduction/) commission is the admin/merchant share from the seller/vendor's total earnings.
 
 Admin can charge any commission(Like Global, seller commission, etc.) in the following 4 ways:-
 
@@ -20,9 +20,9 @@ To set up the global commission you need to visit the Commission section in the 
 
 Admin Panel>> Commissions->> Global commission settings->> Choose the commission type and enter the commission value->> Save
 
-![Multi Vendor Marketplace Commission ](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/a-4.png)
+![Multi Vendor Marketplace Commission ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/comm3.webp)
 
-![Multi Vendor Marketplace Commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/9-6.png)
+![Multi Vendor Marketplace Commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/comm4.webp)
 
 ### Fixed Commission Example:-
 
@@ -68,15 +68,15 @@ So Vendor Share: USD 700 and Merchant Share: USD 300
 
 Admin Panel->>Commissions->>Seller commission settings->> Add commission to sellers>> Enter seller email, Choose the commission type and Enter commission value->> Save
 
-![Multi Vendor Marketplace Commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/b-3.png)
+![Multi Vendor Marketplace Commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/comm5.webp)
 
-![Multi Vendor Marketplace Commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/c-3.png)
+![Multi Vendor Marketplace Commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/comm1-1.webp)
 
-![Multi Vendor Marketplace Commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/12-4.png)
+![Multi Vendor Marketplace Commission](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/comm6.webp)
 
 So this way you can set up the seller commission.
 
-To know more about commissions please also refer the user guide of [commissions](https://webkul.com/blog/shopify-multivendor-marketplace-commissions-new-theme/) 
+To know more about commissions please also refer the user guide of [commissions](https://webkul.com/blog/shopify-multivendorhttps://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/12-4.png-marketplace-commissions-new-theme/) 
 
 ### Commission Types Demo Details
 

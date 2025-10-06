@@ -193,7 +193,7 @@ You can check the **Video Guide** to know how the admin can add sellers on the m
 This will list all the Sellers that are registered with the Multivendor App. Admin can export the Seller Details. Admin can edit/disable the seller and can also add a new seller from this menu.
 
 ![Adding Sellers Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerlisting.webp)
-z   
+ 
 **Seller Form Settings**
 -------------------------
 

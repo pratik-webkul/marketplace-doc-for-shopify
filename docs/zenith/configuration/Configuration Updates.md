@@ -11,7 +11,7 @@ We keep on updating the [Multivendor Marketplace app for Shopify](https://store.
 
 You can now enable the tab to send fulfillment reminders to sellers automatically via the app. For this, visit the admin panel of the app>>Configuration>>**Order Configuration** and enable the tab.
 
-![Screenshot-36](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/09/Screenshot-36-1200x553.png)
+![Screenshot-36](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/autofulfillment.webp)
 
 Once you enable it, you can enter the number of days after which the system will send the fulfillment email to sellers.
 
@@ -21,7 +21,7 @@ Moreover, get the option to enter the no of days up to which you want to send th
 
 Visit **Multivendor Admin Panel** > **Configuration** > **Instructions for Marketplace**, add the following code to the **collection-template.liquid** file:
 
-![Instructions-Admin-1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Instructions-Admin-1-3-1200x597.png)
+![Instructions-Admin-1-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/displayvendorlocation.webp)
 
 This is how it will look on the storefront:
 
@@ -35,11 +35,11 @@ The admin can now delete the sellers from the marketplace by visiting **Multiven
 
 So, in case you want to shut the seller's account but need to keep the information for future reference, you can simply disable them.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/image-1200x597.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdelete.webp)
 
 Clicking on **Delete Seller** will give you a pop-up like so. You can check-mark on the delete product option if you want to delete the seller's products from Shopify as well.
 
-![image-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/image-26.png)
+![image-26](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/deletesellerpop-up.webp)
 
 ### Seller Notification
 
@@ -47,11 +47,11 @@ Now, store admins can easily send notifications to sellers directly from the MVM
 
 1.  **Navigate to:** MVM Admin Panel > Sellers > Seller Notification
 
-![seller notification](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sellernotification-1200x577.webp)
+![seller notification](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellernotification.webp)
 
 2. Click on the **"Add Notification"** button.
 
-![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/addnotification-1200x572.webp)
+![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addnotification.webp)
 
 3. Enter the **Title** and **Notification Message**.
 
@@ -59,14 +59,14 @@ Now, store admins can easily send notifications to sellers directly from the MVM
 
 5. Click **Submit** to send the notification.
 
-![title](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/title-1200x571.webp)
+![title](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/clicksubmit.webp)
 
 Additionally, you can now **disable a notification** when needed:
 
 *   Click on the **three dots ("...")** next to the notification.
 *   Select **"Disable"** and then click **Update Status**.
 
-![dots](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/dots-1200x574.webp)
+![dots](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/disablenotification.webp)
 
 ![update](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/updatestatus-1200x574.webp)
 
@@ -88,7 +88,7 @@ You can update the total due for seller payment after the following events:
 
 **Important Note**: Enabling this option, the payment won't go to the seller automatically. The app will update only the total earnings.
 
-![image-97](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-97-1200x597.png)
+![image-97](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdueearnings.webp)
 
 ### Display Total Due Amount on Seller Dashboard
 
@@ -96,7 +96,7 @@ Enabling the "ALLOW SELLER TO VIEW TOTAL DUE" configuration allows sellers to vi
 
 This feature quickly and clearly presents sellers with an overview of their financials, enhancing their ability to manage transactions effectively.
 
-![seller earning](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot1716809697547-1.webp)
+![seller earning](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/allowsellertoviewtotaldue.webp)
 
 Here's how you can enable this setting:
 
@@ -113,7 +113,7 @@ You can now choose whether you want your seller to accept and fulfill the order 
 
 For this, visit Multivendor Marketplace Admin Panel > Configuration > Order Configuration > Enable this feature & save:
 
-![Configuration-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Configuration-Admin-3-1200x597.png)
+![Configuration-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/acceptandfulfillorder.webp)
 
 Make sure that '[Allow Seller To Accept Order](https://webkul.com/blog/shopify-multivendor-marketplace-app-new-upgraded-features/#allow-seller-to-accept-reject-order)' menu is Enable.
 
@@ -121,15 +121,15 @@ After that, the seller will get the order accept & fulfill option at one time.
 
 Sellers need to visit Multivendor Marketplace Seller Panel > Orders > Order Listing > View Unfulfilled Order > On the following page, seller will get this option:
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1200x597.png)
+![Order-Details-Seller-•-Multivendor-MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fulfillmentdetail.webp)
 
 Clicking on the blue button, the seller will get a popup to accept the order:
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1-1200x597.png)
+![Order-Details-Seller-•-Multivendor-MarketPlace-1-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fulfillnow.webp)
 
 As soon as the seller will accept the order, he will automatically get a fulfillment popup. Refer:
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1-1200x793.png)
+![Order-Details-Seller-•-Multivendor-MarketPlace-2-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/fulfillorderproduct.webp)
 
 The seller needs to enter the required fields & complete the fulfillment step. This way the steps to order fulfillment reduces & you can save the time.
 
@@ -144,13 +144,13 @@ Go to the admin panel of the Multi-vendor app.
 *   Get the option to display the seller’s store logo carousel.
 *   Furthermore, click on the “**Generate**” button to generate liquid files on the Shopify end.
 
-![Instruction MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Instructions-Admin-1-1200x597.png)
+![Instruction MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/displaysellerlogo.webp)
 
 This will create a Seller Listing in the theme editor of your Shopify store.
 
 Shopify backend>>Online Stores>>**Theme**>>**Customize** Theme>>**Add** Section>>Seller Listing appears (Sellers)>> Further, **Add** it to the Homepage.
 
-![customize theme](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-26-1200x599.png)
+![customize theme](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addtohomepage.webp)
 
 Additionally, all your sellers’ store logos will be showcased in the logo carousel on your homepage.
 
@@ -172,7 +172,7 @@ Multivendor **Admin Panel** > **Configuration** > **StoreFront Configuratio
 
 Furthermore, on this page, the admin will have all the featured apps he has enabled on his marketplace with a ‘**Regenerate**‘ button.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Store-Front-Configuration-Admin.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/regenerateseller.webp)
 
 The Admin just needs to click on the **Regenerate** button to automatically recreate the files for the desired feature.
 
@@ -195,7 +195,7 @@ Before enabling this feature, add the following code to the end of **page.mp_sel
 *   BEFORE GIVING FEEDBACK CHECK WHETHER CUSTOMER HAD PURCHASED ATLEAST 1 PRODUCT OF THE SELLER.  
     By enabling this feature, you can restrict customers to give feedback if he is not a valid customer.
 
-![Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Configuration-Admin-1200x597.png)
+![Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/feedback.webp)
 
 Moreover, the customers can edit the feedback given by them by visiting the 'All Reviews' section from the seller profile page. Refer to the screenshot given below:
 
@@ -211,7 +211,7 @@ In case enabled it will make sellers mandatorily choose the collection at the ti
 
 Go to Configuration >>> Select Product Setting >>> Enable option of Make collection mandatory >>> Click on save.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/1-107.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/makecollectionmandatory.webp)
 
 ### ALLOW SELLERS TO VIEW CUSTOMER DETAILS
 
@@ -224,7 +224,7 @@ With this setting, admin can also allow/disallow the seller to view the customer
 **Allow Seller To View Customer Contact Number**  
 With this setting, admin can also allow/disallow the seller to view the customer contact number.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/2-40.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/viewcustomerdetails.webp)
 
 ### SSO (SINGLE SIGN-ON) FOR SELLER
 
@@ -236,7 +236,7 @@ This way, sellers can choose which of the admin's stores they want to list their
 
 The Admin must enable "Single Sign-On" (SSO) in the Multivendor Marketplace App to use this feature.
 
-![screenshot_2023_09_05_183505](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_2023_09_05_183505-1200x555.png)
+![screenshot_2023_09_05_183505](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sso.webp)
 
 In Order to connect the store, the admin must add the store name in the SSO configuration. Clicking on "SSO Config" will take the admin to a dedicated page to connect their store for seller sign-on.
 
@@ -260,7 +260,7 @@ The option to select the Admin's store to sellers will display on the seller sig
 
 Visiting the restriction setting of the configuration, the admin can now also enable/disable the display Total order amount & Total order commission on the dashboard.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/3-43.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/totalorderamount.webp)
 
 ### PAYFAST PAYMENT GATEWAY INTRODUCED
 
@@ -288,7 +288,7 @@ To paste the below given, follow the below process:
 
 Once it is done, you will have to enable **C2C Marketplace** button from **General Configuration** >>> Activate this feature.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/13-10.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/c2c-1.webp)
 
 **The functionality of C2C Marketplace:-  
 **Enabling this feature, you can allow the buyers to convert into the sellers.
@@ -298,7 +298,7 @@ As soon as you enable this feature, you will have a few options to choose when y
 -At the time of seller approval  
 -Don’t need to create customers.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Screenshot6.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/c2cmarket.webp)
 
 **If the 1st option “At the time of sign up” is enabled:-**  
 The sellers will be added as a customer as soon as they get registered to the marketplace.
@@ -339,7 +339,7 @@ We have introduced [Handling charges and Transaction charges](https://webkul.co
 i.e now after enabling the sales price feature from the configuration the Handling and Transaction charges as well.  
 **Go to Configuration >>> Product Setting >>> Enable Sales Price.**
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/22-1.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/displaysalesprice.webp)
 
 **Handling Charges:** The total handling cost added to the product's base price during product creation.To enable this, check the box and click on save.
 
@@ -372,21 +372,21 @@ This feature is for all those who never wanted to set the shipping country wise
 
 Please visit configuration >>> Shipping >>> And select Zone wise Shipping.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/25.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/zonewise.webp)
 
 Then Shipping Zones Option will get added to your main menu.  
 Click on Shipping zones and then click Add zones to add the shipping zones.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/26-1.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addshippingzone.webp)
 
 Clicking on Add zone, you will be redirected to the page where you will name the zone and add countries to it.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/27.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addzonename.webp)
 
 On the seller end:  
 Go to shipping Configuration and add ranges. Then click on the eye button to view the range and set the prices range-wise.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/28.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/selectcountries.webp)
 
 ### AUTO DISABLE PRODUCTS
 
@@ -402,7 +402,7 @@ OR
 
 To enable this feature visit configuration >>> Product >>> enable “auto-disable product” >>> Enter value and save.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/29.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/autodisableproduct.webp)
 
 ### DIRECTORY LISTING
 
@@ -412,7 +412,7 @@ You just have to enable this directory listing feature, and then sellers can red
 
 Configuration >> product tab >> enable directory listing >> enter the button label as per your wish and click on save. To know the full details [**click here**](https://webkul.com/blog/shopify-multivendor-marketplace-directory-listing-feature-new-theme/).
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/30.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/directorylisting.webp)
 
 ### ORDER PREPARE & FULFILLMENT STATUS
 
@@ -459,15 +459,15 @@ For this admin first, we need to enable the “Restrict Product tags” button f
 
 Admin panel of multivendor app>> Configuration >> Restriction Configuration >> Enable “Restrict product tags” >> Save changes.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/i.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/restrictproducttags.webp)
 
 Now visit the Product tags section of the multivendor app and from here add the product tags in bulk by uploading CSV.
 
 Admin end of multivendor app >> Products>> Product Tag s>> More actions >> Add product tag by CSV.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Dashboard-_-Admin.jpg)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttag-1.webp)
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/g.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproducttags.webp)
 
 ### ADD PRODUCT TYPE BY CSV
 
@@ -475,11 +475,11 @@ In the Multivendor Marketplace app, Admin can now also add product types in bulk
 
 For this admin first, need to Enable the “Restrict Product Type” button from “Restriction Configuration” section of the app
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/j.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttype.webp)
 
 Further, visit the Product types section of the multivendor app and here add the product types in bulk by uploading CSV.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/h.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproducttype.webp)
 
 ### C2C MARKETPLACE: ADD TAG TO CUSTOMERS
 
@@ -504,7 +504,7 @@ ALLOW SELLERS TO ADD PRODUCT HANDLE & META-FIELDS
 
 In the Multivendor App, you can now allow sellers to add **Product Handle** and **Meta Fields** while adding or editing any product from their respective seller panels.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Add-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producthandle.webp)
 
 This is how these fields will display on the add product page (Seller Panel > Products > Product Listing > Add/Edit Product).
 
@@ -512,7 +512,7 @@ ALLOW SELLERS TO DISABLE PRODUCTS
 
 Also, you can now allow your sellers to disable products from the **Product Configuration** menu of the app.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Configuration-Admin-3.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproductdetail.webp)
 
 RESTRICT PRODUCT FORM FIELDS FOR SELLERS
 
@@ -525,7 +525,7 @@ You can disable the “**Allow Sellers to Edit Product”** tab and enable the 
 *   Enable/Disable **“Manage Price”** & **“Manage Inventory”** Tab as per the requirement.
 *   Also, save the Settings.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Configuration-Admin-4.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editproduct.webp)
 
 ### SYNC APPROVAL DATETIME TO SHOPIFY METAFIELD
 
@@ -539,13 +539,13 @@ However, when the product is disabled, this meta field is updated with a "null" 
 
 To enable Admin need to navigate to the Admin panel of the marketplace >> Configurations >> Product Configurations>> Enable Sync Approval Datetime to Shopify Metafield.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/11/gsdgsfsdsdfsdfsdfsdfdfsdfsdfsdf-1200x451.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/syncproductdatetime.webp)
 
 ### SELLER NAVIGATION
 
 Above all, introduced the Seller Navigation menu in the Multivendor admin panel using which You as an admin can manage menus of Your Seller’s Dashboard.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Dashboard-Admin-2.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellernavigation.webp)
 
 Furthermore, refer to this Blog of Ours to know about this Feature in Detail: [Multivendor Marketplace for Shopify: Manage Seller Menus](https://webkul.com/blog/shopify-multivendor-marketplace-seller-navigation/)
 
@@ -582,7 +582,7 @@ You can now allow sellers to set a minimum purchase amount for orders. That is, 
 
 The customer can proceed to checkout only when the cart amount is greater than or equal to the minimum purchase amount set by the seller.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Configuration-Admin-2-1.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/minimumpurchaseamount.webp)
 
 All you need to do is just visit the **General Configuration** section of the app and enable the tab. 
 
@@ -590,7 +590,7 @@ So, as soon as you enable the “**Minimum Purchase Amount**” tab, the same wi
 
 That is, sellers can set a minimum amount required for the customers while purchasing products.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/General-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![MULTIVENDOR MARKETPLACE](http://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellermpa.webp)
 
 Now, only when the cart amount reaches the “minimum purchase amount”, the customers can proceed for checkout.
 
@@ -612,7 +612,7 @@ So, go to Multi-vendor Admin Panel and then
 
 Configuration >>Instruction for Marketplace >> Scroll down to get the codes for “Seller’s Minimum Purchase Amount for Orders” >> Copy the code from there & add it to the instructed liquid files.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/02/Instructions-Admin.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellermpacode.webp)
 
 Once you add the codes to their respective liquid files, this will be the visibility of the cart page (Refer below screenshots).
 
@@ -636,7 +636,7 @@ Now, if the admin wants the INVENTORY DETAILS to be by-default set to ‘Track�
 
 So, go to the multivendor marketplace admin panel > Configuration > Product Configuration:
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/08/Configuration-_-Admin.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productinventory.webp)
 
 Further, enable the following option to make the inventory of all the newly added products to be by default set to ‘track’.
 
@@ -648,7 +648,7 @@ That is, whenever a seller creates a product then that template will be assigned
 
 So, if you **want to have the seller’s product designs different from the normal products** then, this can be done effortlessly using the alternative template feature of the Multi-vendor app.
 
-![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Configuration-Admin-4.png)
+![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttemplate.webp)
 
 *   First, **Enable** the tab.
 *   Enter the **template name** (make sure it is case sensitive).
@@ -666,11 +666,11 @@ You can now add Google reCaptcha to the seller sign-up form.The seller sign-up f
 
 To add this option, you need to go to admin panel>> Configuration >> Google reCaptcha Configuration >> Enable the option.
 
-![screenshot-lalit-sh.webkul.com-2021.08.20-10_08_15-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/screenshot-lalit-sh.webkul.com-2021.08.20-10_08_15-1-1200x515.png)
+![screenshot-lalit-sh.webkul.com-2021.08.20-10_08_15-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/recapta.webp)
 
 Enable the tab and enter the Google reCaptcha site key & secret key. You need to contact **Google** to get the keys.
 
-![Recaptcha-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/08/Recaptcha-Configuration-Admin-1200x729.png)
+![Recaptcha-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/googlerecaptcha.webp)
 
 
 
@@ -705,7 +705,7 @@ This is how the Google reCaptcha appears on the seller sign-up form:
 
 Now, while configuring the reCaptcha you can also choose the language in which you want the reCaptcha to be visible to the sellers during the signup process.
 
-![select Recaptcha language](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1711963475859-1200x501.webp)
+![select Recaptcha language](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/recaptchalanguage.webp)
 
 ### Sync Product price
 
@@ -723,7 +723,7 @@ Furthermore, if the email has not been sent automatically, sellers will have the
 
 To enable this configuration, go to marketplace Admin panel > configuration > Order configuration > Enable "allow seller to send feedback notification to customer"
 
-![screenshot_1689173895995](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/screenshot_1689173895995-1200x619.png)
+![screenshot_1689173895995](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sendfeedback.webp)
 
 Once enabled, you have the option to choose the event as order delivered or order fulfilled.
 
@@ -731,7 +731,7 @@ Based on the selected events, the system will send the email to the customer. Yo
 
 **Note - 0 indicates the mail will be sent the same day.**
 
-![screenshot_1689174468200](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/screenshot_1689174468200-1200x580.png)
+![screenshot_1689174468200](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/feedbacksentdays-1.webp)
 
 Sellers can manually send these emails if the system does not send them automatically.
 
@@ -751,7 +751,7 @@ It will appear as shown below if the email has been sent.
 
 You will also have the option to configure the e-mail template of the feedback e-mail from the mail configuration section of the Marketplace Admin panel.
 
-![screenshot_1689428786325-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/07/screenshot_1689428786325-1-1200x619.jpeg)
+![screenshot_1689428786325-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/mailtemp.webp)
 
 **Note - If the status of the seller feedback notification is disabled, the option to send the feedback mail will not be visible in the orders in the seller panel.**
 
@@ -761,7 +761,7 @@ Now, you can change the copyright label of the app footer, for this visit-
 
 App admin panel>>Configuration>>General Configuration
 
-![screenshot_1695927184457](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_1695927184457-1200x590.png)
+![screenshot_1695927184457](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/footertext.webp)
 
 **NOTE**- This feature is available only in the PRO plan of the app.
 
@@ -775,25 +775,25 @@ For this, first, we need to enable the “Restrict Option Name” button from th
 
 Go to the Admin panel of the Multivendor app>> Configuration >> Restriction Configuration >> Enable “Restrict Option Name” >> Save changes.
 
-![Restrict Option Name Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1705481211365-1200x606.png)
+![Restrict Option Name Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/restrictoptionname.webp)
 
 Now, go to Products>>Product Option>>Add Product Option and add the option names that you want to be available for the sellers to choose from while adding a product.
 
-![add option names](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1705481545886-1200x606.png)
+![add option names](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productoption.webp)
 
 ### **Seller-wise auto-approve product**
 
 When you disable the auto-approve product configuration in the product configuration section of the marketplace Admin panel.
 
-![product configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot_1710492328488-1200x625.webp)
+![product configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productconfiguration.webp)
 
-![auto-approve product](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot_1710492353187-1200x625.webp)
+![auto-approve product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/autoapproveproduct.webp)
 
 At the seller level, the option will appear to set whether the products will be auto-approved or not. By default, it will be turned off for every seller.
 
 Then, the Admin can manually go to the seller edit section of the marketplace admin panel to enable this.
 
-![seller edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot_1715094178992-1200x814.webp)
+![seller edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/autoapproveeditseller.webp)
 
 ### **Manage product visibility for all sales channels & Markets**
 
@@ -801,9 +801,9 @@ We now offer the option to list products on all sales channels and Shopify marke
 
 For this, navigate to the marketplace Admin panel >> configuration >> product configuration >> Sales channel availability & allow sellers to publish products on all markets
 
-![sales channel availability](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot_1715094611731-1200x625.webp)
+![sales channel availability](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/channelavailability.webp)
 
-![shopifty markets](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot_1715094641805-1200x625.webp)
+![shopifty markets](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/allowsellertopublish.webp)
 
 Note - Disabling the product will result in its removal from all sales channels and markets.
 
@@ -813,13 +813,13 @@ Now, you can enable the configuration to send email notifications to the sellers
 
 For this, visit the app's **Admin panel>>Configuration>>Seller Configuration** and enable the tab shown in the below image.
 
-![email notification configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/sellerconfig-1200x606.webp)
+![email notification configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/mailnotification.webp)
 
 Once you enable the tab, the system automatically sends an email notification to the seller when the product inventory reaches the threshold limit you set.
 
 The template for this email can be configured by navigating to Mail configuration>>Mail Configuration>>Click on the three dots(...) and choose the email template for low inventory>>Edit.
 
-![Mail configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/email-1200x606.webp)
+![Mail configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/lowinventorymail.webp)
 
 ### Future Publishing: Schedule products for publishing on Shopify
 
@@ -833,10 +833,10 @@ Multivendor marketplace admin panel>> Configuration >> Products Configuration >>
 
 For reference, the image below is provided:
 
-![approve](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/first-1200x528.webp)
+![approve](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/autoapproveproduct.webp)
 
 ![future
-](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/08/second-1200x543.webp)
+](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/futurepublishdate.webp)
 
 After enabling and saving these settings, the seller or admin can schedule the products "Future Publishing date" at the time of the product listing.
 
@@ -862,9 +862,9 @@ This feature helps sellers plan product launches and manage availability, ensuri
 
 To enable the Future Selling Date feature, the admin should go to the Admin Panel, select Configuration, and enable "Future Selling Date on Products" under Product Configuration.
 
-![Future](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/edittwo-1200x534.webp)
+![Future](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productconfiguration.webp)
 
-![f](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/editone-1200x584.webp)
+![f](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/futureselling-2.webp)
 
 Once the **Future Selling Date on Product** configuration is enabled by the admin, sellers will have the option to set a future selling date while adding their products.
 
@@ -888,9 +888,9 @@ To enable this configuration, navigate to the marketplace Admin panel >> configu
 
 Refer - 
 
-![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/one-1-1200x603.webp)
+![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productconfiguration.webp)
 
-![prefix](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/two-1-1200x603.webp)
+![prefix](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/preffix.webp)
 
 By default, the prefix is set to {$pid} which is the unique product ID for the product.
 
@@ -898,11 +898,11 @@ The admin has to option to edit it and use the prefix of their requirement.
 
 Now, once the product is added the prefix option will show up.
 
-![product](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/three-1-1200x603.webp)
+![product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/prefixonaddproduct.webp)
 
 And once the product is added the product ID will be added and it will show up in the product.
 
-![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/four-1-1200x603.webp)
+![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productprifix.webp)
 
 The prefix value along with the product name will be synced to Shopify.
 
@@ -914,7 +914,7 @@ Both admins and sellers can now mark products as 'Sold' directly from their dash
 
 To do this, navigate to the product listing page, click on the three-dot menu next to the desired product, and select the 'Mark as Sold' option.
 
-![sold](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/markassold-1-1200x399.webp)
+![sold](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/markassold.webp)
 
 If you mark your product as **"Sold"**, its **inventory will automatically be set to 0**. This means the product will appear as **"Out of Stock"** to customers.
 
@@ -924,7 +924,7 @@ In the Multivendor Marketplace App, you can now set limits on the number of imag
 
 To add a product type and tags, you have to enable the "Restrict product type" and "Restrict product tags" configuration from the restriction configuration.
 
-![restrict](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/tags-1200x600.webp)
+![restrict](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttypetag.webp)
 
 To add product types, go to the Multivendor Marketplace Admin Panel >> Product >> Product Types.
 
@@ -932,11 +932,11 @@ Here, you can add product types, provide the necessary details, and specify limi
 
 Refer to the screenshots below:
 
-![type](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/one-2-1200x600.webp)
+![type](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/producttypes.webp)
 
-![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/two-2-1200x600.webp)
+![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproducttype.webp)
 
-![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/three-2-1200x600.webp)
+![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproducttypes.webp)
 
 You’ll also need to enable the configurations “Apply limitation on number of product images uploaded”,
 
@@ -950,25 +950,25 @@ Navigate to Marketplace Admin panel >> Configurations >> Restrictions configurat
 
 Refer to the screenshots below:
 
-![restrict](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/four-2-1200x600.webp)
+![restrict](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/restrictionconfiguration.webp)
 
-![restrict](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/five-2-1200x600.webp)
+![restrict](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/limitation.webp)
 
 Now, once a seller adds a new product and selects a specific product type, the number of images and product tags selected for that product type will be restricted.
 
 **Note:** The "upload image" and "product tag" fields will not be visible in the "add product" section until the product type is selected.
 
-![listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/six-1200x600.webp)
+![listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/productlisting.webp)
 
-![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/seven-1200x600.webp)
+![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/addproduct.webp)
 
-![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/eight-1200x600.webp)
+![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/insideaddproduct.webp)
 
 ### **Restrict Seller to View Unpaid Orders**
 
 To restrict sellers from viewing unpaid orders, you can enable the “Restrict Seller to View Unpaid Orders” option. 
 
-![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/12/restrictunpaidorder-1200x572.webp)
+![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/unpaidorder.webp)
 
 Follow these steps:
 
@@ -984,7 +984,7 @@ Once enabled, sellers will only have access to view paid orders. Until the order
 
 This feature allows the admin to replace the default currency symbol displayed in the seller panel with a custom text/symbol of the admin's choice wherever the currency symbol appears.
 
-![Currency](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/currency2-1200x696.webp)
+![Currency](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/customcurrency-1.webp)
 
 To configure the default currency symbol for your sellers, the Admin needs to navigate to:  
 Admin Dashboard>General Configuration>Enable Custom Currency Symbol>Enter your Currency Symbol>Save changes.
@@ -997,7 +997,7 @@ To do so, navigate to: **Admin Dashboard > Orders > Order Listing > Export Detai
 
 Upon clicking **Export Details**, a form will appear. Simply enter the desired date range and select **Export Payout Details** to complete the process.
 
-![Order payouts csv](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/orderpayouts-1200x572.webp)
+![Order payouts csv](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/exportdetails.webp)
 
 ### Google Translation For Admin And Seller Panel
 
@@ -1005,7 +1005,7 @@ We’ve added a new feature in our Multivendor Marketplace app that allows you t
 
 With just one configuration, you can choose whether you want to translate only the Admin panel, only the Seller panel, or both.
 
-![configuration-google-translate](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/translate-1200x575.webp)
+![configuration-google-translate](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/googletranslation.webp)
 
 To enable this feature, simply navigate to **Admin Panel >> Configuration >> General Configuration** and choose your preferred option.
 
@@ -1023,15 +1023,15 @@ This makes it easier for admins and sellers from different regions to use the ap
 
 To change the seller's email address, go to the Seller Listing page, click on "Edit Seller", then select the "More Actions" button and Change seller email .
 
-![seller mail change configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/seller-mail-more-action-1200x943.webp)
+![seller mail change configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/changeselleremail.webp)
 
 Once you click on "Change Seller Email," a field will appear where you can enter the new email address.
 
-![Enter new mail ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/enter-new-mail-1200x943.webp)
+![Enter new mail ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/otp.webp)
 
 An OTP will be sent for verification to the admin store mail , and upon entering it, the email will be successfully updated.
 
-![enter otp](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/enter-otp-1200x943.webp)
+![enter otp](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/otpsent.webp)
 
 ### **2-Step Authentication for seller and staff logins**
 
@@ -1053,17 +1053,17 @@ Admins can choose to enable OTP authentication for sellers as well. Once this se
 
 If the checkbox is selected, this becomes a mandatory step for all sellers.
 
-![2 factor](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/2factor-1200x571.webp)
+![2 factor](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/2fa.webp)
 
 **Customizable Email Templates:**
 
 Admins also have the flexibility to personalize the OTP email content. Simply click on the “Click here to edit mail template” link to customize the email according to your brand’s tone and messaging.
 
-![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/2factorr-1200x571.webp)
+![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editemailtemp.webp)
 
 ### SMS Authentication
 
-![SMS](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sms-825x1024.webp)
+![SMS](http://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/google2fa.webp)
 
 Users add an extra layer of login security by enabling SMS Authentication. During login, they enter a mobile number with country code and verify it using an OTP.
 
@@ -1103,17 +1103,17 @@ The Admin has the option to create and save **internal notes** for any seller. T
 Navigate to: **Marketplace Admin Panel → Sellers → Seller Listing  
 **Click on the **three dots** next to the desired seller and select **"Send Message"**
 
-![Send message](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/yguafb-1-1200x943.webp)
+![Send message](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sendmessage.webp)
 
 In the message window, compose your note and set the **"Message Type" to Internal Note**
 
-![send message to seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sdgjk-1200x943.webp)
+![send message to seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sendmessagebox.webp)
 
 Once submitted, the internal note will be saved and **not visible to the seller**. These notes are meant for Admin record-keeping and can be reviewed anytime from the **Edit Seller** section.
 
-![Seller listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/trfghy-1200x943.webp)
+![Seller listing](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/editseller.webp)
 
-![Seller internal note](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/yhjki-1200x943.webp)
+![Seller internal note](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/internalnote-1.webp)
 
 **Save product as draft** :
 
@@ -1155,7 +1155,7 @@ To enable this feature, simply navigate to **Admin Panel >> Configuration >> Pro
 
 **Note:** Make Sure Once You enable the video support in the product media option, you can’t disable it further!
 
-![product video](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/product-video-1200x503.webp)
+![product video](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/videosupport.webp)
 
 Before enabling the video upload feature, the system will show a warning pop-up message to confirm your action.
 
@@ -1165,9 +1165,9 @@ This ensures that users are aware of the file requirements and limitations befor
 
 Now, both sellers and admins can upload videos directly from the Product Media section on the Add/Edit Product pages in Product listing.
 
-![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/add-product-1-1200x404.webp)
+![add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/uploadmedia.webp)
 
-![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/edit-product-1200x484.webp)
+![edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/aftersave.webp)
 
 **Product Variant**
 
@@ -1177,7 +1177,7 @@ Previously, Shopify limited the number of variants to just 100 per product, whic
 
 But with this significant upgrade, you can now offer far more choices to your customers without needing workarounds
 
-![variant](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/products-variant-1200x804.webp)
+![variant](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/variantdetail.webp)
 
 **Order listing in Seller Panel:**
 
@@ -1189,7 +1189,7 @@ Sellers can now view the **Total Order Amount** under the **Order Section** of t
 
 This amount represents the **complete order value placed by customers**, including product prices, taxes, shipping, and other applicable charges.
 
-![order amount](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/order-listing-1200x554.webp)
+![order amount](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderamount.webp)
 
 Product Review listing on Seller Profile page:
 ----------------------------------------------
@@ -1221,9 +1221,9 @@ This opens the seller’s public store view inside the app.
 5. **Click on the “Reviews” Tab**  
 Once you're on the seller profile page, switch to the “Reviews” tab to see all the customer feedback for that seller sorted and displayed in an easy-to-read format.
 
-![sp1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sp1-2-1200x504.webp)
+![sp1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderamount.webp)
 
-![sp2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sp2-2-1200x506.webp)
+![sp2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/viewinstore.webp)
 
 ![sp3](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/sp3-2-1200x519.webp)
 
@@ -1250,7 +1250,7 @@ To configure this feature, follow the path:
 
 Admin Dashboard>>Configuration>>Discount Configuration
 
-![Discount(Admin end)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/dis1-1200x930.webp)
+![Discount(Admin end)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/discount.webp)
 
   
 Click "Allow Seller to Create Discounts on Products" and save the settings.
@@ -1263,9 +1263,9 @@ The seller needs to follow these simple steps to add discounts to products:
 
 Go to the Product section>>Select Discount >>Add Discount button.
 
-![Discount](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/dis2-1200x571.webp)
+![Discount](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/sellerdiscount.webp)
 
-![product](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/product-1-961x1024.webp)
+![product](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/adddiscount.webp)
 
 Select the discount type (Percentage or Fixed), enter the discount value, and choose the product to apply it to.
 
@@ -1285,7 +1285,7 @@ Admin Dashboard>>Configuration>>Discount Configuration
 
 Enable “Allow Seller to Create Discounts on Overall Order” and save the settings.
 
-![Allow](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/allow-1200x930.webp)
+![Allow](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/overalldiscount.webp)
 
 Once configured, sellers will have the option to create discounts on the overall order from their respective seller panels.
 
@@ -1303,11 +1303,11 @@ Select the Discount Type (Percentage or Fixed) and enter the discount value. Sel
 
 Set the start and end date of your discount as the validity period. Save changes.
 
-![Dis](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/dis5-1003x1024.webp)
+![Dis](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/orderdiscount.webp)
 
 The seller will see all discount codes added to their store in the Discount section.
 
-![All sis counts](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/dis-1200x717.webp)
+![All sis counts](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/alldiscount.webp)
 
 **Please note: The overall order discount works based on the seller’s smart collection, and the discount will also be applied seller-wise on the front end.**
 
@@ -1327,7 +1327,7 @@ So, go to the Multivendor Admin Panel and navigate to:
 
 Configuration >>Instruction for Marketplace >> Scroll down to get the codes for “Discount” >> Copy the code from there & add it to the instructed liquid files.
 
-![codes](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/last-1200x571.webp)
+![codes](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/discountcode.webp)
 
 In this way, the discount will be visible on the front.
 

@@ -60,7 +60,7 @@ Select the account type whether **Standard** or **Express** that the seller is u
 
 Additionally, enter the details like Secret key, Publish Key and Client ID and then click on save.
 
-![Stripe Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/20.png)
+![Stripe Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay32.webp)
 
 You need to log in to your Stripe Account to get the above keys.
 
@@ -82,7 +82,7 @@ paste into the "Redirect URI" section of your Stripe account, and make this defa
 
 Admin end>> Configuration >> Instruction for marketplace >> Visit "Stripe connect" section>> Copy the given code to connect the seller's Stripe account to your Stripe account.
 
-![Stripe Connect188](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/7-8.png)
+![Stripe Connect188](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay33.webp)
 
 Now open your "Stripe account" and paste the code in the "Redirect URI" section and make it default.
 
@@ -117,7 +117,7 @@ Copy the below-given code & paste it to the **customers/order.liquid** templat
 <div style="display:none;" id="wk_order_payment_status" data-payment_status="{{ order.financial_status }}" data-sh_gateway="{{ order.transactions[0].gateway }}" data-wk_gateway="Stripe Payment"></div>
 ```
 
-![image-78](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-78-1200x597.png)
+![image-78](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay33.webp)
 
 ### SHOPIFY STORE SETTINGS
 
@@ -174,7 +174,7 @@ On the Thank You page, the popup to complete the payment will appear and save.
 
 The multivendor marketplace app now displays a "Stripe Connect Configuration" menu in the orders section of the seller panel.
 
-![Stripe Connect121](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/23-2.png)
+![Stripe Connect121](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/pay35.webp)
 
 After visiting this section click on "Add account to stripe"
 

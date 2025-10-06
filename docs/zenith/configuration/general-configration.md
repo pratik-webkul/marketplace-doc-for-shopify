@@ -131,13 +131,34 @@ In short, if the cart amount is equal or greater than the minimum purchase amoun
 
 ![MULTIVENDOR MARKETPLACE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/06/Your-Shopping-Cart-%E2%80%93-Demo-Shop-1-1135x1024.png)
 
+
+### Login As Seller
+
+You as an admin will now have the access to login seller dashboards directly from your admin panel.
+
+Firstly, you need to enable the option from the **General Configuration** menu of the app.  
+Multi-vendor admin panel>>**Configuration**\>>**General Configuration**\>>Enable Option>>**Save** Changes.
+
+![DWQd](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/loginsellerconfig.webp)
+
+Once enabled, visit the **Seller Listing** section and click the “**Login as Seller**” from the Action menu.
+
+Multi-vendor Admin Panel>>**Sellers**\>>**Seller Listing**\>>Click **Login as Seller** (Action menu).
+
+![DQDD](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/loginasseller.webp)
+
+Clicking this button, the seller will be redirected to the respective seller panel.
+
+Note that the sellers will be notified every time you'll log in to their account using this option.  
+
+
 ### Change the Copyright label of the app footer
 
 Now, you can change the copyright label of the app footer, for this visit-
 
 App admin panel>>Configuration>>General Configuration
 
-![screenshot_1695927184457](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_1695927184457-1200x590.png)
+![screenshot_1695927184457](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/footer.webp)
 
 **NOTE**\- This feature is available only in the PRO plan of the app.
 
@@ -145,7 +166,7 @@ App admin panel>>Configuration>>General Configuration
 
 This feature allows the admin to replace the default currency symbol displayed in the seller panel with a custom text/symbol of the admin's choice wherever the currency symbol appears.
 
-![Currency](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/02/currency2-1200x696.webp)
+![Currency](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/customcurrency.webp)
 
 To configure the default currency symbol for your sellers, the Admin needs to navigate to:  
 Admin Dashboard>General Configuration>Enable Custom Currency Symbol>Enter your Currency Symbol>Save changes.

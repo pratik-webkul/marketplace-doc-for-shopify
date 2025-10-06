@@ -1,6 +1,6 @@
 ###  Commission Overview – Shopify Multivendor Marketplace App
 
-[Multivendor Marketplace for Shopify](http://localhost:8080/Introduction/Overview.html) offers a robust **commission management system**, allowing store owners to earn from every sale made by their sellers.
+[Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/zenith/Introduction/) offers a robust **commission management system**, allowing store owners to earn from every sale made by their sellers.
 
 In a marketplace model, **commissions** are the core of the revenue structure for the admin. They represent the amount earned by the marketplace owner from each transaction made by vendors.
 
@@ -44,7 +44,7 @@ If commission is set to **10% + $20**, and the total order is $1400:
 
 You can override the global settings for specific sellers from the **Seller Commission Settings** page in the app.
 
-![Seller Commission Settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Commission-Settings-_-Admin.jpg)
+![Seller Commission Settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/comm1.webp)
 
 ---
 
@@ -80,13 +80,13 @@ Set the commission on individual variants as needed.
 Sellers can view commissions for each order from:  
 **Seller Panel > Orders > Commission Listing**
 
-![Seller Commission View](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Commissions-Seller-•-Multivendor-MarketPlace-1.png)
+![Seller Commission View](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/09/commi2.webp)
 
 ---
 
 ###  Learn More
 
- [Read the full guide on Commission Types](http://localhost:8080/Commission/Commission-Type.html)
+ [Read the full guide on Commission Types](http://localhost:8080/zenith/Commission/Commission-Type.html)
 
 ###  Demo
 
