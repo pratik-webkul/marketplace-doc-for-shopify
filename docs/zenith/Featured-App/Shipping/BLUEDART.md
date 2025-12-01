@@ -21,7 +21,7 @@ BLUEDART SHIPPING FEATURE APP IS AVAILABLE **ONLY FOR FULFILLMENT**.
 *   It is necessary for admin to have an account on Blue Dart as these Blue Dart account details will help the admin to configure settings in the app.
 *   Make the **Contact Number, a mandatory field for the customers** for checkout.
 
-![Blue Dart](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Screenshot-27.png)
+![Blue Dart](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/bluedart.webp)
 
 Click the **Enable** Button.
 
@@ -29,7 +29,7 @@ Click the **Enable** Button.
 
 To enable this feature within your app, all you need to do is to visit the “Featured Apps” section of the admin panel and activate it from there.
 
-![Feature App ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Home-Admin-1.png)
+![Feature App ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Once you click on “Feature Apps”, you will get the list of apps listing in this section. Now, you can scroll down to get the **Blue Dart** feature and click on the **enable** button.
 
@@ -42,13 +42,13 @@ ADMIN END
 
 As soon as the admin enables this feature app, a new sub-menu gets added in the Configuration menu of the app i.e. Blue Dart Configuration. Now, the admin needs to have an account on **[Blue Dart](https://bluedart.com/)**.
 
-![Blue Dart](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Home-Admin.png)
+![Blue Dart](http://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/bluedartconfigdash.webp)
 
 Visiting the BlueDart Configuration section, the admin needs to configure all the details and do the settings accordingly. These details include the Licence Key, Customer Code, Origin Area Code, and Login ID.
 
 Moreover, the admin will have the option to let the sellers **generate Shipping labels automatically on order fulfillment**. Also, the admin can set "who will bear the shipping label cost" whether Admin or Seller.
 
-![Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Bluedart-Configuration-Admin-1.png)
+![Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/bluedartconfig.webp)
 
 Once the admin configures the details from his/her admin panel, sellers immediately get the option to fulfill orders via Blue Dart on their respective seller panels.
 
@@ -57,7 +57,7 @@ Once the admin configures the details from his/her admin panel, sellers immediat
 You can now allow sellers to enter their tracking numbers and track orders.  
 Go to Multi-vendor Admin Panel>>Configuration>>Bluedart Configuration>>Configure details>>Save
 
-![7300b5aa-4036-4f72-9151-37be71189fb0](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/7300b5aa-4036-4f72-9151-37be71189fb0-1200x584.png)
+![7300b5aa-4036-4f72-9151-37be71189fb0](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/bluedartdetails.webp)
 
 So, once the order is delivered to the customer, the tracking number gets updated for that order into the app. The sellers don't need to mark their orders as "Delivered" manually from their end.
 
@@ -73,17 +73,17 @@ SELLER END
 The Seller can configure the packet details from the Global Configuration section.  
 Seller Panel>>Configuration>>**Shipping Configuartion**\>>Click the Global Configuration button>>Configure the shipping packet details.
 
-![Shipping ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Screenshot-23.png)
+![Shipping ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfig.webp)
 
-![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)
+![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
 
 Now, as soon as an order is placed, the seller will visit the order detail section to fulfill the order.
 
-![Orders](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![Orders](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vieworder.webp)
 
 Visiting the Order detail section, click the **Fulfill** button to fulfill the order.
 
-![fulfill order](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-5.png)
+![fulfill order](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 Clicking the Fulfill button, the seller will get the option to select a method of fulfillment. The Seller needs to choose Blue Dart.
 
@@ -108,7 +108,7 @@ Clicking the Agree and Fulfill button, the seller can generate a shipping label 
 
 Once generated, the seller can view the fulfillment details from the Order details section & Print the shipping label in PDF format.
 
-![download-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/download-6.png)
+![download-6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 DEMO
 ----

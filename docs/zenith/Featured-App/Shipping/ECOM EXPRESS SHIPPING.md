@@ -28,15 +28,15 @@ To enable this Ecom Express Shipping feature of the Multivendor app, just click 
 
 There, you will get "**Feature Apps**". Click on it and scroll down to get the "Ecom Express Shipping" featured app.
 
-![feature Apps](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Dashboard-_-Admin-1.jpg)
+![feature Apps](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Now, tap the enable button and proceed further to accept the payment for this feature.
 
-![Screenshot-52](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot-52.png)
+![Screenshot-52](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ecomexpress.webp)
 
 Once you click on approve charges, you will add up $10 per month additionally in your current Multivendor Marketplace plan.
 
-![agree with plan](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/pay.png)
+![agree with plan](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activate.webp)
 
 Once you pay for the app, two new menus will appear in the configuration section of the admin panel. Ecom Express Configuration and Cancel Reason Configuration.
 
@@ -50,7 +50,7 @@ As soon as you enable the feature app, two new menus get added to the configurat
 
 To configure the Ecom Express Shipping, the admin will enter his own Ecom shipping details such as **Ecom ID** and **Ecom password**.
 
-![ecom details](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Ecom-Express-Configuration-Admin-1-1200x619.png)
+![ecom details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/config.webp)
 
 **PLEASE NOTE:- To get the Ecom User ID and Password, you need to contact [Ecom Express](https://ecomexpress.in/).**
 
@@ -58,31 +58,31 @@ To configure the Ecom Express Shipping, the admin will enter his own Ecom shippi
 
 Here, you can add the reason for the cancellation of the order. Now, once a seller proceeds to fulfill an order from his/her seller panel, he/she can anytime cancel the order if required. Just the seller needs to select the reason for the order cancellation.
 
-![Order cancellation](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Order-Cancel-Reason-Admin-1200x619.png)
+![Order cancellation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/cancel.webp)
 
 Once you click the "Add Cancel Button", a page appears. There, you can add or edit the cancel reasons as well as enable or disable it accordingly. If you disable the order cancel reason, it will not be visible to the seller while canceling an order.
 
-![Add-Cancel-Reason-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Add-Cancel-Reason-Admin-1200x619.png)
+![Add-Cancel-Reason-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/cancelconfig.webp)
 
 Admin can also view, edit or delete the existing order cancel reason from the action menu.
 
 Dashboard>>Configuration>>**Cancel Reason Configuration**\>>Click **Action** (in order cancel reason section)>>There, you can view,edit or delete the reason for order cancellation.
 
-![cancel reasons](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Order-Cancel-Reason-Admin-1-1200x619.png)
+![cancel reasons](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/editcancelreason.webp)
 
 ### Seller Panel
 
 Once a customer places an order, the seller can use this Ecom shipping feature to fulfill the customer order. To do so, the seller needs to visit the **order** section of the Multivendor app where he can view the order details from the action menu.
 
-![Order-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Order-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x619.png)
+![Order-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerorder.webp)
 
 Dashboard of seller panel>>**Orders**\>>Orders Listing>>Click **view** (in Action menu).
 
-![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-760x1024.png)
+![Order-Details-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 Now, clicking the Fulfill/Cancel button, the seller will get the option to choose whether he/she wants to **confirm** or **cancel** the order.
 
-![order details](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Screenshot2-1-1200x608.png)
+![order details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/confirmcancel.webp)
 
 If the seller clicks the confirm button, the order gets confirmed.
 

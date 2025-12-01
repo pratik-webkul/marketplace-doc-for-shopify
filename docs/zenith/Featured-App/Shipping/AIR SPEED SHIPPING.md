@@ -32,15 +32,15 @@ To get this feature app installed on your marketplace, admin needs to follow bel
 
 *   Go to **Feature Apps** section in the admin panel of the Multivendor App.
 
-![AirSpeed2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Home-Admin.png)
+![AirSpeed2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 *   Search for the **AirSpeed Shipping** Feature App and Click on **Enable** button.
 
-![AirSpeed1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Screenshot-9.png)
+![AirSpeed1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/airspeed.webp)
 
 *   Further, click on **Agree** button if you agree with the feature app charge.
 
-![AirSpeed3](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Screenshot-10.png)
+![AirSpeed3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/agreeairspeed.webp)
 
 *   Redirecting to Shopify backend, click on **Approve Charge** button to approve the additional charge.
 
@@ -54,7 +54,7 @@ This way, admin can enable the AirSpeed Shipping feature.
 
 As soon as the AirSpeed Shipping feature app is enabled in the app, a new sub-menu gets added in the Configuration menu of the app i.e **Air Speed Shipping Configuration**.
 
-![AirSpeed5](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Feature-Apps-Admin-1.png)
+![AirSpeed5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/asdashconfig.webp)
 
 Visiting this section, the admin needs to configure the details related to AirSpeed Shipping such as AirSpeed Client ID, Token ID, and Waybill Prefix.
 
@@ -62,7 +62,7 @@ To get these details, the admin needs to register to AirSpeed Shipping Courier a
 
 Moreover, to test the functionality of this shipping, admin can enable the Sandbox mode.
 
-![airspeed shipping6](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Air-Speed-Shipping-Config-Admin.png)
+![airspeed shipping6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/asconfiguration.webp)
 
 **Please Note:- It is mandatory to have Customer's Contact Number at Checkout.**
 
@@ -74,15 +74,15 @@ As the AirSpeed Shipping feature is configured from admin end, he/she will get t
 
 ### Orders: Admin End
 
-![Order details](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Orders-Admin.png)
+![Order details](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderlisting.webp)
 
 Also, visiting the **Orders** section of the admin panel, You will get a **Notify Courier** button to send the notification to the courier to pick up the prepared order.
 
-![Order Details1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Details-Admin-1.png)
+![Order Details1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/notifyorder.webp)
 
 Go to **Orders**\>>Visit **Order Listing** section>Select the **Order** from the listing>>Click on **View** button in the **Action** menu>>Click on **Notify Courier** button.
 
-![AirSpeed8](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Screenshot-12.png)
+![AirSpeed8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/notifyorderconfirm.webp)
 
 Furthermore, once the admin notifies the courier about the order to be picked up, the same will be updated on seller side too.
 
@@ -90,17 +90,17 @@ Now, if the admin doesn't notify the courier from his panel, the seller will get
 
 ### Fulfillment by the Seller
 
-![Seller Order1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Seller-•-Multivendor-MarketPlace-1.png)
+![Seller Order1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vieworder.webp)
 
 Moreover, once the admin configure the AirSpeed Shipping from his/her end. Seller will also get an option to notify the courier if the customer's order is prepared to be picked up.
 
 So, from the Order details section, the seller can send the notification to the courier. Once the order is picked up, the seller will fulfill it from his end.
 
-![Seller End ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Details-Seller-•-Multivendor-MarketPlace-4-1.png)
+![Seller End ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/notifyorderseller.webp)
 
 If the admin has already notified the Courier, the seller will get the option to fulfill the order.
 
-![Fulfill order](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Details-Seller-•-Multivendor-MarketPlace-1-1.png)
+![Fulfill order](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 ![Fulfill Items](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Details-Seller-•-Multivendor-MarketPlace-2-1.png)
 
@@ -122,7 +122,7 @@ The seller needs to follow the below steps to generate the shipping label for fu
 *   Further, click on the View button in the Action menu.
 *   Click on the Generate Shipping Label button shown on the Order detail page.
 
-![Shipping Label](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Order-Details-Seller-•-Multivendor-MarketPlace-3-1.png)
+![Shipping Label](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 ![Shipping Label1](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/01/Shipping-Label-794250.png)
 

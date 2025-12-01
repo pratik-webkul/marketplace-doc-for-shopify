@@ -22,11 +22,11 @@ So let's understand its workflow:
 
 Firstly you need to Enable "Weglot Translation" from the 'Feature Apps' section by clicking on the (...) three dots on the top right-hand side of the main menu.
 
-![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29112705/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-16-07-76.png)
+![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/first.webp)
 
 After enabling the " Weglot Translation" you need to click on the agree button.
 
-![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/b-1.png)
+![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we2.webp)
 
 Once you will click on "Agree Button" you will be redirected to the "Weglot" Sign Up page and there you need to register on Weglot and need to get an API key to have your app in multiple languages.
 
@@ -46,9 +46,9 @@ You also need to keep the default language is English.
 
 Go to the Admin Panel>>Click the **Configuration** menu>>**Scroll down** and click the **Weglot Configuration**\>> Enter "API KEY" >>fill the rest details>> Save.
 
-![weglot](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Screenshot-2020-06-08T161100.890-1200x600.png)
+![weglot](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we3.webp)
 
-![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/e-1.png)
+![Weglot Translation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/we4.webp)
 
 Hence, a menu with the selected languages will be visible on the bottom corner in the right-hand side as shown in the below screenshot.
 

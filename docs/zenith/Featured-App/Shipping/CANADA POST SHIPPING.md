@@ -21,7 +21,7 @@ So let's understand its workflow:-
 
 Firstly enable the feature from the "FEATURE APPS" section on the top right-hand side of the main menu in your Marketplace App.
 
-![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-26.png)
+![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/canadapost.webp)
 
 Once you will click on the Enable button, the Plan amount window will open and USD 10 will be added to your current payment.
 
@@ -33,7 +33,7 @@ Now you also have to enable this feature from the "shipping configuration" secti
 
 Configuration>>Shipping Configuration>> Select "Canada Post">> Save changes
 
-![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-22.png)
+![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enablecp.webp)
 
 Hence a new menu name "Canada Post Configuration" will be added in the configuration section of your admin panel in your multivendor marketplace app
 
@@ -49,13 +49,13 @@ Once you select “Admin” to bear the Shipping Label cost, the same process wi
 
 But if you want your sellers to bear the extra Shipping charges then the seller will pay the shipping label cost as per the shipping configured by the admin.
 
-![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/01101036/screencapture-sp-seller-webkul-admin-index-php-2019-07-01-15-32-23-1.png)
+![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/canadapostconfig.webp)
 
 If the Admin wants his sellers to enter their own Shipping details then he can enable the 'Seller Canada Post Detail' option.
 
 This option will introduce a 'Canada Post Configuration' sub-menu on the Seller's end.
 
-![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/01104253/screencapture-sp-seller-webkul-admin-index-php-2019-07-01-16-09-50.png)
+![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellercp.webp)
 
 In this way, you can configure your shipping details.
 
@@ -80,13 +80,13 @@ Further, on the seller end, Seller needs to select the "Canada Post" shipping fe
 
 Seller End>>Configuration>> Shipping Configuration>> select Canada Post>> Save Changes
 
-![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-23.png)
+![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerenable.webp)
 
 After selecting the Canada Post method, the Seller needs to configure the Canada Post Details if configured by the admin.
 
 Go to Seller End>>Configuration>> **Canada Post Configuration** and configure the details.
 
-![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/01104848/screencapture-sp-seller-webkul-index-php-2019-07-01-16_17_58.png)
+![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerconfigcp.webp)
 
 Now, as soon as your buyer proceeds for checkout, he will get the shipping methods on the checkout page.
 
@@ -143,7 +143,7 @@ The seller can also generate the shipping label from the orders section of their
 
 Seller end >>orders>>order listing>>click on view button in the “Action” section on the front of order ID>> Generate Shipping Label.
 
-![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/k-3.png)
+![Multi Vendor Marketplace Canada Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 ### DEMO
 

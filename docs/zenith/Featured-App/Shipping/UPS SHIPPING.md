@@ -49,13 +49,13 @@ You need to follow the below-given steps to activate the UPS feature app:-
 *   Go to the Multi-vendor Admin panel.
 *   Visit the **Feature App** section.
 
-![feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Home-Admin.png)
+![feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 *   Search for the **UPS** feature app.
 *   Click the "**Enable**" button.
 *   **Proceed** and **Approve** the charge for the same.
 
-![UPS feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-54.png)
+![UPS feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ups.webp)
 
 ### Admin Panel
 
@@ -63,17 +63,17 @@ You need to follow the below-given steps to activate the UPS feature app:-
 
 As soon as you enable the UPS featured app, a new sub-menu gets added to the Configuration menu of the app i.e. **UPS** **Configuration**.
 
-![UPS Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Home-Admin-1.png)
+![UPS Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/dashconfiguration.webp)
 
 Now, Go to the **UPS Configuration** section and enter all the details from your UPS account such as UPS access key, choose the shipping service (domestic or international), UPS shipper number, username, password, etc.
 
 **Note - New account users do not require UPS Access Keys. Once you configure the UPS Client\_id and Client\_secret Name, the system will automatically generate the Access token.**
 
-![UPS shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot15.png)
+![UPS shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/upsconfiguration.webp)
 
-![screenshot_1708689979222](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1708689979222-1200x856.png)
+![screenshot_1708689979222](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/configurationtwoups.webp)
 
-![screenshot_1708689971851](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/02/screenshot_1708689971851-1200x755.png)
+![screenshot_1708689971851](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/upsconfigthree.webp)
 
 > **You will get all these details from your UPS account. Log in** [**UPS.com**](https://www.ups.com/lasso/login?loc=en_US)
 
@@ -87,7 +87,7 @@ If there is an overseas order in UPS shipping the in case if you want both addre
 
 Then you can enable "DEFAULT PICK UP ADDRESS " from UPS configuration.
 
-![screenshot_1690983352537](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1690983352537-1200x553.png)
+![screenshot_1690983352537](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/defaultpickupaddress.webp)
 
 ### Make **Shipping** **Address Phone Number** Mandatory
 
@@ -103,13 +103,13 @@ Refer:-
 
 Once the admin configures the UPS details from his end, the same will reflect at the seller end. And now the seller needs to visit the "**Shipping Configuration**" menu & enable the **UPS** feature.
 
-![shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Dashboard-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellersideconfig.webp)
 
 There, the seller will get the UPS shipping method. Clicking the "Enable" button, the seller can activate the UPS for all his/her products.
 
-![Shipping Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-4.png)
+![Shipping Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/upsconfigseller.webp)
 
-![UPS enabled](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1.png)
+![UPS enabled](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/upssellerenabled.webp)
 
 Once enabled, the seller can set it as "Default" shipping method.
 
@@ -117,7 +117,7 @@ Once enabled, the seller can set it as "Default" shipping method.
 
 Now, the sellers need to configure the Shipping Packet details from the "**Global Configuration**" section of the seller panel.
 
-![shipping package](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1-1200x878-png-1200%C3%97878-.png)
+![shipping package](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/configureupsseller.webp)
 
 > **NOTE**:- Admin can also set the shipping method as UPS by default for any seller's product from Seller Listing menu of the app.
 
@@ -139,13 +139,13 @@ Moreover, once the order is fulfilled by the seller, he/she can now generate the
 
 Seller first needs to select the method of order fulfillment as UPS and fulfill the order.
 
-![order fulfillment](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![order fulfillment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 ![UPS shipping](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot13.png)
 
 Once the order gets fulfilled, sellers can generate shipping label of the fulfilled order.
 
-![Print Shipping Label](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Screenshot-53.png)
+![Print Shipping Label](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 A shipping label will be printed in the form of **gif**.
 

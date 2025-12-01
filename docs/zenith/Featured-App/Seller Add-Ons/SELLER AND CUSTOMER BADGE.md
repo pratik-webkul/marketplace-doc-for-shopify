@@ -41,13 +41,13 @@ Let's move to the installation & configuration process of the following feature 
 
 Visit the '**Feature Apps**' section from the Multivendor Marketplace **Admin Panel**. Search for the **Seller and Customer Badge** app & click on **Enable**.
 
-![screenshot_1684332485356](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684332485356-1200x563.png)
+![screenshot_1684332485356](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge1.webp)
 
 ### Adding Badges
 
 To add badges, visit Multivendor Marketplace **Admin Panel** > **Sellers** > **Badge Listing** > **Add Badge**
 
-![Seller-Badges-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Seller-Badges-Admin-1200x597.png)
+![Seller-Badges-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge2.webp)
 
 Further, on the redirected page, enter the following details:
 
@@ -57,26 +57,26 @@ Further, on the redirected page, enter the following details:
 *   Status (Enable/Disable)
 *   Upload Badge Logo (logo can be uploaded of any dimension but the recommended dimension is 185x185 px.)
 
-![screenshot_1684324147921](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684324147921-1200x619.png)
+![screenshot_1684324147921](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge3.webp)
 
 This is how a new custom badge can be added. Coming back to the badge listing page, it will show all the added badges on the store from where you can edit, disable or delete them.
 
-![screenshot_1684324254698](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684324254698-1200x563.png)
+![screenshot_1684324254698](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbage4.webp)
 
 ### Assigning Badges to Seller
 
 For this, visit Multivendor Marketplace **Admin Panel** > **Sellers** > **Sellers Listing** > **Edit Seller**
 
-![Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Seller-Admin-1200x570.png)
+![Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge5.webp)
 
 Further, on the redirected page, under the section **Seller Badges**:  
 You need to click on **Add Badges** & select the badge you want to assign from the dropdown list.
 
-![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Edit-Seller-Admin-1200x597.png)
+![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge6.webp)
 
 You can assign more than one badge to a seller. Further, the admin can also remove the assigned badge as well as hide it from displaying on the storefront.
 
-![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Edit-Seller-Admin-1-1200x597.png)
+![Edit-Seller-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge7.webp)
 
 ### Seller Panel
 
@@ -84,27 +84,27 @@ The seller will be able to see all the assigned badges from the seller panel. Vi
 
 Furthermore, under the section **Seller Badges**, all the assigned badges will be listed.
 
-![My-Account-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/My-Account-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![My-Account-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge8.webp)
 
 ### Assigning badges to customers
 
 For this, visit Multivendor **Marketplace Admin Panel > Sellers > Customer Badge> Add customer badge.**
 
-![screenshot_1684324597737](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684324597737-1200x563.png)
+![screenshot_1684324597737](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge9.webp)
 
 Further, on the redirected page.
 
 You will need to first validate the customer through his/her e-mail address.
 
-![screenshot_1684324725406](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684324725406-1200x563.png)
+![screenshot_1684324725406](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge10.webp)
 
 Once the e-mail is validated, you can assign the badges to the customer.
 
-![screenshot_1684324921611](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684324921611-1200x563.png)
+![screenshot_1684324921611](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge11.webp)
 
 To view all the badges assigned to the customers, go to **Marketplace Admin panel> Sellers>customer badges.**
 
-![screenshot_1684325019431](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684325019431-1200x563.png)
+![screenshot_1684325019431](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge12.webp)
 
 The customer badges will be visible to the sellers on their respective seller panel while accepting/fulfilling the order.
 
@@ -116,7 +116,7 @@ The Admin can decide if he wants the seller to view the badges assigned to the c
 
 For this, visit **Marketplace Admin panel> configuration> Badges configuration.**
 
-![screenshot_1684325611069](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/05/screenshot_1684325611069-1200x563.png)
+![screenshot_1684325611069](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbadge14.webp)
 
 Adding code for seller and customer badges
 ------------------------------------------

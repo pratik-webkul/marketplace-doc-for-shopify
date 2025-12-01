@@ -7,7 +7,7 @@ author: Chirag Tyagi
 
 We are here with another featured app "Make an offer" within the [Multivendor Marketplace for Shopify](https://store.webkul.com/Shopify-Multi-Vendor-Marketplace.html).
 
-You can create "Make an Offer" products and get the request quotes from the customers on any of those products within the [Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/classic/Introduction/).
+You can create "Make an Offer" products and get the request quotes from the customers on any of those products within the [Multivendor Marketplace for Shopify](https://marketplace-doc.webkul.com/zenith/Introduction/).
 
 And as you have all the details of your customers to easily contact them and pursue them for the purchase.
 
@@ -39,13 +39,13 @@ Just click on the enable button and use this feature on your store. Which will c
 
 Dashboard>> Feature Apps>> Make an offer>> Click on **Enable** button.
 
-![Make an Offer](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Screenshot-36.png)
+![Make an Offer](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/makeanoffer.webp)
 
 Once you enable the 'Make an Offer' feature within your app, you accept the additional monthly charges for this feature.
 
 Which the system adds to the Multivendor Marketplace for Shopify app charges.
 
-![Make an Offer2](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot3-1.png)
+![Make an Offer2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/maoagree.webp)
 
 ### How to Create "Make an Offer" Products
 
@@ -53,19 +53,19 @@ Both admin and Sellers can create "Make an Offer" Products from their respective
 
 Clicking on the "Add Product" button on the "Product Listing Page", choose the product type as "Make an Offer" product and fill the rest of the details to create a product.
 
-![Make an Offer3](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-11.png)
+![Make an Offer3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/maoadmin.webp)
 
 **Admin Panel:**
 ----------------
 
 Similarly, Your sellers too can create "Make an Offer" Products from the "Product" section of the Multivendor Marketplace for Shopify app.
 
-![Make an Offer4](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-1-5.png)
+![Make an Offer4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/maoseller.webp)
 
 **Seller Panel:**
 -----------------
 
-![Make an Offer5](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot-2-6.png)
+![Make an Offer5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/plmao.webp)
 
 Once you create the 'Make an Offer' product, the system lists it on the 'Product Listing' page.
 
@@ -103,7 +103,7 @@ After enabling this feature called "Make an offer", you will get three new menus
 
 General Configuration, Label Configuration, and Liquid File Configuration.
 
-![Make an offer configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Make-An-Offer-Configuration-Admin.png)
+![Make an offer configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/genconmoa.webp)
 
 **General Configuration**
 -------------------------
@@ -116,7 +116,7 @@ Now, you need to choose where you want to show the details of the offer requests
 
 Have a look:
 
-![Screenshot2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Screenshot2-1200x610.png)
+![Screenshot2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/bothmoa.webp)
 
 *   **Auto-draft enables:** By enabling this configuration, the system automatically creates the requested product as a draft order after the admin and seller accept the offer.
 
@@ -136,11 +136,11 @@ But the seller/admin asks for 90$ for the product by adding a counter price, and
 
 If customers agree to buy for 90$ then they can accept. And if not, they can deny by clicking on deny.
 
-![tgh](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/tgh-1200x513.png)
+![tgh](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/draftmao.webp)
 
 *   **Allow shipping price:** By default, this configuration is enabled. If the admin wants to disable the shipping rate, then the admin can disable the tab, and shipping will not be applicable in the customer offer.
 
-![General configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/makeanoffer2-1200x572.webp)
+![General configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shipmao.webp)
 
 *   **Allow a seller to add a minimum percentage for offer price (product-wise)**  
     Admin can enable this configuration to allow sellers to set a minimum offer price percentage for each product separately.  
@@ -158,7 +158,7 @@ However, if the product-wise minimum offer price is not configured, then the glo
 **Form Configuration**
 ----------------------
 
-![Make an Offer9](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotc.png)
+![Make an Offer9](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/formmao.webp)
 
 NOTE:- Here, you have two fields i.e. "visible" and "required" to check or uncheck as per your need.
 
@@ -171,7 +171,7 @@ Also Note:- If you make any changes in the "**Form Configuration**" then you **n
 
 Here, you can configure label details about the "Make an offer" feature of the Multivendor Marketplace app. You have a screenshot below to understand it well.
 
-![Make an Offer10](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshote.png)
+![Make an Offer10](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/labelmoa.webp)
 
 **Liquid File Configuration**
 -----------------------------
@@ -182,7 +182,7 @@ In order to display "Make an offer" form and button on the front end, all you ne
 
 Before this, you first need to generate a liquid file just by clicking the "Generate Liquid File" button.
 
-![Make an Offer11](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotd.png)
+![Make an Offer11](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/liqmoa.webp)
 
 This is the complete procedure that will help the admin to configure the details about the "Make an offer" feature.
 
@@ -191,15 +191,15 @@ Now, once the customer submits the make an offer request, admin can view the req
 Now, admin can view all the requests from here and view the offer details just by clicking on the open button.  
 Admin can also export the details by simply clicking on export details button.
 
-![ankit](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ankit-1200x506.png)
+![ankit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/exportmao.webp)
 
 Once you click the open button, "Make an offer Request Description" page appears. Admin can either accept or reject the customer's request by selecting the status.
 
-![ak1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ak1-1200x577.png)
+![ak1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/acceptmao.webp)
 
 If admin enable the
 
-![ak65](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/ak65-1200x572.png)
+![ak65](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/countermao.webp)
 
 *   Once the admin accepts the request, then the customer will receive a notification to make the payment.
 *   If the admin rejects the request, then the customer can again request for the offer.  
@@ -209,17 +209,17 @@ If admin enable the
 
 After logging into the account on the app, the seller can view the customer's request from the "Make an Offer" request menu in the product section of the app.
 
-![Make an Offer15](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshotm.png)
+![Make an Offer15](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellermoa.webp)
 
 There you will get an "Open" button which helps the seller to view the details of the requests made from the customer.
 
 Just click on it and view the received requests or click on three dots in action as shown below:
 
-![sdsds](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/01/sdsds-1200x464.png)
+![sdsds](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellmoa.webp)
 
 Request details are shown like this (as shown in the screenshot below)
 
-![y56](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/y56-1200x526.png)
+![y56](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/chnagemoa.webp)
 
 Here, the seller can manage the status of the request offered by the customers. He/she can either accept or reject the "Make an offer" request.
 
@@ -229,11 +229,11 @@ If the seller checks the shipping cost option. And adds some shipping amount and
 
 Once the client saves the changes, the system notifies the customer about the offer.
 
-![yu567](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/yu567-1200x205.png)
+![yu567](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/savmoa.webp)
 
 But if you don't want the seller to add any shipping fee and accept or reject the offer from the client, then the seller can simply leave the shipping cost checkbox unchecked.
 
-![yu7](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/05/yu7-1200x584.png)
+![yu7](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shippingcostmao.webp)
 
 If the seller enables the tab (for counter price yes/no) admin can negotiate with the customer and mark the status as pending.
 
@@ -265,9 +265,9 @@ The customer just needs to fill the required details in that form and offer a re
 
 Both the admin and the seller can access the request through the 'Make an Offer Request' menu in the product section of the app.
 
-![Make an Offer125](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Screenshot1-3.png)
+![Make an Offer125](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/requestmao.webp)
 
-![Make an Offer127](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/Make-An-Offer-Request_-Admin-2-1.jpg)
+![Make an Offer127](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/adminstatusmao.webp)
 
 The seller can either accept or reject the request as mentioned above.
 
@@ -280,7 +280,7 @@ But if the seller/admin accepts the request, the same will be visible to the cus
 **REQUEST ACCEPTED**
 --------------------
 
-![Make-An-Offer-Request-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/01/Make-An-Offer-Request-Admin-1200x627.png)
+![Make-An-Offer-Request-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/approvedmoa.webp)
 
 The same will reflect to the customers at their respective "My Account" section.
 
@@ -327,7 +327,7 @@ Now, a request will go out to sellers that this buyer wants more information on 
 
 The sellers will be receiving the request quotes from different buyers and will contact them outside the app.
 
-![Screenshot2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/03/Screenshot2-1200x610.png)
+![Screenshot2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/cartpagemao.webp)
 
 **POINTS TO BE NOTED:-**
 

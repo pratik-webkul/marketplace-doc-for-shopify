@@ -48,7 +48,7 @@ In order to install this feature app to your store, you need to follow some simp
 *   Go to **Feature Apps** section.
 *   Search for **Australia Post**.
 
-![Dashboard Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Dashboard-Admin-1.png)
+![Dashboard Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 *   Click the "**Enable**" button.
 *   Now, agree with the charge of USD 10 per month by clicking the "**Agree"** button.
@@ -60,7 +60,7 @@ So, that is how you can install the Australia Post feature app to the multivendo
 
 As soon as you activate the Australia Post feature app, a new sub-menu gets added to the "**Configuration**" menu of the multi-vendor app i.e. **Australia Post Configuration**.
 
-![Dashboard Admin (1) Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Dashboard-Admin-1-1.png)
+![Dashboard Admin (1) Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/australiapostconfig.webp)
 
 Visiting this section, first You will be asked to enable the Australia Post shipping from the **Shipping Configuration** menu of the app. Then only, you will get the option to add details related to Australia Post shipping.
 
@@ -76,15 +76,15 @@ In the Shipping Configuration menu, You will get the **Australia Post shipping**
 
 Now, admin can enable the Australia Post shipping separately for each seller from "**Edit Seller**" section of the app.
 
-![Seller Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Seller-Admin-2.png)
+![Seller Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/selleradmin.webp)
 
 From the Edit Seller section, You can enable "Australia Post Shipping feature" for Your sellers.
 
-![Edit Seller Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Edit-Seller-Admin.png)
+![Edit Seller Admin-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/selleradmintwo.webp)
 
 Now, once the shipping method is enabled, You can set this shipping as "Default". Also, You can anytime disable the Australia Post shipping method for your seller.
 
-![set as default](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-3.png)
+![set as default](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/setasdefault.webp)
 
 ### **Australia Post Configuration**
 
@@ -94,9 +94,9 @@ Here, You need to fill the details such as Australia Post API Key, API Password 
 
 To get these details, You need to **get registered on Australia Post Centre** by [creating an account](https://developers.auspost.com.au/register?_ga=2.96929055.184246743.1555324571-1843766475.1555324571) on it.
 
-![Australia Post Configure details-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-by-Lightshot.png)
+![Australia Post Configure details-Multivendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/apconfig.webp)
 
-![Shipping Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-by-Lightshot-1.png)
+<!-- ![Shipping Details](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-by-Lightshot-1.png) -->
 
 ### How To Get The API Key
 
@@ -116,7 +116,7 @@ To get these details, You need to **get registered on Australia Post Centre** by
 
 Now, fill all the details carefully and Save it.
 
-![Australia Post Configuration Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Australia-Post-Configuration-Admin.png)
+![Australia Post Configuration Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/apidetails.webp)
 
 This way, the Australia Post Shipping details are configured in the app. Let's Proceed to see how it works for the Sellers.
 
@@ -124,17 +124,17 @@ This way, the Australia Post Shipping details are configured in the app. Let's P
 
 Once the admin enables the Australia Post Shipping, the same appears on the Seller side in the **Shipping Configuration** menu of the app.
 
-![Dashboard Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Dashboard-Seller-•-Multivendor-MarketPlace.png)
+![Dashboard Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/apseller.webp)
 
 Now, the seller needs to visit the **Shipping Configuration** and enable Australia Post shipping from there.
 
-![Shipping Configuration Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Shipping-Configuration-Seller-•-Multivendor-MarketPlace-1.png)
+![Shipping Configuration Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enablesellerside.webp)
 
 This way, Australian Sellers can configure this shipping service.
 
 Now, once an order is placed, the seller will get the option to fulfill via Australia Post shipping and generate the shipping label for the fulfilled orders.
 
-![Order Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Order-Seller-•-Multivendor-MarketPlace.png)
+![Order Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vieworder.webp)
 
 *   Visit the **Order Detail** section and Scroll down to get the **Fulfill** button.
 *   Click the **Fulfill** button and select the **Shipping method** as **Australia Post**.
@@ -167,7 +167,7 @@ Seller needs to follow these steps to generate shipping labels:
 *   Further, click the **View** button in **Action** menu.
 *   Click the Generate Shipping Label button.
 
-![generate shipping label -Multi-vendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-8.png)
+![generate shipping label -Multi-vendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 **Shipping Label Generation**
 -----------------------------
@@ -176,7 +176,7 @@ Seller needs to follow these steps to generate shipping labels:
 
 Once generated, the seller can print the shipping label from the Order detail section of the app.
 
-![print shipping label -Multi-vendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Screenshot-9.png)
+![print shipping label -Multi-vendor Australia Post](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 That's all about the Australia Post shipping Feature App.
 

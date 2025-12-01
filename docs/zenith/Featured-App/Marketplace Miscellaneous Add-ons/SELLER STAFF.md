@@ -31,15 +31,15 @@ Once you approve the charges, 10 USD per month will get added over and above you
 
 To enable the "Seller Staff" feature in your Multivendor Marketplace app, first you need to enable it from the "Feature App" section of the admin panel.
 
-![Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Dashboard-_-Admin-1.jpg)
+![Feature App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/one.webp)
 
 Once you click the "Feature App", you will get the list of feature app. Scroll down to get "Seller Staff" feature and click on "Enable"button to activate the same.
 
-![Seller staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/1-4.png)
+![Seller staff](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/two.webp)
 
 Once you click this button, you need to accept the additional charge of 10 USD over and above your Multivendor App plan. Thus, approve the charge and get this feature installed in your app.
 
-![Seller staff Agree](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/2-4.png)
+![Seller staff Agree](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/three.webp)
 
 Click on "Agree" button and proceed further to approve the charge.
 
@@ -51,11 +51,11 @@ In this way, you can get this "Seller Staff" feature installed in your Multivend
 
 Firstly, admin needs to enable his seller to add staff so that they can manage the activities on seller panel. To do this, admin can follow the below suggested procedure.
 
-![Seller staff Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Dashboard-_-Admin-1-1.jpg)
+![Seller staff Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/four.webp)
 
 Admin dashboard>>Configuration>>Seller Configuration>>Enable "Allow Seller to add Staff">>click on "Save Changes".
 
-![Allow to add staffs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/4-3.png)
+![Allow to add staffs](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/five.webp)
 
 Once the admin enable this option "Allow Seller to Add Staff", seller can easily add the staffs from his end who can manage the activities on the seller panel.
 
@@ -63,21 +63,21 @@ Admin can also view the staffs of the sellers from seller section of the admin p
 
 Admin dashboard>>Sellers>>Seller Listing>>click "View Seller Staff" (in action menu)>>View all the Staffs added by this seller.
 
-![Seller staff view staffs](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Seller-_-Admin-1-jpg-1301×678.jpg)
+![Seller staff view staffs](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/six.webp)
 
 Once the admin clicks this "View Seller Staff" button, a list of staffs added by that seller will appear.
 
-![Seller staff add](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Seller-Staff-_-Admin-jpg-1286×716.jpg)
+![Seller staff add](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/seven.webp)
 
 We can see change password template by following the procedure
 
 Admin>>mail setting>>mail templates>>three dots>>change password for staff
 
-![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/admin-1.webp)
+![seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/eight.webp)
 
 Now you will find the change password for staff template in the mail settings.
 
-![sellerm](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/sellerm-1200x585.webp)
+![sellerm](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/nine.webp)
 
 Now Seller can reset the password by following these steps:
 
@@ -87,15 +87,15 @@ Admin>>Sellers>>Login as seller>>Profile>>My staff>>Three dots>>Edit Staff>>Rese
 
 Once the admin allows the seller to add staff, seller can now add the staff from "My staff" section of the seller panel. In this section, the seller can view the list of all the staffs added by him.
 
-![s6](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/s6-1200x491.png)
+![s6](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/ten.webp)
 
 He just needs to click on the "Add Staff" button there and fill all the staff details.
 
-![s3](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/s3-1200x446.png)
+![s3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/eleven.webp)
 
 In this section, seller can add permissions for their staff so that their staff get the access of only those allowed sections.
 
-![s1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/s1-1200x592.png)
+![s1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/twelve.webp)
 
 Once the seller enter the staff details, the seller can select the option to grant the permission.
 
@@ -103,7 +103,7 @@ Once the seller enter the staff details, the seller can select the option to gra
 
 If the seller wants to make changes in the access then the seller needs to do it manually by ticking or unticking the checkbox.
 
-![s2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/s2-1200x695.png)
+![s2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/thirteen.webp)
 
 As the admin saves all the details of their staff in this section, the added member will receive the mail regarding the same which contain the login details of the staff.
 
@@ -111,15 +111,15 @@ These login details will help the added member to get logged in to the seller ac
 
 Also, in the "My Staff" section, seller can edit the detail of his staff. He can disable his staff as well as delete his staff.
 
-![Staff edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Screenshot-1-2-png-1295×524.jpg)
+![Staff edit](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fourteen.webp)
 
 Moreover, if the seller wants to view the recent activities done by his staff in managing seller's account, he can view it too from the "Staff Activity" section of the seller panel.
 
-![s7](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/s7-1200x454.png)
+![s7](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fifteen.webp)
 
 Visit Seller Dashboard>>Seller Profile>>click "Staff Activity">>View activities of staffs.
 
-![s8](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/s8-1200x427.png)
+![s8](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fifteen.webp)
 
 ### How the Staff will manage the Seller account section
 
@@ -131,7 +131,7 @@ These login details will be provided by the seller to their staffs through a mai
 
 In this way, the staff will get access to the seller profile page where he can manage all the activities on behalf of the seller.
 
-![Staff My Account](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Screenshot-4-1.png)
+![Staff My Account](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sixteen.webp)
 
 In this way, the member you added will get access of the Seller's account as a "Staff" and can manage all the activities on behalf of that seller on the seller's end.
 

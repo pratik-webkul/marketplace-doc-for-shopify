@@ -16,7 +16,7 @@ As soon as the sellers get registered to your marketplace, they will have separa
 
 Click here to watch the video ⬇️ 
 
-[![Watch the video](https://img.youtube.com/vi/FRBkcFDXHnc/0.jpg)](https://www.youtube.com/watch?v=FRBkcFDXHnc)
+[![Watch the video](https://img.youtube.com/vi/ftMuliv-1tU/0.jpg)](https://www.youtube.com/watch?v=ftMuliv-1tU)
   
 
 You can also add products from your admin panel and assign products to any of your registered sellers.

@@ -24,11 +24,11 @@ THIS SHIPPING FEATURE APP IS USED **ONLY FOR FULFILLMENT**.
 
 To enable the feature app, all you need is to visit the “**Featured Apps**” section of the admin panel and enable it from there.
 
-![Home-_-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Home-_-Admin-2-1200x597.png)
+![Home-_-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/featuredapps.webp)
 
 Once you click on “Feature Apps”, you will get the list of apps listing in the section. There, You will get the Shiprocket feature. You just need to click the **enable** button.
 
-![feature_apps___admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/02/feature_apps___admin.png)
+![feature_apps___admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shprckt.webp)
 
 ### **Workflow**
 
@@ -42,15 +42,15 @@ Before this, You need to visit:
 
 The Configuration>>Shipping Methods and **enable the Shiprocket Shipping** as shown in the below screenshot:
 
-![Dashboard-_-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Dashboard-_-Admin-1200x597.png)
+![Dashboard-_-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shippigmethods.webp)
 
 Enable the Shiprocket Shipping:-
 
-![Configuration-_-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Configuration-_-Admin-2-1200x597.png)
+![Configuration-_-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enableshiprocket.webp)
 
 Now, proceed to configure the Shiprocket details
 
-![Configuration-_-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Configuration-_-Admin-4-1200x597.png)
+![Configuration-_-Admin-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shiprocketconfig.webp)
 
 Shiprocket Configuration
 ------------------------
@@ -63,7 +63,7 @@ Automatic generate shipping label:- Enable this tab if you want to generate the 
 
 Shipping label cost borne by:- Admin will bear the Shipping label cost.
 
-![Shiprocket-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/06/Shiprocket-Configuration-Admin-1200x627.png)
+![Shiprocket-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shiprocketconfig.webp)
 
 **NOTE\-** The Shiprocket API configure token will be generated automatically once these configurations are saved
 
@@ -91,7 +91,7 @@ If the seller needs to configure the shipping packet details then this can be do
 
 Configure Width, height, length, girth, and weight.
 
-![Shipping-Configuration-_-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Shipping-Configuration-_-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x729.png)
+![Shipping-Configuration-_-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
 
 Now, the seller can fulfill the orders using the Shiprocket shipping courier service.
 
@@ -136,7 +136,7 @@ The seller needs to follow the below-given steps to fulfill the orders:
 
 ![Order-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Order-_-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
 
-![Order-Details-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Order-Details-_-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![Order-Details-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 ![Order-Proceed-_-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/01/Order-Proceed-_-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
 
@@ -157,7 +157,7 @@ The seller can generate the shipping label for fulfilled orders by following the
 
 The seller can generate/print the shipping label by clicking on the action button.
 
-![Order-Details-_-Seller-•-Multivendor-MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/02/Order-Details-_-Seller-%E2%80%A2-Multivendor-MarketPlace-4-1200x627.png)
+![Order-Details-_-Seller-•-Multivendor-MarketPlace-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 Thus, the shipping label will be generated automatically for the fulfilled orders. The seller can easily print the shipping label from here.
 

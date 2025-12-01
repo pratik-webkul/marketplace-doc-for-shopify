@@ -32,7 +32,7 @@ Installation
 
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **featured apps**. Further, **enable** the **FedEx** feature app.
 
-![image-13](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/02/image-13-1200x597.png)
+![image-13](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fedex.webp)
 
 Furthermore, **agree** & **approve** the charges:
 
@@ -51,13 +51,13 @@ Click on the **three dots** under the **Action** menu & further, click on **enab
 
 **Note**: Kindly choose only those shipping services which you need. Don’t keep all the services selected otherwise it creates delay to retrieve shipping rates at the storefront.
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Configuration-Admin-3.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enablefedex.webp)
 
 MultiVendor Marketplace Admin End
 
 Moving on, the admin needs to configure the FedEx Shipping. So, for this, either click on **Configure Shipping** or go to **multi vendor marketplace admin panel** > **configuration** > **FedEx Shipping Configuration**. Refer:
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Configuration-Admin-1-1.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/openfedexconfig.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -70,13 +70,13 @@ If you want to test the functionality of this shipping add-on, enable the sandbo
 
 Enter the following details: **FEDEX ACCOUNT NUMBER**, **FEDEX ACCESS KEY**, **FEDEX PASSWORD** & **FEDEX METER NUMBER**.
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Fedex-Configuration-Admin-1.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fedexconfigone.webp)
 
 MultiVendor Marketplace Admin End
 
 Further, choose the shipping service name for order fulfillment and Choose who will bear the shipping label charges, thus, the admin or the seller. (This is an extra cost apart from what the customer has paid.)
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Fedex-Configuration-Admin-2.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fedexconfigtwo.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -87,13 +87,13 @@ The admin can further set the shipping methods for his sellers.
 Go to **multi vendor marketplace admin panel** > **Sellers** > **Seller Listing** > **Edit** (under **Action**).   
 On the edit seller page, the admin will have the following block from where he can enable/disable/set as default:
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Edit-Seller-Admin-2.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/methodforsellers.webp)
 
 MultiVendor Marketplace Admin End
 
 Further, the admin can view all the sellers which are using this shipping method by going to **multi vendor marketplace admin panel** > **configuration** > **Shipping** **Configuration**:
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Configuration-Admin-2-1.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellers.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -114,19 +114,19 @@ Further, the seller can configuration FedEx Shipping from his panel.
 
 Go to **multi vendor marketplace seller panel** > **configuration** > **shipping configuration**\> **enable** the shipping:
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-5.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fedexenableseller.webp)
 
 MultiVendor Marketplace Seller End
 
 Further, go to **Global Configuration**:
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-2.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfig.webp)
 
 MultiVendor Marketplace Seller End
 
 So, from here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-6.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
 
 MultiVendor Marketplace Seller End
 
@@ -134,7 +134,7 @@ MultiVendor Marketplace Seller End
 
 Moreover, the **FEDEX SHIPPING CONFIGURATION**:
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-3.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/fedexconfigseller.webp)
 
 MultiVendor Marketplace Seller End
 
@@ -168,7 +168,7 @@ Seller will have an option to generate a shipping label from their seller panel.
 
 Go to **Multi-vendor marketplace seller panel** > **Orders** > **Order Listing** > **View** (under **Action**). Select the method of order fulfillment as **FedEx** and fulfill the order. As soon as the order will be fulfilled, the shipping label will be automatically downloaded.
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1-2.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 Click on fulfill
 
@@ -178,7 +178,7 @@ Agree & Fulfill: This block will have the information regarding who is bearing t
 
 Moreover, if you again want to download the shipping label, go to ADDITIONAL ORDER DETAILS, click on **Actions** > **Print Shipping Label**:
 
-![212](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-3.png)
+![212](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 Furthermore, this is how the shipping label will be downloaded in pdf form:
 
