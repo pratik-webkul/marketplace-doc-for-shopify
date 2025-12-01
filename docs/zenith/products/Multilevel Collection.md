@@ -27,9 +27,9 @@ To use Multilevel collection while creating the product you firstly need to enab
 
 Admin end>> Configuration>> Restriction Configuration >> Enable"Restrict Collection" >> Enable " Use Multilevel collection for product page" >> Save changes
 
-![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/1-7.png)
+![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mlc1.webp)
 
-![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/3-7.png)
+![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mlc2.webp)
 
 Now visit the " Collection section" of the "Products" menu in our multivendor marketplace app.
 
@@ -37,13 +37,13 @@ so from here you can add new collections and view the list of existing collectio
 
 To create subcategory/child of a particular collection, click on the "View child's" in action section in front of collection ID
 
-![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/8-7.png)
+![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mlc3.webp)
 
 After clicking on "view child's" you will be redirected to the child collections detailed page
 
-![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/6-4.png)
+![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mlc4.webp)
 
-![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Add-Collection-_-Admin-1.jpg)
+![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mlc5.webp)
 
 By clicking of ADD CHILD button you will be redirected to page shown in below screenshot:-
 
@@ -54,22 +54,16 @@ While creating any new product or editing an existing product, the seller can us
 
 Seller End>> Products>> Products Listing>>Add Product>> Collections>> Select collections of your choice>> Save.
 
-![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/4-10.png)
+![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mlc6.webp)
 
 If Seller will select the parent collection then he/she need to manually select its children but when the seller will select the child collection
 
 Then it will automatically select that child's parent and sub-parent.
 
-![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/04/Add-Product-_-Seller-•-Multivendor-MarketPlace.jpg)
+![Multi Vendor Marketplace Multilevel Collection](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/mlc7.webp)
 
 So this way admin, as well as seller, can use Multilevel Collection at the product page.
 
 ### DEMO DETAILS
 
 Check out: [https://multivendor-marketplace-5.myshopify.com/](https://multivendor-marketplace-5.myshopify.com/)
-
-### SUPPORT
-
-**Furthermore, if you need any kind of support/consultancy then please raise a ticket at [http://webkul.uvdesk.com/](http://webkul.uvdesk.com/).**  **You can also drop a mail at support@webkul.com**
-
-Thanks for reading this blog!!! 🙂

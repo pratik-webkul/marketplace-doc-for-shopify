@@ -3,10 +3,8 @@ import { useRouter } from 'vue-router'
 
 const router = useRouter()
 
-router.push('/classic/Introduction/')
+router.push('/zenith/Introduction/')
 </script>
 
-Redirecting to Classic...
-
-
+Redirecting to Zenith...
 

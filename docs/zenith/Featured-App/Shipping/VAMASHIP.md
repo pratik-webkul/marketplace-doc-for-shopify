@@ -32,11 +32,11 @@ To enable this 'feature app':
 
 Go to **multi vendor marketplace admin panel** > click on the **three dots** > click on the '**featured apps'**. Further, **enable** the Vamaship add-on.
 
-![feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Feature-Apps-Admin-1-1.png)
+![feature app](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vamaship.webp)
 
 Furthermore, agree & approve the charges:
 
-![PAYMENT](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Feature-Apps-Admin-2.png)
+![PAYMENT](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/agreevama.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -49,7 +49,7 @@ Shopify Backend (Admin End)
 Firstly, go to:  
 **Multi-vendor marketplace admin panel** > **configuration** > **shipping** **configuration**. Now, **enable** the shipping method:
 
-![ENABLE SHIPPING](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Configuration-Admin.png)
+![ENABLE SHIPPING](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enablevamaship.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -59,13 +59,13 @@ So, either click on **Configure Shipping**
 OR  
 Go to **multi vendor marketplace admin panel** > **configuration** > **Vamaship Configuration**.
 
-![CONFIGURE SHIPPING](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Configuration-Admin-1.png)
+![CONFIGURE SHIPPING](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersvamaship.webp)
 
 MultiVendor Marketplace Admin End
 
 Hence, this is what the configuration page will look like:
 
-![Vamaship-Post-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/10/Vamaship-Post-Configuration-Admin-1126x1024.png)
+![Vamaship-Post-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vamashipconfig.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -107,7 +107,7 @@ Set Shipping Method for Sellers:
 The admin can further set the shipping methods for his sellers. So, go to **multi vendor marketplace admin panel** > **Sellers** > **Seller Listing** > **Edit** (under **Action**).  
 On the edit seller page, the admin will have the following block:
 
-![SET SHIPPING AS DEFAULT](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Edit-Seller-Admin-1.png)
+![SET SHIPPING AS DEFAULT](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enableforseller.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -117,7 +117,7 @@ Further, the admin can view all the sellers which are using this shipping method
 
 **Multi-vendor marketplace admin panel** > **configuration** > **shipping** **configuration**:
 
-![VIEW SELLERS](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Configuration-Admin-2.png)
+![VIEW SELLERS](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersvamaship.webp)
 
 MultiVendor Marketplace Admin End
 
@@ -140,13 +140,13 @@ Further, the seller can configuration Vamashipping from his panel.
 
 So, go to **multi vendor marketplace seller panel** > **configuration** > **shipping configuration** > **enable** the shipping:
 
-![ENABLE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![ENABLE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerenablevama.webp)
 
 MultiVendor Marketplace Seller End
 
 Further, go to **Global Configuration**:
 
-![GLOBAL CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+![GLOBAL CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfig.webp)
 
 MultiVendor Marketplace Seller End
 
@@ -155,7 +155,7 @@ Moreover, from here, the seller can do the **SHIPPING PACKET CONFIGURATION**:
 **Note:** 150 cm > **LBH** > 1 cm  
 In the case of **Vamaship Air Domestic**: 150 cm > **LBH** > 3 cm
 
-![SHIPPING PACKET CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)
+![SHIPPING PACKET CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
 
 MultiVendor Marketplace Seller End
 
@@ -191,7 +191,7 @@ So, go to **Multi-vendor marketplace seller panel** > **Orders** > **Order Listi
 
 Moreover, this block will have the information regarding who is bearing the shipping label charges. (Refer to the screenshot below.)
 
-![PRINT SHIPPING LABEL ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/09/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+![PRINT SHIPPING LABEL ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 Furthermore, this is how the shipping label will be downloaded in pdf form:
 

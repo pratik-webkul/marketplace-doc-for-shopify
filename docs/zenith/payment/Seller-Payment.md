@@ -15,7 +15,7 @@ By default, Admin receives the complete amount of the order paid by the buyer/cu
 
 Click here to watch the video ⬇️ 
 
-[![Watch the video](https://img.youtube.com/vi/Mj_ezYDM81w/0.jpg)](https://www.youtube.com/watch?v=Mj_ezYDM81w)
+[[![Watch the video](https://img.youtube.com/vi/Jk6C7CpX_I8/0.jpg)](https://www.youtube.com/watch?v=Jk6C7CpX_I8)
 
 Admin can pay sellers/vendors by five payment methods in the multivendor app, in which three payment methods are online and two payment methods are offline.
 

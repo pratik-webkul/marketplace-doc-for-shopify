@@ -32,11 +32,11 @@ SHIPSTATION SHIPPING FEATURE APP IS AVAILABLE **BOTH FOR RATE CALCULATION & FULF
 
 The admin needs to visit the **multi-vendor marketplace admin panel** > click on the **three dots** > click on the **feature apps**. Further, **enable** the **ShipStation** feature app.
 
-![Feature-Apps-Admin-2 ShipStation integration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Feature-Apps-Admin-2-1200x597.png)
+![Feature-Apps-Admin-2 ShipStation integration ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shpstation.webp)
 
 Furthermore, **agree** & **approve** the charges:
 
-![Shipstation app approve charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/01/screenshot_1705669867493-1200x606.png)
+![Shipstation app approve charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activateshipstation.webp)
 
 ### Configuration: Admin End
 
@@ -48,7 +48,7 @@ Click on the **three dots** under the **Action** menu & further, click on *
 
 **Note**: Kindly choose only those shipping services which you need. Don't keep all the services selected otherwise it creates delay to retrieve shipping rates at the storefront.
 
-![Enable ShipStation Shipping Method](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-1200x597.png)
+![Enable ShipStation Shipping Method](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/enableshipstation.webp)
 
 Moving on, the admin needs to configure the ShipStation shipping method. So, for this, either click on **Configure Shipping** or go to **multi vendor marketplace admin panel** >  
 
@@ -56,7 +56,7 @@ Moving on, the admin needs to configure the ShipStation shipping method. So, for
 
 Refer:
 
-![ShipStation Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-1-1200x597.png)
+![ShipStation Configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/configureshipstation.webp)
 
 ### Configure ShipStation
 
@@ -75,9 +75,9 @@ On the following page, configure the following details:
 *   Custom Dimension on fulfilment: Enabling this, you can allow sellers to add custom weight and dimensions for their order ignoring the product dimension and weight.
 *   Restrict shipping method: Enabling this, you can restrict the sellers to only use the shipping method that has been selected by customer on their order. Only useful if you are using shipstation for both "shipping and fulfilment".
 
-![Shipstation-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/01/Shipstation-Configuration-Admin-1200x860.png)
+![Shipstation-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/apiconfigshipstation.webp)
 
-![Shipstation_Configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/06/Shipstation_Configuration_Admin-1200x798.png)
+![Shipstation_Configuration_Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generalconfigshipstation.webp)
 
 ### Set Shipping Method For Sellers:
 
@@ -87,15 +87,15 @@ Go to **multi vendor marketplace admin panel** > **Sellers** > **Seller Lis
   
 On the edit seller page, the admin will have the following block from where he can enable/disable/set as default:
 
-![Set Default Shipping Method For Your Sellers (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Edit-Seller-Admin-1200x597.png)
+![Set Default Shipping Method For Your Sellers (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/setdefaultshipstation.webp)
 
 Further, the admin can view all the sellers which are using this shipping method by going to **multi vendor marketplace admin panel** > **configuration** > **Shipping** **Configuration**:
 
-![View Sellers Using This Shipping Method (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Configuration-Admin-2-1200x597.png)
+![View Sellers Using This Shipping Method (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewsellersshipstation.webp)
 
 The redirected page:
 
-![View Seller Shipping Methods (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Admin-1200x746.png)
+![View Seller Shipping Methods (ShipStation integration )](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/viewshippingmethod.webp)
 
 Here, clicking on the 'Edit' button for a particular seller will redirect you to the 'Edit Seller' page from where you can disable the following shipping method for that seller .
 
@@ -116,11 +116,11 @@ Further, the seller can configuration ShipStation from his panel.
 
 Go to **multi vendor marketplace seller panel** > **configuration** > **shipping configuration**\> **enable** the shipping:
 
-![Enable ShipStation](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![Enable ShipStation](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerenableshipstation.webp)
 
 Furthermore, the seller can set the shipping method as **by-default** so that every single product created by him will have **ShipStation** as the **by-default shipping method**.
 
-![Set ShipStation As Default Shipping Method](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/12/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x597.png)
+![Set ShipStation As Default Shipping Method](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/shipstationsellerconfig.webp)
 
 Clicking on '**Set As Default**' will give you the following dialogue box:
 

@@ -21,7 +21,7 @@ To configure this feature, the Admin needs to follow the steps written below:
 *   Go to Multi vendor Marketplace **Admin Panel**
 *   Click on the **Payment** menu & select the **Seller** **Payment Configuration** from the drop-down menus
 
-![dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/admindashboard-1200x595.webp)
+![dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal11.webp)
 
 Note: Whenever you update the configuration, the previous orders will not remain eligible for payout anymore.
 
@@ -29,11 +29,11 @@ For example, if we make changes to the PayPal details, only the upcoming orders 
 
 *   From the Seller Payment Configuration section, mark the PayPal option enable and then open payment configuration.
 
-![paypal](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/paypal-1200x597.webp)
+![paypal](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal2.webp)
 
 *   Now, the Paypal Payout configuration page is open then, Enable "AutoPay to Seller" option as shown below:
 
-![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/autopaytoseller-1200x596.webp)
+![configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal3.webp)
 
 *   After enabling this option, you need to enter the following details:
 
@@ -99,11 +99,11 @@ Configure the following feature by navigating through: **Multivendor Marketplace
 
 Refer to the images below:
 
-![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/admindashboard-1-1200x595.webp)
+![admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paymet4.webp)
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/paymentsetting-1-1200x596.webp)
+![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/payment5.webp)
 
-![enalbe cashable](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/enablecashable-1200x602.webp)
+![enalbe cashable](http://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal6.webp)
 
 Here, the Admin needs to enter the days after which the payment will be done to his sellers for the order (order refund days)
 
@@ -125,7 +125,7 @@ If entered then the refund days should be greater than -1 otherwise it will not 
 
 Only after enabling this option, the Admin will have the 'Pay after refund date' option in PayPal Payout Configuration:
 
-![pay after refund date](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/ahterrefunddate-1-1200x438.webp)
+![pay after refund date](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal7.webp)
 
 Also, the Admin won't be able to choose the 'pay after' as delivery or fulfillment because now it will work as per configured in the 'Cashable Amount for Seller' option.
 
@@ -136,11 +136,11 @@ To configure this feature, the Seller needs to follow the steps written below:
 *   Go to Multi vendor Marketplace **Seller Panel**
 *   Hover over the **Profile** menu & select the **Payment Details** from the drop-down menus
 
-![Dashboard Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Dashboard-Seller-•-Multivendor-MarketPlace.png)
+![Dashboard Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal8.webp)
 
 *   On this page, the Seller needs to select the **payment method** as PayPal & needs to enter his **PayPal Email**.
 
-![Payment Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Payment-Details-Seller-•-Multivendor-MarketPlace.png)
+![Payment Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal99.webp)
 
 *   Click on **save**.
 
@@ -156,15 +156,15 @@ So, whenever the Seller changes the order status to delivered/fulfilled from his
 
 When the order is placed, the Seller will have the order in the Multivendor Marketplace **Seller Panel** > **Orders** > **Order Listing** > **View**:
 
-![Order Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Order-Seller-•-Multivendor-MarketPlace.png)
+![Order Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal10.webp)
 
 Further, on the redirected page, the Seller needs to click on the **Fulfill** menu:
 
-![Order Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Order-Details-Seller-•-Multivendor-MarketPlace.png)
+![Order Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal111.webp)
 
 A pop-up will arrive, enter the required details & click on **fulfill**:
 
-![Order Details Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Order-Details-Seller-•-Multivendor-MarketPlace-1.png)
+![Order Details Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal12.webp)
 
 Now, the Seller will get auto-paid.
 
@@ -176,11 +176,11 @@ For this: **Seller Panel** > **Orders** > **Order Listing** > **View**
 
 In the Fulfillment Details section, click on the **Enter Delivery Details** button:
 
-![Order Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Order-Details-Seller-•-Multivendor-MarketPlace-2.png)
+![Order Details Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal13.webp)
 
 Mark the delivery status as delivered, enter the delivery date & submit:
 
-![Order Details Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/Order-Details-Seller-•-Multivendor-MarketPlace-1-1.png)
+![Order Details Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal14.webp)
 
 ### The whole auto-pay process at a glance!
 
@@ -192,27 +192,26 @@ The Admin can view the orders in the Order Listing page of **Admin panel**:
 
 Admin Panel > Orders > Order listing:
 
-![Orders Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Orders-Admin.png)
+![Orders Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal15.webp)
 
 Similarly, the Seller can view the orders in the Order Listing page of **Seller Panel:**
 
 Seller Panel > Orders > Order Listing:
 
-![Order Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Order-Seller-•-Multivendor-MarketPlace-1.png)
+![Order Seller • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paypal16.webp)
 
 Until the order is **fulfilled** by the Seller, the Seller Payment will remain due at Admin end.
 
 Admin end > Payment > Seller Payments:
 
-![Manage Seller Payment Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Manage-Seller-Payment-Admin.png)
-
+![Manage Seller Payment Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paymentdueatadminend.webp)
 Also, the Seller will not receive any payment information in the 'Payment Received' page at Seller end (Seller end > Orders > Payment Received).
 
 Once, the order is fulfilled by the Seller & the order status changes from Unfulfilled to Fulfilled at both, Admin & Seller end:
 
 Seller end > Orders > Order Listing:
 
-![Order Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Order-Seller-•-Multivendor-MarketPlace-1-1.png)
+![Order Seller • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfulfilled.webp)
 
 Now, as soon as the order is fulfilled by the Seller, the total due amount at Admin end will become zero.
 
@@ -220,7 +219,7 @@ And payment will be received by the Seller which can be viewed in the 'Payment R
 
 Admin end > Payment > Seller Payments:
 
-![Manage Seller Payment Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Manage-Seller-Payment-Admin-1.png)
+![Manage Seller Payment Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/dueamountzero.webp)
 
 Moreover, the Seller will receive the payment and this info can be viewed on the 'Payment Received' page of Seller panel:
 
@@ -242,16 +241,16 @@ Now, PayPal will pay out all the eligible payouts (fulfilled orders) to the sell
 
 Let’s dive into the settings part:
 
-![This image show the direction to enable the "schedule payout" setting in Multi-vendor Marketplace app for Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/schedule-payout-settings-marketplace-shopify-1200x462.webp)
+![This image show the direction to enable the "schedule payout" setting in Multi-vendor Marketplace app for Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerpaymentconfig.webp)
 
 Enable this to access this feature:
 
-![This images show how to access the "schedule payout" feature in Multi-vendor marketplace app.](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/enable-schedule-payout-marketplace-shopify-1200x432.webp)
+![This images show how to access the "schedule payout" feature in Multi-vendor marketplace app.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/autopayoff.webp)
 
 Once you enable this you can select the Sum of all eligible payments.  
 NOTE: All the eligible orders will be paid out in one transaction on the scheduled day.
 
-![This image shows settings required for "schedule payout" in paypal payout setting in Multi-vendor Marketplace app by Webkul.](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/paypal-payout-schedule-settings-1200x517.webp)
+![This image shows settings required for "schedule payout" in paypal payout setting in Multi-vendor Marketplace app by Webkul.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/autopayon.webp)
 
 You can now schedule your payouts on these time frames as per your need:
 
@@ -259,13 +258,13 @@ You can now schedule your payouts on these time frames as per your need:
 *   Weekly
 *   Monthly
 
-![This image describe the daily, weekly and monthly payout settings in multi-vendor marketplace for Shopify.](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/daily-weekly-yearly-paypal-payout-marketplace-shopify-1200x504.webp)
+![This image describe the daily, weekly and monthly payout settings in multi-vendor marketplace for Shopify.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/autopayperiod.webp)
 
 Now, when you use the 'schedule payout' feature, the system will trigger the sum of all eligible payouts in one transaction. Here's how you can see all the orders associated with a transaction:
 
-![This image show how you can see all your orders associated with a payout transaction in Multi-vendor marketplace app for Shopify by Webkul.](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/view-orders-paypal-payout-marketplace-shopify-1200x558.webp)
+![This image show how you can see all your orders associated with a payout transaction in Multi-vendor marketplace app for Shopify by Webkul.](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/vieworder-1.webp)
 
-![This images shows all the orders that are associated with a paypal payout in multi-vendor Marketplace app for Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/all-orders-in-transaction-paypal-payout-marketplace-shopify-1200x549.webp)
+![This images shows all the orders that are associated with a paypal payout in multi-vendor Marketplace app for Shopify](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/bulkorderpayoutdetail.webp)
 
 This was all regarding the PayPal Payout Payment Method!
 

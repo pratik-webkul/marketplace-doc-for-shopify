@@ -33,10 +33,10 @@ Admins can configure available payment methods which will also be visible to sel
 
 You can also configure how **shipping costs** and **taxes** should be shared between the admin and the seller, allowing for flexible and customizable payout structures.
 
-![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/one-9-1200x604.webp)  
-![methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/two-12-1200x598.webp)  
-![settings](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/three-7-565x1024.webp)  
-![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/four-7-1200x599.webp)
+![payment](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/sellerpayment.webp)  
+![methods](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/paymentmethods.webp)  
+![settings](http://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/paymentsetting-scaled.webp)  
+![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/autopaysetting.webp)
 
 To learn more about the full seller payment workflow, check the [Complete Payment Flow of the Multivendor Marketplace App](https://marketplace-doc.webkul.com/classic/payment/overview.html).
 
@@ -69,7 +69,7 @@ Once enabled, you’ll get the option to add:
 - Handling Charges  
 - Transaction Charges  
 
-![Sales Price](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/Screenshot-1.png)
+![Sales Price](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/displaysalesprice.webp)
 
 ---
 
@@ -84,7 +84,7 @@ Let’s say:
 
 **Sales Price = {(100 + 10%) + 10} + (10% + 5) = $137**
 
-![Handling Charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/05/Screenshot-4-1.png)
+![Handling Charges](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/priceddetails.webp)
 
 ---
 
@@ -137,7 +137,7 @@ Once enabled, configure the following:
 - Commission Calculated On: Actual Price / Discounted Price  
 - Discount on Shipping: Admin / Seller
 
-![Discount Setting](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/twooptions-1200x542.webp)
+![Discount Setting](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/discountcharges.webp)
 
 ---
 
@@ -167,7 +167,7 @@ By selecting the "No One" option, the admin ensures that both the commission and
 
 This simplifies calculations and keeps things consistent.
 
-![no one](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/10/noone-1200x561.webp)
+![no one](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/discountchargesnoone.webp)
 
 ---
 
@@ -195,7 +195,7 @@ Update seller earnings based on these order events:
 - Order delivered  
 - Refund days completed  
 
-![seller earning config](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/05/image-97-1200x597.png)
+![seller earning config](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/totaldueearning-1.webp)
 
 **Note:**  
 To add earnings post-refund period, enable [Cashable Amount for Sellers](https://marketplace-doc.webkul.com/classic/payment/Paypal.html#pay-after-refund-date).
@@ -210,7 +210,7 @@ Let your sellers see their total due earnings from their dashboard.
 
 Admin Panel >> Configuration >> Seller Configuration >> Enable “ALLOW SELLER TO VIEW TOTAL DUE”
 
-![seller dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/screenshot1716809714559-1-1200x607.webp)
+![seller dashboard](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/totaldue-1.webp)
 
 
 

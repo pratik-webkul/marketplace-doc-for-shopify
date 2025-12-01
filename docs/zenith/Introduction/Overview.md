@@ -152,7 +152,7 @@ You can also set the "Shipping cost" and "Taxes" the way you want to distribute 
 
 ![autopay](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/08/sellerpaymentconfig-scaled.webp)
 
-Check the **Complete Payment Flow** of the Multi-vendor Marketplace App: [Click Here](http://localhost:8080/payment/overview.html)
+Check the **Complete Payment Flow** of the Multi-vendor Marketplace App: [Click Here](https://marketplace-doc.webkul.com/zenith/payment/Seller-Payment.html)
 
 **Restriction Configuration**
 ---------------------------
@@ -185,7 +185,7 @@ All the information related to the Sellers can be managed from this menu. It has
 
 You can check the **Video Guide** to know how the admin can add sellers on the marketplace.
 
-[Click Here To Watch The Video](https://youtu.be/EmAsqsXqoYA?si=3aC84Urpc7QP69nS)
+[![Watch the video](https://img.youtube.com/vi/vdvnhMSFX7s/0.jpg)](https://www.youtube.com/watch?v=vdvnhMSFX7s)
 
 **Seller Listing**
 -------------------
@@ -324,7 +324,7 @@ Smart collections are synced this way: 
 
 [![Add Product Multivendor Marketplace for Shopify by Webkul](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/view-smart-collection-28.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/11/view-smart-collection-28.png)
 
-To know more about **Collection Sync**, Please refer: [https://webkul.com/blog/shopify-multivendor-marketplace-collection-sync-from-shopify-store/](https://webkul.com/blog/shopify-multivendor-marketplace-collection-sync-from-shopify-store/)
+To know more about **Collection Sync**, Please refer: [https://marketplace-doc.webkul.com/zenith/products/Collection-sync.html](https://marketplace-doc.webkul.com/zenith/products/Collection-sync.html)
 
 If you want the seller to view the smart collections then you can disable the "restrict smart collection" from the "Restrict Configuration"
 
@@ -344,7 +344,7 @@ Now make sure to assign these imported products to your sellers because only the
 
 This way you can successfully import the products from your Shopify store into a multivendor marketplace app.
 
-**Import Products from Shopify to the App** know more: [https://marketplace-doc.webkul.com/classic/products/Import-products.html](https://marketplace-doc.webkul.com/classic/products/Import-products.html)
+**Import Products from Shopify to the App** know more: [https://marketplace-doc.webkul.com/classic/products/Import-products.html](https://marketplace-doc.webkul.com/zenith/products/Import-products.html)
 
 **Product Form Customization** With this Admin can manage the "Add Product Form" for normal as well as digital products in the app.
 

@@ -1,6 +1,6 @@
-git-local/*
 node_modules/*
 docs/.vuepress/.cache/*
 docs/.vuepress/.temp/
+git-local/*
 deploy.sh
 git-main/*
