@@ -86,7 +86,7 @@ Sellers can view commissions for each order from:
 
 ###  Learn More
 
- [Read the full guide on Commission Types](http://localhost:8080/zenith/Commission/Commission-Type.html)
+ [Read the full guide on Commission Types](https://marketplace-doc.webkul.com/zenith/Commission/Commission-Type.html)
 
 ###  Demo
 
