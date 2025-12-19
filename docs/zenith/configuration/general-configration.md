@@ -176,13 +176,13 @@ We’ve added a new feature in our Multivendor Marketplace app that allows you t
 
 With just one configuration, you can choose whether you want to translate only the Admin panel, only the Seller panel, or both.
 
-![configuration-google-translate](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/translate-1200x575.webp)
+![configuration-google-translate](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/google.webp)
 
 To enable this feature, simply navigate to **Admin Panel >> Configuration >> General Configuration** and choose your preferred option.
 
 Once enabled, a Google Translate dropdown will appear at the top-right corner of the selected panel(s).
 
-![configuration-translation-dropdown](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/dropdown-1200x943.webp)
+![configuration-translation-dropdown](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/translate.webp)
 
 From there, you can choose your preferred language, and the entire panel will be translated instantly.
 
