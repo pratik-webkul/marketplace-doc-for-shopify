@@ -38,13 +38,13 @@ If you choose the Pro plan ($60/month) and enable the Booking App by Webkul ($18
 
 ### Installation
 
-![Booking App](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Dashboard-Admin-2-e1559222388472.png)
+![Booking App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/1featuredapp.webp)
 
-![Feature Apps-Booking App](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-1-2.png)
+![Feature Apps-Booking App](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/2activatebookingproduct.webp)
 
 To make this app work, first of all, you need to visit the "Feature Apps" section of the multivendor app. There you will get the "Booking Product" feature app.
 
-![Feature Apps install](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Feature-Apps-Admin-2-1.png)
+![Feature Apps install](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/3agreebookingproduct.webp)
 
 Now once you click on the "Enable" button you will be asked to install the "Booking App by Webkul" app first.
 
@@ -56,7 +56,7 @@ If you want to allow your sellers to open the booking dashboard with the app, th
 
 App admin panel>>Configuration>>Booking Configuration>>Enable the tab
 
-![screenshot_1695926759357](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/screenshot_1695926759357-1200x590.png)
+![screenshot_1695926759357](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/4bookingappconfiguration.webp)
 
 This is how it will look on the seller's dashboard.
 
@@ -68,7 +68,7 @@ Once you enable the "Booking Product" feature app on your store, you can now sel
 
 choose it's variant and then add booking on it.
 
-![add bookings](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Product-Admin-2.png)
+![add bookings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/5adminaddbooking.webp)
 
 First, visit the Multivendor Admin panel>>Products>>Click on "Products Listing">>Select any product from the list>>visit "Action" menu>> Click (...)>>Click on "**Add Booking**".
 
@@ -260,7 +260,7 @@ Seller Panel of the Multivendor App>>**Products**\>>**Products Listing**\>>**Act
 
 Proceed to **select a booking type** & add booking to the product.
 
-![Add Bookings](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/11/Product-Seller-%E2%80%A2-Multivendor-MarketPlace.png)
+![Add Bookings](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/6selleraddbooking.webp)
 
 Clicking the **Booking Dashboard,** the seller can view the list of all his/her Booking Products & Customer's bookings.
 
@@ -320,7 +320,7 @@ Admin Panel of the Multivendor app>>Orders>>Order Listing page>>Click on View bu
 **ADMIN PANEL**
 ---------------
 
-![Order Details Admin panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Order-Details-Admin.png)
+![Order Details Admin panel](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/adminbookingdetails.webp)
 
 Clicking on the "View Booking Details" button you will be redirected to "Edit Booking" section. From here the admin can approve the customer's booking request.
 
@@ -335,7 +335,7 @@ Seller Panel of Multivendor app>>Orders>>Order Listing page>>Click on View butto
 **SELLER PANEL**
 ----------------
 
-![Booking details customers](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/07/Order-Details-Seller-•-Multivendor-MarketPlace-1.png)
+![Booking details customers](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/sellerbookingdetails.webp)
 
 Once the Seller clicks on View Booking Details, he/she will be straight away redirected to the Booking Details page.
 
