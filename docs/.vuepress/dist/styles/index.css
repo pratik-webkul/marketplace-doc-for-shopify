@@ -1,0 +1,63 @@
+.vp-sidebar.collapsed {
+  width: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  border: none !important;
+}
+
+.sidebar-hidden .theme-default-content {
+  margin-left: 0 !important;
+}
+
+.sidebar-toggle-btn {
+  transition: left 0.3s ease;
+}
+
+.sidebar-toggle-btn {
+  color: #333;
+  background: #fff;
+  border: 1px solid #ccc;
+}
+html.dark .sidebar-toggle-btn,
+body.dark .sidebar-toggle-btn {
+  color: #fff;
+  background: #2c2c2c;
+  border: 1px solid #555;
+}
+
+html.dark .sidebar-toggle-btn,
+body.dark .sidebar-toggle-btn {
+  --toggle-bg: #2c2c2c;
+  --toggle-color: #fff;
+}
+html:not(.dark) .sidebar-toggle-btn,
+body:not(.dark) .sidebar-toggle-btn {
+  --toggle-bg: #fff;
+  --toggle-color: #000;
+}
+
+
+body.sidebar-collapsed .vp-page {
+  margin-left: 0 !important;
+  max-width: 100% !important;
+  padding: 2rem !important;
+  transition: all 0.3s ease;
+}
+
+body.sidebar-collapsed .vp-page {
+  margin-left: 0 !important;
+  max-width: 100% !important;
+  padding: 2rem !important;
+  padding-top: 100px !important;
+  transition: all 0.3s ease;
+}
+
+
+.vp-page {
+  padding-top: 100px; 
+}
+@media screen and (max-width: 768px) {
+  .sidebar-toggle-btn {
+    display: none !important;
+  }
+}
