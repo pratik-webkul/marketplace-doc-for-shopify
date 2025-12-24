@@ -26,17 +26,17 @@ Upload videos:
 
 The admin can allow sellers to add the country of their product origin to the description page. Visit **Multivendor Admin Panel** > **Configuration** > **Product Configuration**:
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/image-1200x597.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforigin.webp)
 
 After enabling this, visit **Multivendor Admin Panel** \> **Configuration** > **Instruction for Marketplace**:
 
 Copy the following code into the product.liquid (or product-template, if exist) template inside form tag to display the "Product Origin Country".
 
-![image-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/image-1-1200x597.png)
+![image-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforigincode.webp)
 
 So, when an admin and seller are adding/ editing any product then they have the option to choose the country of origin and fill the HSN code accordingly.
 
-![country](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/country-1200x627.png)
+![country](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/countryoforiginproductpage.webp   )
 
 This is how it will look on the storefront:
 
@@ -58,7 +58,7 @@ Go to Admin panel >> Configurations >> product configuration >> Enable " ALLOW S
 
 Now, when the seller will add products from his panel then he will have an option to add the cost price which should be less than the sales price.
 
-![Add-Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/07/Add-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x619.png)
+![Add-Product-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/costpriceseller.webp)
 
 ### Hide Product Tag Field
 
@@ -71,7 +71,7 @@ For this, You need to visit the multi-vendor admin panel>>Configurations>>**Prod
 
 Once you enable this tab, you/sellers won't get the product tag field while adding a product.
 
-![Add-Product-Seller-•-Multivendor-MarketPlace-ssssssssssss](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/09/Add-Product-Seller-%E2%80%A2-Multivendor-MarketPlace-ssssssssssss-1200x597.png)
+![Add-Product-Seller-•-Multivendor-MarketPlace-ssssssssssss](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/productfielddisabled.webp)
 
 Note:- In case you add/edit products by CSV, make sure that the "Restrict Product Tags" is disable.
 
@@ -85,7 +85,7 @@ Visit **Multivendor Admin Panel** > **Configuration** > **Product Configuration*
 
 Now, to add the help text, visit Multivendor Admin Panel > Products > Product Form Customization. Add the help text and save:
 
-![image-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-1-1200x597.png)
+![image-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/formhelptext.webp)
 
 **Note these points:**
 
@@ -94,10 +94,10 @@ Now, to add the help text, visit Multivendor Admin Panel > Products > Product Fo
 
 This is how they will look on the add product page (both admin & seller end):
 
-![image-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/08/image-2-1200x584.png)
+![image-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/10/formhelptextaddproduct.webp)
 
 
-### Add Video to Product
+<!-- ### Add Video to Product
 
 You can now add video while editing products. For this, you need to visit Multi-vendor admin panel>>Configuration>>Product Configuration and enable the tab are given below:
 
@@ -127,7 +127,7 @@ This is how it will look on the storefront:
 
 ![image-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/11/image-2.png)
 
-**Note**: For existing products, you need to once save them to display this information on the frontend. Also, note that once the product is added, this can't be updated.
+**Note**: For existing products, you need to once save them to display this information on the frontend. Also, note that once the product is added, this can't be updated. -->
 
 <!-- ### ALLOW SELLER TO ADD COST PRICE
 

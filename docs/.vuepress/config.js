@@ -195,10 +195,10 @@ export default defineUserConfig({
               text: 'Seller Add-Ons',
               collapsible: true,
               children: [
-                // { text: 'SELLER MEMBERSHIP', link: '/classic/Featured-App/Seller Add-Ons/SELLER MEMBERSHIP' },
+                { text: 'SELLER MEMBERSHIP', link: '/classic/Featured-App/Seller Add-Ons/SELLER MEMBERSHIP' },
                 { text: 'SELLER BUYER CHAT', link: '/classic/Featured-App/Seller Add-Ons/SELLER BUYER CHAT' },
-                // { text: 'ASK A QUESTION', link: '/classic/Featured-App/Seller Add-Ons/ASK A QUESTION' },
-                // { text: 'SOCIAL NETWORK TABS', link: '/classic/Featured-App/Seller Add-Ons/SOCIAL NETWORK TABS' },
+                { text: 'ASK A QUESTION', link: '/classic/Featured-App/Seller Add-Ons/ASK A QUESTION' },
+                { text: 'SOCIAL NETWORK TABS', link: '/classic/Featured-App/Seller Add-Ons/SOCIAL NETWORK TABS' },
                 { text: 'SELLER VACATION APP', link: '/classic/Featured-App/Seller Add-Ons/SELLER VACATION APP' },
                 { text: 'PWA', link: '/classic/Featured-App/Seller Add-Ons/PWA' },
                 { text: 'SELLER AND CUSTOMER BADGE', link: '/classic/Featured-App/Seller Add-Ons/SELLER AND CUSTOMER BADGE' },
@@ -215,23 +215,23 @@ export default defineUserConfig({
               text:'Marketplace Product Add-Ons',
               collapsible: true,
               children:[
-                // { text: 'GLOBAL PRODUCT', link: '/classic/Featured-App/Marketplace Product Add-Ons/GLOBAL PRODUCT' },
+                { text: 'GLOBAL PRODUCT', link: '/classic/Featured-App/Marketplace Product Add-Ons/GLOBAL PRODUCT' },
                 { text: 'FAVORITE PRODUCT|SELLER', link: '/classic/Featured-App/Marketplace Product Add-Ons/FAVORITE PRODUCT|SELLER' },
                 { text: 'STOCK MANAGEMENT', link: '/classic/Featured-App/Marketplace Product Add-Ons/STOCK MANAGEMENT' },
                 { text: 'MAKE AN OFFER', link: '/classic/Featured-App/Marketplace Product Add-Ons/MAKE AN OFFER' },
                 { text: 'PRODUCT FEED', link: '/classic/Featured-App/Marketplace Product Add-Ons/PRODUCT FEED' },
-                // { text: 'PRODUCT AUCTION FOR SELLER', link: '/classic/Featured-App/Marketplace Product Add-Ons/PRODUCT AUCTION FOR SELLER' },
+                { text: 'PRODUCT AUCTION FOR SELLER', link: '/classic/Featured-App/Marketplace Product Add-Ons/PRODUCT AUCTION FOR SELLER' },
                 { text: 'SPONSORED PRODUCT', link: '/classic/Featured-App/Marketplace Product Add-Ons/SPONSORED PRODUCT' },
                 { text: 'INDIAN GST', link: '/classic/Featured-App/Marketplace Product Add-Ons/INDIAN GST' },
                 { text: 'PRODUCT EXPIRY', link: '/classic/Featured-App/Marketplace Product Add-Ons/PRODUCT EXPIRY' },
                 { text: 'SLOT PRICING', link: '/classic/Featured-App/Marketplace Product Add-Ons/SLOT PRICING' },
-                // { text: 'BOOKING PRODUCT', link: '/classic/Featured-App/Marketplace Product Add-Ons/BOOKING PRODUCT' },
+                { text: 'BOOKING PRODUCT', link: '/classic/Featured-App/Marketplace Product Add-Ons/BOOKING PRODUCT' },
                 { text: 'DAILY DEALS', link: '/classic/Featured-App/Marketplace Product Add-Ons/DAILY DEALS' },
                 { text: 'ARTIST PRODUCT DESIGN', link: '/classic/Featured-App/Marketplace Product Add-Ons/ARTIST PRODUCT DESIGN' },
                 { text: 'PRODUCT REVIEW', link: '/classic/Featured-App/Marketplace Product Add-Ons/PRODUCT REVIEW' },
                 { text: 'CUSTOM OPTIONS', link: '/classic/Featured-App/Marketplace Product Add-Ons/CUSTOM OPTIONS' },
                 { text: 'PAY WHAT YOU WANT', link: '/classic/Featured-App/Marketplace Product Add-Ons/PAY WHAT YOU WANT' },
-                // { text: 'CROWDFUNDING', link: '/classic/Featured-App/Marketplace Product Add-Ons/CROWDFUNDING' },
+                { text: 'CROWDFUNDING', link: '/classic/Featured-App/Marketplace Product Add-Ons/CROWDFUNDING' },
                 { text: 'PREORDER INTEGRATION', link: '/classic/Featured-App/Marketplace Product Add-Ons/PREORDER INTEGRATION' },
                 { text: 'DELIVERY SLOT MANAGEMENT', link: '/classic/Featured-App/Marketplace Product Add-Ons/DELIVERY SLOT MANAGEMENT' },
                 { text: 'PACK PRODUCT INTEGRATION', link: '/classic/Featured-App/Marketplace Product Add-Ons/PACK PRODUCT INTEGRATION' },
@@ -264,101 +264,101 @@ export default defineUserConfig({
                 { text: 'MULTI LOCATION INVENTORY', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/MULTI LOCATION INVENTORY' },
                 { text: 'CUSTOMER ORDER MANAGEMENT', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/CUSTOMER ORDER MANAGEMENT' },
                 { text: 'SPLIT CART', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/SPLIT CART' },
-                // { text: 'HYPERLOCAL MARKETPLACE', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/HYPERLOCAL MARKETPLACE' },
+                { text: 'HYPERLOCAL MARKETPLACE', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/HYPERLOCAL MARKETPLACE' },
                 { text: 'ROUTE INSURANCE', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/ROUTE INSURANCE' },
                 { text: 'ZOHO INTEGRATION', link: '/classic/Featured-App/Marketplace Miscellaneous Add-ons/ZOHO INTEGRATION' }               
               ]
             }
           ]
         },
-        {
-          text: 'Hyperlocal Marketplace',
-          collapsible: true,
-          collapsed: false,
-          children: [
-            { 
-              text: 'Hyperlocal Marketplace', 
-              link: '/classic/Hyperlocal Marketplace/HYPERLOCAL MARKETPLACE' 
-            }
-          ]
-        },
-        {
-          text: 'Seller Membership',
-          collapsible: true,
-          collapsed: false,
-          children: [
-            {
-              text: 'Seller Membership',
-              link: '/classic/Seller Membership/SELLER MEMBERSHIP'
-            }
-          ]
-        },
-        {
-          text: 'Global Product',
-          collapsible: true,
-          collapsed: false,
-          children: [
-            {
-              text: 'Global Product',
-              link: '/classic/Global Product/GLOBAL PRODUCT'
-            }
-          ]
-        },
-        {
-          text: 'Product Auction',
-          collapsible: true,
-          collapsed: false,
-          children: [
-            {
-              text: 'Product Auction',
-              link: '/classic/Product Auction/PRODUCT AUCTION FOR SELLER'
-            }
-          ]
-        },
-        {
-          text: 'Booking Product',
-          collapsible: true,
-          collapsed: false,
-          children: [
-            {
-              text: 'Booking Product',
-              link: '/classic/Booking Product/BOOKING PRODUCT'
-            }
-          ]
-        },
-        {
-          text: 'Dynamic Mockups',
-          collapsible: true,
-          collapsed: false,
-          children: [
-            {
-              text: 'Dynamic Mockups',
-              link: '/classic/Dynamic Mockups/PRINT-ON-DEMAND - DYNAMIC MOCKUPS'
-            }
-          ]
-        },
-        {
-          text: 'Crowdfunding',
-          collapsible: true,
-          collapsed: false,
-          children: [
-            {
-              text: 'Crowdfunding',
-              link: '/classic/Crowdfunding/CROWDFUNDING'
-            }
-          ]
-        },
-        {
-          text: 'Ask a Question',
-          collapsible: true,
-          collapsed: false,
-          children: [
-            {
-              text: 'Ask a Question',
-              link: '/classic/Ask a Question/ASK A QUESTION'
-            }
-          ]
-        },
+        // {
+        //   text: 'Hyperlocal Marketplace',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     { 
+        //       text: 'Hyperlocal Marketplace', 
+        //       link: '/classic/Hyperlocal Marketplace/HYPERLOCAL MARKETPLACE' 
+        //     }
+        //   ]
+        // },
+        // {
+        //   text: 'Seller Membership',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     {
+        //       text: 'Seller Membership',
+        //       link: '/classic/Seller Membership/SELLER MEMBERSHIP'
+        //     }
+        //   ]
+        // },
+        // {
+        //   text: 'Global Product',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     {
+        //       text: 'Global Product',
+        //       link: '/classic/Global Product/GLOBAL PRODUCT'
+        //     }
+        //   ]
+        // },
+        // {
+        //   text: 'Product Auction',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     {
+        //       text: 'Product Auction',
+        //       link: '/classic/Product Auction/PRODUCT AUCTION FOR SELLER'
+        //     }
+        //   ]
+        // },
+        // {
+        //   text: 'Booking Product',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     {
+        //       text: 'Booking Product',
+        //       link: '/classic/Booking Product/BOOKING PRODUCT'
+        //     }
+        //   ]
+        // },
+        // {
+        //   text: 'Dynamic Mockups',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     {
+        //       text: 'Dynamic Mockups',
+        //       link: '/classic/Dynamic Mockups/PRINT-ON-DEMAND - DYNAMIC MOCKUPS'
+        //     }
+        //   ]
+        // },
+        // {
+        //   text: 'Crowdfunding',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     {
+        //       text: 'Crowdfunding',
+        //       link: '/classic/Crowdfunding/CROWDFUNDING'
+        //     }
+        //   ]
+        // },
+        // {
+        //   text: 'Ask a Question',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     {
+        //       text: 'Ask a Question',
+        //       link: '/classic/Ask a Question/ASK A QUESTION'
+        //     }
+        //   ]
+        // },
       ],
 
 // ZENITH THEME CODE ..............
@@ -512,9 +512,9 @@ export default defineUserConfig({
               text: 'Seller Add-Ons',
               collapsible: true,
               children: [
-                // { text: 'SELLER MEMBERSHIP', link: '/zenith/Featured-App/Seller Add-Ons/SELLER MEMBERSHIP' },
+                { text: 'SELLER MEMBERSHIP', link: '/zenith/Featured-App/Seller Add-Ons/SELLER MEMBERSHIP' },
                 { text: 'SELLER BUYER CHAT', link: '/zenith/Featured-App/Seller Add-Ons/SELLER BUYER CHAT' },
-                // { text: 'ASK A QUESTION', link: '/zenith/Featured-App/Seller Add-Ons/ASK A QUESTION' },
+                { text: 'ASK A QUESTION', link: '/zenith/Featured-App/Seller Add-Ons/ASK A QUESTION' },
                 { text: 'SOCIAL NETWORK TABS', link: '/zenith/Featured-App/Seller Add-Ons/SOCIAL NETWORK TABS' },
                 { text: 'SELLER VACATION APP', link: '/zenith/Featured-App/Seller Add-Ons/SELLER VACATION APP' },
                 { text: 'PWA', link: '/zenith/Featured-App/Seller Add-Ons/PWA' },
@@ -532,23 +532,23 @@ export default defineUserConfig({
               text:'Marketplace Product Add-Ons',
               collapsible: true,
               children:[
-                // { text: 'GLOBAL PRODUCT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/GLOBAL PRODUCT' },
+                { text: 'GLOBAL PRODUCT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/GLOBAL PRODUCT' },
                 { text: 'FAVORITE PRODUCT|SELLER', link: '/zenith/Featured-App/Marketplace Product Add-Ons/FAVORITE PRODUCT|SELLER' },
                 { text: 'STOCK MANAGEMENT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/STOCK MANAGEMENT' },
                 { text: 'MAKE AN OFFER', link: '/zenith/Featured-App/Marketplace Product Add-Ons/MAKE AN OFFER' },
                 { text: 'PRODUCT FEED', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT FEED' },
-                // { text: 'PRODUCT AUCTION FOR SELLER', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT AUCTION FOR SELLER' },
+                { text: 'PRODUCT AUCTION FOR SELLER', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT AUCTION FOR SELLER' },
                 { text: 'SPONSORED PRODUCT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/SPONSORED PRODUCT' },
                 { text: 'INDIAN GST', link: '/zenith/Featured-App/Marketplace Product Add-Ons/INDIAN GST' },
                 { text: 'PRODUCT EXPIRY', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT EXPIRY' },
                 { text: 'SLOT PRICING', link: '/zenith/Featured-App/Marketplace Product Add-Ons/SLOT PRICING' },
-                // { text: 'BOOKING PRODUCT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/BOOKING PRODUCT' },
+                { text: 'BOOKING PRODUCT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/BOOKING PRODUCT' },
                 { text: 'DAILY DEALS', link: '/zenith/Featured-App/Marketplace Product Add-Ons/DAILY DEALS' },
                 { text: 'ARTIST PRODUCT DESIGN', link: '/zenith/Featured-App/Marketplace Product Add-Ons/ARTIST PRODUCT DESIGN' },
                 { text: 'PRODUCT REVIEW', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PRODUCT REVIEW' },
                 { text: 'CUSTOM OPTIONS', link: '/zenith/Featured-App/Marketplace Product Add-Ons/CUSTOM OPTIONS' },
                 { text: 'PAY WHAT YOU WANT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PAY WHAT YOU WANT' },
-                // { text: 'CROWDFUNDING', link: '/zenith/Featured-App/Marketplace Product Add-Ons/CROWDFUNDING' },
+                { text: 'CROWDFUNDING', link: '/zenith/Featured-App/Marketplace Product Add-Ons/CROWDFUNDING' },
                 { text: 'PREORDER INTEGRATION', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PREORDER INTEGRATION' },
                 { text: 'DELIVERY SLOT MANAGEMENT', link: '/zenith/Featured-App/Marketplace Product Add-Ons/DELIVERY SLOT MANAGEMENT' },
                 { text: 'PACK PRODUCT INTEGRATION', link: '/zenith/Featured-App/Marketplace Product Add-Ons/PACK PRODUCT INTEGRATION' },
@@ -581,7 +581,7 @@ export default defineUserConfig({
                 { text: 'MULTI LOCATION INVENTORY', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/MULTI LOCATION INVENTORY' },
                 { text: 'CUSTOMER ORDER MANAGEMENT', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/CUSTOMER ORDER MANAGEMENT' },
                 { text: 'SPLIT CART', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/SPLIT CART' },
-                // { text: 'HYPERLOCAL MARKETPLACE', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/HYPERLOCAL MARKETPLACE' },
+                { text: 'HYPERLOCAL MARKETPLACE', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/HYPERLOCAL MARKETPLACE' },
                 { text: 'ROUTE INSURANCE', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/ROUTE INSURANCE' },
                 { text: 'ZOHO INTEGRATION', link: '/zenith/Featured-App/Marketplace Miscellaneous Add-ons/ZOHO INTEGRATION' }               
               ]
@@ -600,82 +600,97 @@ export default defineUserConfig({
           ]
         },
         {
-          text: 'Seller Membership',
+          text: 'Digital Marketplace',
           collapsible: true,
           collapsed: false,
           children: [
             {
-              text: 'Seller Membership',
-              link: '/zenith/Seller Membership/SELLER MEMBERSHIP'
+              text: 'E-Book Marketplace',
+              link: '/zenith/Digital Marketplace/E-Book Marketplace'
+            },
+            {
+              text: 'Music Marketplace',
+              link: '/zenith/Digital Marketplace/Music Marketplace'
             }
           ]
         },
         {
-          text: 'Global Product',
+          text: 'B2B Marketplace',
           collapsible: true,
           collapsed: false,
           children: [
             {
-              text: 'Global Product',
-              link: '/zenith/Global Product/GLOBAL PRODUCT'
+              text: 'B2B Marketplace',
+              link: '/zenith/B2B Marketplace/B2B Marketplace'
             }
           ]
         },
         {
-          text: 'Product Auction',
+          text: 'C2C Marketplace',
           collapsible: true,
           collapsed: false,
           children: [
             {
-              text: 'Product Auction',
-              link: '/zenith/Product Auction/PRODUCT AUCTION FOR SELLER'
+              text: 'C2C Marketplace',
+              link: '/zenith/C2C Marketplace/C2C Marketplace'
             }
           ]
         },
         {
-          text: 'Booking Product',
+          text: 'Auction Marketplace',
           collapsible: true,
           collapsed: false,
           children: [
             {
-              text: 'Booking Product',
-              link: '/zenith/Booking Product/BOOKING PRODUCT'
+              text: 'Auction Marketplace',
+              link: '/zenith/Auction Marketplace/Auction Marketplace'
             }
           ]
         },
+        // {
+        //   text: 'Booking Product',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     {
+        //       text: 'Booking Product',
+        //       link: '/zenith/Booking Product/BOOKING PRODUCT'
+        //     }
+        //   ]
+        // },
+        // {
+        //   text: 'Dynamic Mockups',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     {
+        //       text: 'Dynamic Mockups',
+        //       link: '/zenith/Dynamic Mockups/PRINT-ON-DEMAND - DYNAMIC MOCKUPS'
+        //     }
+        //   ]
+        // },
         {
-          text: 'Dynamic Mockups',
-          collapsible: true,
-          collapsed: false,
-          children: [
-            {
-              text: 'Dynamic Mockups',
-              link: '/zenith/Dynamic Mockups/PRINT-ON-DEMAND - DYNAMIC MOCKUPS'
-            }
-          ]
-        },
-        {
-          text: 'Crowdfunding',
+          text: 'Crowdfunding Marketplace',
           collapsible: true,
           collapsed: false,
           children: [
             {
               text: 'Crowdfunding',
-              link: '/zenith/Crowdfunding/CROWDFUNDING'
+              link: '/zenith/Crowdfunding Marketplace/Crowdfunding Marketplace'
             }
           ]
         },
-        {
-          text: 'Ask a Question',
-          collapsible: true,
-          collapsed: false,
-          children: [
-            {
-              text: 'Ask a Question',
-              link: '/zenith/Ask a Question/ASK A QUESTION'
-            }
-          ]
-        },
+        // {
+        //   text: 'Ask a Question',
+        //   collapsible: true,
+        //   collapsed: false,
+        //   children: [
+        //     {
+        //       text: 'Ask a Question',
+        //       link: '/zenith/Ask a Question/ASK A QUESTION'
+        //     }
+        //   ]
+        // },
       ],
     }
 

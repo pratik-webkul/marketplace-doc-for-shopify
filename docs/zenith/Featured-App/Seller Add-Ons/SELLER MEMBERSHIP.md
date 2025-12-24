@@ -31,7 +31,7 @@ You need to enable the App from here:
 
 **Go to Admin Panel → Feature App section → Enable the feature → Save Changes.**
 
-![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/29081836/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-13-07-60.png)
+![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/activatesellermemship.webp)
 
 Once you enable the featured app, you need to approve the charges for the app i.e. **$25 USD/month**.
 
@@ -41,7 +41,7 @@ Once you enable the featured app, you need to approve the charges for the app i.
 
 Once the App is activated, Admin will configure the same from the **Configuration → Membership Configuration** menu:
 
-![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Membership-Configuration-Admin-1.png)
+![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/membershipconfiguration.webp)
 
 * **Display Membership Plan to Seller** – Choose if sellers should pick a plan during or after signup.
 * **If Seller Payment is Due** – Choose what happens if a seller misses payment: block access, disable products, etc.
@@ -56,7 +56,7 @@ Once the App is activated, Admin will configure the same from the **Configuratio
 
 Go to **Multi-vendor Admin Panel → Configuration → Membership Configuration**, then enable the tab.
 
-![Screenshot-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2021/04/Screenshot-4-1200x549.png)
+![Screenshot-4](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/updatecarddetails.webp)
 
 ---
 
@@ -64,11 +64,11 @@ Go to **Multi-vendor Admin Panel → Configuration → Membership Configuration*
 
 **Go to Sellers → Seller Membership Plans** in the app.
 
-[![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Membership-Plans-Admin-3.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Membership-Plans-Admin-3.png)
+[![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/createnewplans-scaled.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/createnewplans-scaled.webp)
 
 #### Create Membership Plans for the Seller:
 
-![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Add-Membership-Plan-Admin.png)
+![seller membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/addplan.webp)
 
 While creating a plan:
 
@@ -82,7 +82,7 @@ While creating a plan:
 
 While creating a plan, enable **Set Commission by Membership Plan** and enter a percentage.
 
-![Add Membership Plan Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Add-Membership-Plan-Admin-1.png)
+![Add Membership Plan Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/setcommissionbymp.webp)
 
 > Commission Priority:
 > Membership > Product-wise > Category-wise > Seller-wise > Global
@@ -93,7 +93,7 @@ While creating a plan, enable **Set Commission by Membership Plan** and enter a 
 
 If using the [Seller Staff App](https://webkul.com/blog/shopify-multivendor-marketplace-app-seller-staff/), restrict staff per membership plan.
 
-![Add Membership Plan Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Add-Membership-Plan-Admin-3.png)
+![Add Membership Plan Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/restrictchanges.webp)
 
 ---
 
@@ -101,12 +101,12 @@ If using the [Seller Staff App](https://webkul.com/blog/shopify-multivendor-mark
 
 Set one-time setup fee when creating plans.
 
-![One time setup fee](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Add-Membership-Plan-Admin-2.png)
+![One time setup fee](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/onetimesetupfee.webp)
 
 Reorder plans via:  
 **Sellers → Seller Membership → REORDER PLANS**
 
-![screenshot_from_2022_09_23_19_35_15](https://cdnblog.webkul.com/blog/wp-content/uploads/2022/09/screenshot_from_2022_09_23_19_35_15-1200x570.png)
+![screenshot_from_2022_09_23_19_35_15](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/reorderplan.webp)
 
 ---
 
@@ -118,12 +118,12 @@ After filling details and clicking **Save**, select a plan.
 
 #### While Editing Seller:
 
-![Membership10](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Edit-Seller-Admin-1.png)
+![Membership10](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/assignsellermembership-e1762234718463.webp)
 
 You’ll see plans appear after clicking **Save Changes**.
 
 View subscribed sellers here:  
-[![Membership5](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Seller-Memberships-Admin-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Seller-Memberships-Admin-.png)
+[![Membership5](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paymentstatus.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/paymentstatus.webp)
 
 ---
 
@@ -136,7 +136,7 @@ More on this here:
 
 **Go to Configuration → Payment Details**
 
-![membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/membership-1200x985.webp)
+![membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/membershippaymentdetails.webp)
 
 ---
 
@@ -144,12 +144,12 @@ More on this here:
 
 Sellers will see membership options right after signing up.
 
-![Membership3](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Screenshot-7-1.png)
-![Membership3](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Screenshot-6-1.png)
+![Membership3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/membershipplanonsellersignup.webp)
+![Membership3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/billinginfo.webp)
 
 If it’s a **Prepaid Plan**, seller chooses and pays via available payment methods:
 
-[![Membership2](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Choose-Payment-Method-for-Membership-Seller-7.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Choose-Payment-Method-for-Membership-Seller-7.png)
+[![Membership2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/choosepaymentmethod.webp)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/choosepaymentmethod.webp)
 
 ---
 
@@ -159,20 +159,20 @@ If it’s a **Prepaid Plan**, seller chooses and pays via available payment meth
 
 Go to **Sellers → Membership Plan → Select Seller → Deactivate**
 
-![Screenshot (19)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Screenshot-19-1.png)
+![Screenshot (19)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/deactivatefromadmin.webp)
 
 **Seller Panel:**
 
 Admin must first enable this from **Membership Configuration**:
 
-![Screenshot (18)](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/Screenshot-18-1.png)
+![Screenshot (18)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/allowsellertodeactivate.webp)
 
 Then seller can do:
 
 * Go to Seller Panel → Profile → Membership Plan
 * Click **Deactivate**
 
-![Membership-Plan-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/02/Membership-Plan-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x717.png)
+![Membership-Plan-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/deactivatefromseller.webp)
 
 To update card details, click **View → Update Card**:
 
@@ -191,8 +191,8 @@ Admin:
 
 * Go to **Sellers → Seller Memberships → Select Seller → Payment History → View**
 
-![screenshot_1690984483943](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1690984483943-1200x413.png)
-![screenshot_1690897965199](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/08/screenshot_1690897965199-1200x612.png)
+![screenshot_1690984483943](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/paymenthistoryview.webp)
+![screenshot_1690897965199](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/paymenthistory.webp)
 
 Seller:
 
@@ -204,7 +204,7 @@ Seller:
 
 Enable **Assign to Particular Seller** while creating the plan and enter seller emails.
 
-![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2024/04/screenshot_1712319021401-1200x556.webp)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/assigntopertiseller.webp)
 
 ---
 
@@ -216,15 +216,15 @@ Enable **Assign to Particular Seller** while creating the plan and enter seller 
 * Activate EcPay
 * Enter Merchant ID, Hash Key, Hash IV
 
-![Ecpay activate for memberhisp](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/activate-ecpay-membership-1200x785.webp)
-![ecpay details for membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/details-membership-1200x785.webp)
+![Ecpay activate for memberhisp](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/ecpayactivate.webp)
+![ecpay details for membership](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/ecpaydetails.webp)
 
 #### Seller Flow:
 
 1. Choose plan → Select EcPay as payment method
 2. Click **Pay and Proceed**
 
-![select-ecpay for seller membership feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/selcet-ecpay-1200x785.webp)
+![select-ecpay for seller membership feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/ecpaypayementmode.webp)
 
 3. Enter payment details on EcPay page → Submit OTP
 
@@ -244,8 +244,8 @@ Enable **Assign to Particular Seller** while creating the plan and enter seller 
 1. Seller Dashboard → Profile → Membership Plan
 2. Click **Deactivate**, confirm.
 
-![deactivateseller membership feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/deactivate-memebrship-1200x943.webp)
-![Payment succesfull seller membership feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/02/deactivate-membership-confirm-1200x943.webp)
+![deactivateseller membership feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/deactivatefromseller.webp)
+![Payment succesfull seller membership feature](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/afterclickdeactivatebutton.webp)
 
 Test with EcPay sandbox:  
 👉 [EcPay Developer Sandbox](https://developers.ecpay.com.tw/?p=22696)

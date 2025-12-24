@@ -21,11 +21,11 @@ Firstly visit the "Feature Apps" section by clicking the (...) three dots in the
 
 Now Enable the " Favorite Product/Seller" Feature.
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/29112423/AwesomeScreenshot-Feature-Apps-Admin-2019-07-29-16-07-90.png)
+![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpo.webp)
 
 Once you will click on the "Enable button" then you need to agree on an additional charge of USD 5 per month which are over and above your current multivendor marketplace plan.
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/30-2.png)
+![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favpot.webp)
 
 ### FRONT END DISPLAY IN NEW THEME
 
@@ -85,15 +85,12 @@ Admin can see the list of all the sellers liked by customers in the multivendor 
 
 Sellers >> favorite sellers >> here you can see the list of all sellers liked by customers as well as the number of likes that sellers received from customers.
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/33.png)
-
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/h-2.png)
+![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsfr.webp)
 
 Admin can see the list of all the products liked by customers in the multivendor marketplace app.
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/i-2.png)
+![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsthr.webp)
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/j-2.png)
 
 ### SELLER END
 
@@ -101,9 +98,8 @@ The seller can too view the number of customers who liked their profile page fro
 
 Profile>> Liked customer >> Here you can see the list of customers who liked your profile page
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/35-1.png)
+![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/favsfv.webp)
 
-![Favorite Product/Seller](https://cdnblog.webkul.com/blog/wp-content/uploads/2018/03/g-2.png)
 
 ### Multivendor Marketplace App for Shopify: Favorite Product/Seller Demo
 

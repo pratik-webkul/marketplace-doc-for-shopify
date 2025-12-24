@@ -30,36 +30,36 @@ Installation
 
 Visit the featured apps section of the Multivendor Marketplace for Shopify & enable the _Artist Product Design_ feature app:
 
-![Feature Apps Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Feature-Apps-Admin-1.png)
+![Feature Apps Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdo.webp)
 
 After accepting the charges, you are good to go!
 
-![Feature Apps Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Feature-Apps-Admin-1-1.png)
+![Feature Apps Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdt.webp)
 
 Configuring Admin Panel
 -----------------------
 
 Go to: Multivendor Marketplace Admin Panel > Configuration > Seller Configuration:
 
-![Dashboard Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Dashboard-Admin.png)
+![Dashboard Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdthr.webp)
 
 On the Seller Configuration page, the Admin will have a configuration regarding this app:
 
-![WHETHER YOU WANT TO HAVE SELLER ALSO ON THE STORE](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Configuration-Admin-5.png)
+![WHETHER YOU WANT TO HAVE SELLER ALSO ON THE STORE](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdfr.webp)
 
 Artist Product Design Configuration
 -----------------------------------
 
 Further, go to Multi vendor Marketplace Admin Panel > Configuration > Artist Design Configuration:
 
-![ARTIST PRODUCT DESIGN CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Artist-Product-Design-Configuration-Admin.png)
+![ARTIST PRODUCT DESIGN CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdfv.webp)
 
 (i)
 
 *   **Enter a label for the Artist:** From this option, you can change the label for the Artist on the artist panel.
 *   **Allow the artist to add a product:** From this option, you will be able to allow the artist so, they can also add products to your marketplace store.
 
-![DESIGN VERIFICATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Artist-Product-Design-Configuration-Admin-1.png)
+![DESIGN VERIFICATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdsx.webp)
 
 (ii)
 
@@ -67,9 +67,8 @@ Further, go to Multi vendor Marketplace Admin Panel > Configuration > Artist Des
 *   **Print Packing Slip:** From this option, you can allow the artist to print packing slips of the designs.
 *   **Store Location Name:** Enter the location name of your store.
 
-![ARTIST PRODUCT DESIGN: CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Artist-Product-Design-Configuration-Admin-2.png)
+![ARTIST PRODUCT DESIGN: CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdsv.webp)
 
-![ARTIST PRODUCT DESIGN: CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Artist-Product-Design-Configuration-Admin-3.png)
 
 (iii)
 
@@ -79,7 +78,7 @@ Further, go to Multi vendor Marketplace Admin Panel > Configuration > Artist Des
 *   **State**
 *   **Store Location Zipcode**
 
-![ARTIST PRODUCT DESIGN: CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Artist-Product-Design-Configuration-Admin-4.png)
+![ARTIST PRODUCT DESIGN: CONFIGURATION](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdei.webp)
 
 (iv)
 
@@ -87,7 +86,7 @@ Further, go to Multi vendor Marketplace Admin Panel > Configuration > Artist Des
 
 Enabling this option, You will be asked to update the initial replacement value whose value is not set previously for the design.
 
-![Initial Replacement Value ](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/10/Artist-Product-Design-Configuration-Admin-1-1.png)
+![Initial Replacement Value ](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdreview.webp)
 
 *   **Initial Replacement Value Type:** The initial replacement value will be in percentage.
 *   **Initial Replacement Value:** Enter the initial replacement value whose percentage amount will be applied to product designs.
@@ -126,7 +125,7 @@ Similarly, if disabled, the Admin will be able to add only Artists on his store.
 
 _If you don't want Sellers on your Multivendor Marketplace & want to have a store only for Artists then disable this option._
 
-![Signup • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Signup-•-Multivendor-MarketPlace.png)
+![Signup • Multivendor MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/signupmvm.webp)
 
 **ALLOW ARTIST TO ADD PRODUCT**
 -------------------------------
@@ -137,23 +136,23 @@ Mark that: If you want your Artist to add products then enable this option and w
 
 Go to: Multivendor Marketplace Admin Panel > Configuration > Product Configuration:
 
-![Configuration Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Configuration-Admin-1.png)
+![Configuration Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdnin.webp)
 
 ### Admin Adding Artists
 
 Go to: Multivendor Marketplace Admin Panel > Sellers > Seller Listing > Add Seller:
 
-![Seller Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Seller-Admin.png)
+![Seller Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdten.webp)
 
 Fill the Add Seller form as usual & select Join As-
 
 _Artist_ (if Admin has disabled the WHETHER YOU WANT TO HAVE SELLER ALSO ON THE STORE option from the configuration then here he will not get the 'Join As' option for Seller)
 
-![Add Seller Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Add-Seller-Admin.png)
+![Add Seller Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdele.webp)
 
 Added Artists will be visible on the Seller Listing page-
 
-![Seller Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Seller-Admin-1.png)
+![Seller Admin (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdtwel.webp)
 
 Further, the Admin can edit/disable the Artist but can't delete it.
 
@@ -164,7 +163,7 @@ On the registration form, Seller needs to join as Artist:
 
 (You can find the link for Seller Registration Page on the frontend)
 
-![Signup • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Signup-•-Multivendor-MarketPlace-1.png)
+![Signup • Multivendor MarketPlace (1)](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/signupmvm.webp)
 
 After this, the Artist will be redirected to the Multivendor Marketplace Artist Panel (if the Admin has enabled the AUTO APPROVE SELLER option from the Seller Configuration,
 
@@ -177,11 +176,11 @@ Artist Adding Product Design:
 
 Go to: Multivendor Marketplace Artist Panel > Products > Product Design > Add Products Design:
 
-![SELLER PANEL: PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Products-Design-Seller-%E2%80%A2-Multivendor-MarketPlace-2.png)
+![SELLER PANEL: PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdtrteen.webp)
 
 The artist needs to enter the required details & save the product design:
 
-![ADD PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/04/Add-Product-Design-Seller-%E2%80%A2-Multivendor-MarketPlace-1.png)
+![ADD PRODUCT DESIGN](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/apdfteen.webp)
 
 The Admin will receive this created product design in an approval pending state. So to add product designs to the products, the Admin needs to enable the product design from Admin Panel.
 

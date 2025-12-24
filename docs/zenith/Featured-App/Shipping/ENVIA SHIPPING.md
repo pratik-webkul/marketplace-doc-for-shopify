@@ -40,13 +40,13 @@ Firstly, the admin needs to enable this shipping method from the shipping config
 
 Click on the **three dots** under the **Action** menu & further, click on **enable**.
 
-![Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Configuration-Admin-1200x597.png)
+![Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/eniviaenable.webp)
 
 Moving on, the admin needs to configure the **Envia** Shipping.
 
 So, for this, either click on **Configure Shipping** or go to **multi vendor marketplace admin panel** > **configuration** > ****Envia** Shipping Configuration**. Refer:
 
-![Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Configuration-Admin-1-1200x597.png)
+![Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/configenvia.webp)
 
 Configure Envia Shipping
 ------------------------
@@ -59,17 +59,17 @@ If you want to test the functionality of this shipping add-on, enable the sandbo
 
 Enable this option if you want to automatically generate the shipping labels on order fulfillment.
 
-![Envia-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Envia-Configuration-Admin-1200x597.png)
+![Envia-Configuration-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enviaconfigone.webp)
 
 Furthermore, you need to choose the country from the drop-down menu on the basis of your Envia account. Enter the access key provided By Envia.
 
 It will be different for the Production and Development Environment and lastly and save.
 
-![Envia-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Envia-Configuration-Admin-1-1200x556.png)
+![Envia-Configuration-Admin-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enviaconfigone.webp)
 
 Further, click on 'Get Carrier Code', select the carrier code for shipping and order fulfillment from drop-down list.
 
-![Envia-Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Envia-Configuration-Admin-2-1200x597.png)
+![Envia-Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enviaconfigtwo.webp)
 
 Lastly, enter the following details:
 
@@ -78,7 +78,7 @@ Lastly, enter the following details:
 *   Choose Lenght Unit: Centimeter (CM) or Inches (IN)
 *   Lastly, choose whether the shipping label cost will be borne by the admin or the seller.
 
-![Envia-Configuration-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Envia-Configuration-Admin-3-1200x597.png)
+![Envia-Configuration-Admin-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enviaconfigtwo.webp)
 
 Set Shipping Method For Sellers:
 --------------------------------
@@ -89,11 +89,11 @@ Go to **multi vendor marketplace admin panel** > **Sellers** > **Seller Lis
 
 On the edit seller page, the admin will have the following block from where he needs to enable the Envia Shipping. It can later be changed to enable/disable/set as default state:
 
-![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Edit-Seller-Admin-1200x597.png)
+![Edit-Seller-Admin](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/enableenvia.webp)
 
 Further, the admin can view all the sellers which are using this shipping method by going to **multi vendor marketplace admin panel** > **configuration** > **Shipping** **Configuration**:
 
-![Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Configuration-Admin-2-1200x597.png)
+![Configuration-Admin-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/viewsellers.webp)
 
 Make **Shipping** **Address Phone Number** Mandatory
 ----------------------------------------------------
@@ -111,19 +111,19 @@ Further, the seller can configuration Envia Shipping from his panel.
 
 Go to **multi vendor marketplace seller panel** > **configuration** > **shipping configuration**\> **enable**/**disable** the shipping:
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/setasdefault.webp)
 
 Further, go to **Global Configuration**:
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-1-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/globalconfig.webp)
 
 So, from here, the seller can do the **Shipping Packet Configuration**:
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/globalconfigseller.webp)
 
 Moreover, under **Envia Shipping Configuration**, select the **Package Type** & save the details.
 
-![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Shipping-Configuration-Seller-%E2%80%A2-Multivendor-MarketPlace-3-1200x597.png)
+![Shipping-Configuration-Seller-•-Multivendor-MarketPlace-3](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/12/sellerenviaconfig.webp)
 
 The seller can set the shipping method as **by-default** so that every single product created by him will have **Envia Shipping** as the **by-default shipping method**.
 
@@ -151,7 +151,7 @@ Go to **Multi-vendor marketplace seller panel** > **Orders** > **Order List
 
 As soon as the order will be fulfilled, the shipping label will be automatically downloaded (if configured so).
 
-![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-1200x597.png)
+![123](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/orderfullpage.webp)
 
 Then select the method:
 
@@ -159,7 +159,7 @@ Then select the method:
 
 Moreover, if you again want to download the shipping label, go to ADDITIONAL ORDER DETAILS, click on **Actions** > **Print Shipping Label**:
 
-![Order-Details-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2020/04/Order-Details-Seller-%E2%80%A2-Multivendor-MarketPlace-2-1200x597.png)
+![Order-Details-Seller-•-Multivendor-MarketPlace-2](https://cdnblog.webkul.com/blog/wp-content/uploads/2025/11/generateshiipinglabel.webp)
 
 Furthermore, this is how the shipping label will be downloaded in pdf form:
 
